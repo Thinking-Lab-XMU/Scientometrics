@@ -1,0 +1,279 @@
+# 12个基础统计分析
+
+
+# ---------------------1、每年发文量---------------------------------------------------
+-- SELECT PY, count(DISTINCT paper_id) as num
+-- FROM paper
+-- GROUP BY PY
+-- ORDER BY PY
+
+
+# --------------------2、期刊统计------------------------------------------------------
+# ---------2.1、总发文量前35期刊-------
+-- SELECT SO, count(DISTINCT paper_id) as num
+-- FROM paper
+-- GROUP BY SO
+-- ORDER BY num desc
+-- LIMIT 35
+
+# ---------2.2、发文前10期刊每年的发文量-------
+-- SELECT paper.SO, paper.PY, count(DISTINCT paper_id) as num
+-- FROM paper paper,
+-- (
+-- SELECT SO FROM paper GROUP BY SO ORDER BY count(paper_id) desc LIMIT 10
+-- )as a
+-- WHERE paper.SO=a.SO
+-- GROUP BY paper.SO, paper.PY
+-- ORDER BY paper.SO, paper.PY
+
+# ---------2.3、每年发文前10的期刊（期刊排名时序变化）-------
+-- SELECT SO, PY, count(DISTINCT paper_id) as num
+-- FROM paper
+-- GROUP BY SO, PY
+-- HAVING PY=2020
+-- ORDER BY num DESC
+-- LIMIT 15
+
+
+# --------------------3、发文国家统计------------------------------------------------------
+# ---------3.1、总发文量前35国家-------
+-- SELECT country_new, count(DISTINCT paper_id) as num
+-- FROM paper_country
+-- GROUP BY country_new
+-- ORDER BY num desc
+-- LIMIT 35
+
+# ---------3.2、发文前10国家每年的发文量------->第4个分析角度
+-- SELECT country_new, paper.PY, count(DISTINCT paper_country.paper_id) as num
+-- FROM paper_country, paper, (SELECT country_new as country_list
+-- 			FROM paper_country
+-- 			GROUP BY country_new
+-- 			ORDER BY count(DISTINCT paper_id) desc
+-- 			LIMIT 10)as c
+-- WHERE paper_country.paper_id=paper.paper_id and paper_country.country_new=c.country_list
+-- GROUP BY country_new, paper.PY
+-- ORDER BY country_new, paper.PY
+
+# ---------3.3、每年发文前10的国家（国家排名时序变化）-------
+-- SELECT country_new, paper.PY, count(DISTINCT paper_country.paper_id) as num
+-- FROM paper_country, paper
+-- WHERE paper_country.paper_id=paper.paper_id
+-- GROUP BY country_new, paper.PY
+-- HAVING PY=2020
+-- ORDER BY num DESC
+-- LIMIT 15
+
+# ---------3.4、前5国家独自发文与合作发文情况-------
+-- select country_new, count(paper_id) as paper_count
+-- FROM (
+-- SELECT paper_id, country_new, count(DISTINCT country_new) as country_count
+-- FROM paper_country
+-- GROUP BY paper_id
+-- HAVING country_count=1
+-- )a
+-- GROUP BY country_new
+-- HAVING country_new in ("USA", "Peoples R China", "France", "Australia", "Canada")
+
+
+# --------------------4、发文机构统计------------------------------------------------------（额，搁置了。。。）
+# ---------4.1、总发文量前35机构-------
+SELECT org_new, count(DISTINCT paper_id) as num, country_new
+FROM paper_country
+GROUP BY org_new
+ORDER BY num desc
+LIMIT 50
+
+# ---------4.2、发文前10机构每年的发文量
+-- SELECT org_new, country_new, paper.PY, count(DISTINCT paper_country.paper_id) as num
+-- FROM paper_country, paper, (SELECT org_new as org_list
+-- 			FROM paper_country
+-- 			GROUP BY org_new
+-- 			ORDER BY count(DISTINCT paper_id) desc
+-- 			LIMIT 10)as c
+-- WHERE paper_country.paper_id=paper.paper_id and paper_country.org_new=c.org_list
+-- GROUP BY org_new, paper.PY
+-- ORDER BY org_new, paper.PY
+
+# ---------4.3、每年发文前10的机构（机构排名时序变化）-------
+-- SELECT org_new, paper.PY, count(DISTINCT paper_country.paper_id) as num
+-- FROM paper_country, paper
+-- WHERE paper_country.paper_id=paper.paper_id
+-- GROUP BY org_new, paper.PY
+-- HAVING PY=2009
+-- ORDER BY num DESC
+-- LIMIT 15
+
+
+# --------------------5、发文前十国家的研究主题对比   LDA------------------------------------------------------
+
+
+
+# --------------------6、研究主题的年度变化   LDA------------------------------------------------------
+
+
+
+# --------------------7、资金来源统计------------------------------------------------------
+# ---------7.1、总前10资金来源-------
+-- SELECT financial_name_new, count(DISTINCT paper_id) as num
+-- FROM paper_financial
+-- GROUP BY financial_name_new
+-- HAVING financial_name_new is not null
+-- ORDER BY num desc
+-- LIMIT 20
+
+# ---------7.2、前10资助来源每年的资助量
+-- SELECT financial_name_new, paper.PY, count(DISTINCT paper_financial.paper_id) as num
+-- FROM paper_financial, paper, (SELECT financial_name_new as org_list
+-- 			FROM paper_financial
+-- 			GROUP BY financial_name_new
+-- 			HAVING financial_name_new is not null
+-- 			ORDER BY count(DISTINCT paper_id) desc
+-- 			LIMIT 5)as c
+-- WHERE paper_financial.paper_id=paper.paper_id and paper_financial.financial_name_new=c.org_list
+-- GROUP BY financial_name_new, paper.PY
+-- ORDER BY financial_name_new, paper.PY
+
+# ---------7.3、每年发文前10的机构（机构排名时序变化）-------
+-- SELECT financial_name_new, paper.PY, count(DISTINCT paper_financial.paper_id) as num
+-- FROM paper_financial, paper
+-- WHERE paper_financial.paper_id=paper.paper_id
+-- GROUP BY financial_name_new, paper.PY
+-- HAVING PY=2020 and financial_name_new is not null
+-- ORDER BY num DESC
+-- LIMIT 15
+
+# ----------------------------更新了资金来源表后重新分析-----------------------
+-- UPDATE paper_financial_new set financial_name_new=financial_name   # 复制资金来源列到新列
+
+# ---------7.1、总前10资金来源-------
+-- SELECT financial_name_new, count(DISTINCT paper_id) as num
+-- FROM paper_financial_new
+-- GROUP BY financial_name_new
+-- HAVING financial_name_new is not null
+-- ORDER BY num desc
+-- LIMIT 10
+
+# ---------7.2、前10资助来源每年的资助量
+-- SELECT financial_name_new, paper.PY, count(DISTINCT paper_financial_new.paper_id) as num
+-- FROM paper_financial_new, paper, (SELECT financial_name_new as org_list
+-- 			FROM paper_financial_new
+-- 			GROUP BY financial_name_new
+-- 			HAVING financial_name_new is not null
+-- 			ORDER BY count(DISTINCT paper_id) desc
+-- 			LIMIT 5)as c
+-- WHERE paper_financial_new.paper_id=paper.paper_id and paper_financial_new.financial_name_new=c.org_list
+-- GROUP BY financial_name_new, paper.PY
+-- ORDER BY financial_name_new, paper.PY
+
+# ---------7.3、每年发文前10的机构（机构排名时序变化）-------
+-- SELECT financial_name_new, paper.PY, count(DISTINCT paper_financial.paper_id) as num
+-- FROM paper_financial, paper
+-- WHERE paper_financial.paper_id=paper.paper_id
+-- GROUP BY financial_name_new, paper.PY
+-- HAVING PY=2020 and financial_name_new is not null
+-- ORDER BY num DESC
+-- LIMIT 15
+
+
+
+
+
+# --------------------11、学科分布统计（根据WC字段）------------------------------------------------------
+# ---------11.1、将WC字段拆分-------
+-- SELECT a.paper_id, TRIM(substring_index(substring_index(a.WC,';', b.help_topic_id + 1),';' ,- 1)) AS kind
+-- FROM paper a
+-- JOIN mysql.help_topic b ON b.help_topic_id < (length(a.WC) - length(REPLACE (a.WC, ';', '')) + 1)
+
+# ---------11.2、学科分布统计-------
+-- select `subject`, count(DISTINCT paper_id) as num
+-- FROM (
+-- 		SELECT a.paper_id, TRIM(substring_index(substring_index(a.WC,';', b.help_topic_id + 1),';' ,- 1)) AS `subject`
+-- 		FROM paper a
+-- 		JOIN mysql.help_topic b ON b.help_topic_id < (length(a.WC) - length(REPLACE (a.WC, ';', '')) + 1)
+-- 		) temp
+-- GROUP BY `subject`
+-- ORDER BY num desc
+-- LIMIT 10
+
+# ---------11.3、学科分布时序统计-------
+-- select `subject`, PY, count(DISTINCT paper_id) as num
+-- FROM (
+-- 		SELECT a.paper_id, a.PY, TRIM(substring_index(substring_index(a.WC,';', b.help_topic_id + 1),';' ,- 1)) AS `subject`
+-- 		FROM paper a
+-- 		JOIN mysql.help_topic b ON b.help_topic_id < (length(a.WC) - length(REPLACE (a.WC, ';', '')) + 1)
+-- 		) temp
+-- GROUP BY `subject`, PY
+-- HAVING PY=2020
+-- ORDER BY num desc
+-- LIMIT 15
+-- 
+
+
+# ---------11.4、前10国家的学科分布-------
+
+-- SELECT aa.kind, bb.country_new, count(DISTINCT aa.paper_id) as subject_num  # aa.paper_id, 
+-- FROM
+-- (   # 前十学科的分开
+-- SELECT a.paper_id, , TRIM(substring_index(substring_index(a.WC,';', b.help_topic_id + 1),';' ,- 1)) AS kind
+-- FROM paper a,
+-- (  # 查找出前10学科——》aaa
+-- select `subject`, count(DISTINCT paper_id) as num
+-- FROM (
+-- 		SELECT a.paper_id, TRIM(substring_index(substring_index(a.WC,';', b.help_topic_id + 1),';' ,- 1)) AS `subject`
+-- 		FROM paper a
+-- 		JOIN mysql.help_topic b ON b.help_topic_id < (length(a.WC) - length(REPLACE (a.WC, ';', '')) + 1)
+-- 		) temp
+-- GROUP BY `subject`
+-- ORDER BY num desc
+-- LIMIT 10
+-- )aaa
+-- WHERE 
+-- )aa
+
+
+-- (  # 查找出发文前10国家的论文
+-- SELECT paper_country.paper_id, paper_country.country_new
+-- FROM paper_country, 
+-- (   # 前10国家——》bbb
+-- SELECT country_new  , count(DISTINCT paper_id) as num
+-- FROM paper_country
+-- GROUP BY country_new
+-- ORDER BY count(DISTINCT paper_id) desc
+-- LIMIT 10
+-- )bbb
+-- WHERE paper_country.country_new=bbb.country_new
+-- GROUP BY paper_country.paper_id, paper_country.country_new
+-- )bb
+-- 
+-- WHERE aa.paper_id=bb.paper_id
+-- GROUP BY country_new, kind
+-- 
+
+
+# --------------------12、筛选出国家的数据------------------------------------------------------
+# 中国的数据
+-- SELECT paper_id, TI, AB 
+-- FROM paper
+-- WHERE paper_id in 
+-- (
+-- SELECT paper_id
+-- FROM paper_country
+-- WHERE country_new = "Peoples R China"
+-- )
+
+
+# 美国的数据
+-- SELECT paper_id, TI, AB 
+-- FROM paper
+-- WHERE paper_id in 
+-- (
+-- SELECT paper_id
+-- FROM paper_country
+-- WHERE country_new = "USA"
+-- )
+-- 
+
+
+
+
+

@@ -1,0 +1,3193 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gruber, V
+   Blanchet, S
+   Diet, A
+   Zahaf, O
+   Boualem, A
+   Kakar, K
+   Alunni, B
+   Udvardi, M
+   Frugier, F
+   Crespi, M
+AF Gruber, Veronique
+   Blanchet, Sandrine
+   Diet, Anouck
+   Zahaf, Ons
+   Boualem, Adnane
+   Kakar, Klementina
+   Alunni, Benoit
+   Udvardi, Michael
+   Frugier, Florian
+   Crespi, Martin
+TI Identification of transcription factors involved in root apex responses
+   to salt stress in Medicago truncatula
+SO MOLECULAR GENETICS AND GENOMICS
+LA English
+DT Article
+DE Abiotic stress; Legumes; Root meristem; Transcription factors;
+   Transcriptomics; Spatial expression
+ID GENE-EXPRESSION RESPONSES; ZINC-FINGER PROTEIN; ARABIDOPSIS-THALIANA;
+   MICROARRAY ANALYSIS; ABIOTIC STRESS; CDNA MICROARRAY; FUNCTIONAL
+   GENOMICS; SIGNALING PATHWAYS; DROUGHT STRESS; CROSS-TALK
+AB The root apex contains meristematic cells that determine root growth and architecture in the soil. Specific transcription factor (TF) genes in this region may integrate endogenous signals and external cues to achieve this. Early changes in transcriptional responses involving TF genes after a salt stress in Medicago truncatula (Mt) roots were analysed using two complementary transcriptomic approaches. Forty-six salt-regulated TF genes were identified using massive quantitative real-time RT-PCR TF profiling in whole roots. In parallel, Mt16K+ microarray analysis revealed 824 genes (including 84 TF sequences) showing significant changes (p < 0.001) in their expression in root apexes after a salt stress. Analysis of salt-stress regulation in root apexes versus whole roots showed that several TF genes have more than 30-fold expression differences including specific members of AP2/EREBP, HDZIP, and MYB TF families. Several salt-induced TF genes also respond to other abiotic stresses as osmotic stress, cold and heat, suggesting that they participate in a general stress response. Our work suggests that spatial differences of TF gene regulation by environmental stresses in various root regions may be crucial for the adaptation of their growth to specific soil environments.
+C1 [Gruber, Veronique; Blanchet, Sandrine; Diet, Anouck; Zahaf, Ons; Boualem, Adnane; Alunni, Benoit; Frugier, Florian; Crespi, Martin] CNRS, Inst Sci Vegetales, F-91198 Gif Sur Yvette, France.
+   [Gruber, Veronique; Diet, Anouck; Alunni, Benoit] Univ Paris 07, F-75205 Paris 13, France.
+   [Kakar, Klementina; Udvardi, Michael] Max Planck Inst Mol Plant Physiol, D-14476 Potsdam, Germany.
+RP Crespi, M (corresponding author), CNRS, Inst Sci Vegetales, F-91198 Gif Sur Yvette, France.
+EM crespi@isv.cnrs-gif.fr
+RI Crespi, Martin/AAB-1424-2020; Blanchet, Sandrine/F-6389-2019
+OI Crespi, Martin/0000-0002-5698-9482; Blanchet,
+   Sandrine/0000-0003-0779-6016; Udvardi, Michael/0000-0001-9850-0828;
+   Boualem, Adnane/0000-0003-4428-6496
+FU GRAIN LEGUMES Integrated Project [GLIP-EEC-FP6]; GLIP Fellowship;
+   Tunisian Government, Tunis
+FX We thank M. Stitt (MPI, Golm, Germany) for his useful suggestions and
+   support all along this work. We also thank J. M. Prosperi (INRA
+   Montpellier, France) for M. truncatula A17 seeds, L. Troussard (ISV,
+   France) for sequencing, J. L. Ichante, S. Imbeaud and H. Delacroix
+   (Plateforme GODMAP, CNRS Gif-sur-Yvette, France) for advices in
+   microarray experimental design and data analyses, B. Usadel (MPIMP Golm,
+   Germany) for providing Mapman BINs Mapping file for M. truncatula, H.
+   Kuester (Bielefeld University, Germany) for providing 16KOli + arrays.
+   This work was supported by the GRAIN LEGUMES Integrated Project
+   (GLIP-EEC-FP6) including also a GLIP Fellowship for A. B. and S. B. O.Z.
+   was the recipient of a grant from the Tunisian Government, Tunis.
+CR Ariel FD, 2007, TRENDS PLANT SCI, V12, P419, DOI 10.1016/j.tplants.2007.08.003
+   Barker D. G., 1990, Plant Molecular Biology Reporter, V8, P40, DOI 10.1007/BF02668879
+   Benfey PN, 2000, CURR BIOL, V10, pR813, DOI 10.1016/S0960-9822(00)00814-9
+   BENJAMINI Y, 1995, J R STAT SOC B, V57, P289, DOI 10.1111/j.2517-6161.1995.tb02031.x
+   Birnbaum K, 2003, SCIENCE, V302, P1956, DOI 10.1126/science.1090022
+   Brady SM, 2007, SCIENCE, V318, P801, DOI 10.1126/science.1146265
+   Buitink J, 2006, PLANT J, V47, P735, DOI 10.1111/j.1365-313X.2006.02822.x
+   Chao DY, 2005, CELL RES, V15, P796, DOI 10.1038/sj.cr.7290349
+   Chen WQ, 2002, PLANT CELL, V14, P559, DOI 10.1105/tpc.010410
+   Chen WQJ, 2004, TRENDS PLANT SCI, V9, P591, DOI 10.1016/j.tplants.2004.10.007
+   Chen YH, 2006, PLANT MOL BIOL, V60, P107, DOI 10.1007/s11103-005-2910-y
+   Cuming AC, 2007, NEW PHYTOL, V176, P275, DOI 10.1111/j.1469-8137.2007.02187.x
+   Czechowski T, 2004, PLANT J, V38, P366, DOI 10.1111/j.1365-313X.2004.02051.x
+   Devoto A, 2005, PHYSIOL PLANTARUM, V123, P161, DOI 10.1111/j.1399-3054.2004.00418.x
+   Dinneny JR, 2008, SCIENCE, V320, P942, DOI 10.1126/science.1153795
+   Frugier F, 2000, GENE DEV, V14, P475
+   He XJ, 2005, PLANT J, V44, P903, DOI 10.1111/j.1365-313X.2005.02575.x
+   Holmes P, 2008, BMC PLANT BIOL, V8, DOI 10.1186/1471-2229-8-21
+   Ito M, 2001, PLANT CELL, V13, P1891, DOI 10.1105/tpc.13.8.1891
+   JIANG Y, 2006, BMC PLANT BIOL, V6, P1471
+   Jin HL, 1999, PLANT MOL BIOL, V41, P577, DOI 10.1023/A:1006319732410
+   Kakar K, 2008, PLANT METHODS, V4, DOI 10.1186/1746-4811-4-18
+   Karaba A, 2007, P NATL ACAD SCI USA, V104, P15270, DOI 10.1073/pnas.0707294104
+   Kim JC, 2001, PLANT J, V25, P247, DOI 10.1046/j.1365-313x.2001.00947.x
+   Kizis D, 2001, FEBS LETT, V498, P187, DOI 10.1016/S0014-5793(01)02460-7
+   Kreps JA, 2002, PLANT PHYSIOL, V130, P2129, DOI 10.1104/pp.008532
+   Kumari M, 2008, MOL GENET GENOMICS, V279, P339, DOI 10.1007/s00438-007-0316-z
+   Lee BJ, 2006, BIOCHEM BIOPH RES CO, V344, P55, DOI 10.1016/j.bbrc.2006.03.153
+   Li FL, 2005, GENOMICS, V86, P718, DOI 10.1016/j.ygeno.2005.07.006
+   Ludwig AA, 2005, P NATL ACAD SCI USA, V102, P10736, DOI 10.1073/pnas.0502954102
+   Ma SS, 2007, GENOME BIOL, V8, DOI 10.1186/gb-2007-8-4-r49
+   Ma SS, 2006, J EXP BOT, V57, P1097, DOI 10.1093/jxb/erj098
+   Marisa L, 2007, BIOINFORMATICS, V23, P2339, DOI 10.1093/bioinformatics/btm321
+   Merchan F, 2003, PLANT SOIL, V257, P1, DOI 10.1023/A:1026256415556
+   Merchan F, 2007, PLANT J, V51, P1, DOI 10.1111/j.1365-313X.2007.03117.x
+   Mittler R, 2006, TRENDS PLANT SCI, V11, P15, DOI 10.1016/j.tplants.2005.11.002
+   Nakashima K, 2007, PLANT J, V51, P617, DOI 10.1111/j.1365-313X.2007.03168.x
+   Ni YX, 2008, ACTA BIOCH BIOPH SIN, V40, P78, DOI 10.1111/j.1745-7270.2008.00371.x
+   Osuna D, 2007, PLANT J, V49, P463, DOI 10.1111/j.1365-313X.2006.02979.x
+   Ouyang B, 2007, J EXP BOT, V58, P507, DOI 10.1093/jxb/erl258
+   Potters G, 2007, TRENDS PLANT SCI, V12, P98, DOI 10.1016/j.tplants.2007.01.004
+   Ramanjulu S, 2002, PLANT CELL ENVIRON, V25, P141, DOI 10.1046/j.0016-8025.2001.00764.x
+   Riechmann JL, 2000, SCIENCE, V290, P2105, DOI 10.1126/science.290.5499.2105
+   Sanchez DH, 2008, PLANT J, V53, P973, DOI 10.1111/j.1365-313X.2007.03381.x
+   Scheible WR, 2004, PLANT PHYSIOL, V136, P2483, DOI 10.1104/pp.104.047019
+   Seki M, 2002, PLANT J, V31, P279, DOI 10.1046/j.1365-313X.2002.01359.x
+   Sharp RE, 2004, J EXP BOT, V55, P2343, DOI 10.1093/jxb/erh276
+   Shinozaki K, 2000, CURR OPIN PLANT BIOL, V3, P217, DOI 10.1016/S1369-5266(00)00067-4
+   Shukla RK, 2006, PLANT PHYSIOL, V142, P113, DOI 10.1104/pp.106.081752
+   Stracke R, 2001, CURR OPIN PLANT BIOL, V4, P447, DOI 10.1016/S1369-5266(00)00199-0
+   Sun FF, 2008, PLANT PHYSIOL, V146, P178, DOI 10.1104/pp.107.109413
+   Swindell WR, 2006, GENETICS, V174, P1811, DOI 10.1534/genetics.106.061374
+   Tellstrom V, 2007, PLANT PHYSIOL, V143, P825, DOI 10.1104/pp.106.090985
+   Thimm O, 2004, PLANT J, V37, P914, DOI 10.1111/j.1365-313X.2004.02016.x
+   Tran LSP, 2004, PLANT CELL, V16, P2481, DOI 10.1105/tpc.104.022699
+   Udvardi MK, 2007, PLANT PHYSIOL, V144, P538, DOI 10.1104/pp.107.098061
+   Verdier J, 2008, PLANT MOL BIOL, V67, P567, DOI 10.1007/s11103-008-9320-x
+   Walia H, 2005, PLANT PHYSIOL, V139, P822, DOI 10.1104/pp.105.065961
+   Wang H, 2003, PLANT MOL BIOL, V52, P873, DOI 10.1023/A:1025029026375
+   Winicov I, 2000, PLANTA, V210, P416, DOI 10.1007/PL00008150
+   Yamasaki K, 2004, PLANT CELL, V16, P3448, DOI 10.1105/tpc.104.026112
+   Yang YH, 2002, NUCLEIC ACIDS RES, V30, DOI 10.1093/nar/30.4.e15
+   Zhang JY, 2005, PLANT J, V42, P689, DOI 10.1111/j.1365-313X.2005.02405.x
+   Zhu JK, 2002, ANNU REV PLANT BIOL, V53, P247, DOI 10.1146/annurev.arplant.53.091401.143329
+NR 64
+TC 46
+Z9 59
+U1 2
+U2 28
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1617-4615
+EI 1617-4623
+J9 MOL GENET GENOMICS
+JI Mol. Genet. Genomics
+PD JAN
+PY 2009
+VL 281
+IS 1
+BP 55
+EP 66
+DI 10.1007/s00438-008-0392-8
+PG 12
+WC Biochemistry & Molecular Biology; Genetics & Heredity
+SC Biochemistry & Molecular Biology; Genetics & Heredity
+GA 421JI
+UT WOS:000264354800006
+PM 18987888
+OA Bronze, Green Published
+DA 2020-08-14
+ER
+
+PT J
+AU Gimeno-Gilles, C
+   Lelievre, E
+   Viau, L
+   Malik-Ghulam, M
+   Ricoult, C
+   Niebel, A
+   Leduc, N
+   Limami, AM
+AF Gimeno-Gilles, Christine
+   Lelievre, Eric
+   Viau, Laure
+   Malik-Ghulam, Mustafa
+   Ricoult, Claudie
+   Niebel, Andreas
+   Leduc, Nathalie
+   Limami, Anis M.
+TI ABA-Mediated Inhibition of Germination Is Related to the Inhibition of
+   Genes Encoding Cell-Wall Biosynthetic and Architecture: Modifying
+   Enzymes and Structural Proteins in Medicago truncatula Embryo Axis
+SO MOLECULAR PLANT
+LA English
+DT Article
+DE ABA; cell-wall expansion; germination; Medicago truncatula; radicle
+   emergence; XET
+ID BARLEY ALEURONE; DIFFERENTIAL EXPRESSION; POSTGERMINATIVE GROWTH;
+   ARABIDOPSIS; SEEDS; CYCLE; GIBBERELLIN; METABOLISM; ROLES; DEATH
+AB Radicle emergence and reserves mobilization are two distinct programmes that are thought to control germination. Both programs are influenced by abscissic acid (ABA) but how this hormone controls seed germination is still poorly known. Phenotypic and microscopic observations of the embryo axis of Medicago truncatula during germination in mitotic inhibition condition triggered by 10 mu M oryzalin showed that cell division was not required to allow radicle emergence. A suppressive subtractive hybridization showed that more than 10% of up-regulated genes in the embryo axis encoded proteins related to cell-wall biosynthesis. The expression of alpha-expansins, pectin-esterase, xylogucan-endotransglycosidase, cellulose synthase, and extensins was monitored in the embryo axis of seeds germinated on water, constant and transitory ABA. These genes were overexpressed before completion of germination in the control and strongly inhibited by ABA. The expression was re-established in the ABA transitory-treatment after the seeds were transferred back on water and proceeded to germination. This proves these genes as contributors to the completion of germination and strengthen the idea that cell-wall loosening and remodeling in relation to cell expansion in the embryo axis is a determinant feature in germination. Our results also showed that ABA controls germination through the control of radicle emergence, namely by inhibiting cell-wall loosening and expansion.
+C1 [Gimeno-Gilles, Christine; Lelievre, Eric; Viau, Laure; Malik-Ghulam, Mustafa; Ricoult, Claudie; Limami, Anis M.] Univ Angers, UMR A 1191, F-49045 Angers, France.
+   [Niebel, Andreas] INRA, CNRS, UMR 441, Lab Biol Mol Relat Plantes Microorgan LIPM, F-31326 Castanet Tolosan, France.
+   [Leduc, Nathalie] Univ Angers, UMR Sci Agron Appl Hort SAGAH, F-49045 Angers, France.
+RP Limami, AM (corresponding author), Univ Angers, UMR A 1191, 2 Bd Lavoisier, F-49045 Angers, France.
+EM anis.limami@univ-angers.fr
+RI Lelievre, Eric/M-2878-2015; Limami, Anis/D-3184-2019
+OI Limami, Anis/0000-0002-9985-2363; Niebel, Andreas/0000-0002-3402-8381
+FU EUEuropean Union (EU) [FOOD-CT-2004- 506223]
+FX This work was funded by grants from the EU FP6 project FOOD-CT-2004-
+   506223, 'Grain Legumes Integrated Project (GLIP)' and COSAVE Contract
+   with Region Pays de la Loire, France. No conflict of interest declared.
+CR Baskin CC, 1998, SEEDS ECOLOGY BIOGEO
+   Bethke PC, 2001, PLANT J, V25, P19, DOI 10.1046/j.1365-313x.2001.00930.x
+   Bewley JD, 1997, PLANT CELL, V9, P1055, DOI 10.1105/tpc.9.7.1055
+   Bouton S, 2005, J EXP BOT, V56, P825, DOI 10.1093/jxb/eri077
+   Eastmond PJ, 2000, P NATL ACAD SCI USA, V97, P5669, DOI 10.1073/pnas.97.10.5669
+   Faria JMR, 2005, J EXP BOT, V56, P2119, DOI 10.1093/jxb/eri210
+   Fath A, 2001, PLANT PHYSIOL, V126, P156, DOI 10.1104/pp.126.1.156
+   Finkelstein RR, 2000, PLANT PHYSIOL, V122, P1179, DOI 10.1104/pp.122.4.1179
+   Finkelstein RR, 2002, PLANT CELL, V14, pS15, DOI 10.1105/tpc.010441
+   Francis D, 2007, NEW PHYTOL, V174, P261, DOI 10.1111/j.1469-8137.2007.02038.x
+   Gallardo K, 2003, PLANT PHYSIOL, V133, P664, DOI 10.1104/pp.103.025254
+   Garciarrubio A, 1997, PLANTA, V203, P182, DOI 10.1007/s004250050180
+   Glevarec G, 2004, PLANTA, V219, P286, DOI 10.1007/s00425-004-1214-9
+   Gomez-Cadenas A, 2001, PLANT CELL, V13, P667, DOI 10.1105/tpc.13.3.667
+   Holmes P, 2008, BMC PLANT BIOL, V8, DOI 10.1186/1471-2229-8-21
+   Lerouxel O, 2006, CURR OPIN PLANT BIOL, V9, P621, DOI 10.1016/j.pbi.2006.09.009
+   Limami AM, 2002, PLANT PHYSIOL, V130, P1860, DOI 10.1104/pp.009647
+   Lovegrove A, 2000, TRENDS PLANT SCI, V5, P102, DOI 10.1016/S1360-1385(00)01571-5
+   Marga F, 2005, PLANT J, V43, P181, DOI 10.1111/j.1365-313X.2005.02447.x
+   Merchan F, 2007, PLANT J, V51, P1, DOI 10.1111/j.1365-313X.2007.03117.x
+   Milioni D, 2001, PLANT MOL BIOL, V47, P221, DOI 10.1023/A:1010647902487
+   Pritchard SL, 2002, PLANT J, V31, P639, DOI 10.1046/j.1365-313X.2002.01376.x
+   Sampedro J, 2005, GENOME BIOL, V6, DOI 10.1186/gb-2005-6-12-242
+   Schrader J, 2004, PLANT CELL, V16, P2278, DOI 10.1105/tpc.104.024190
+   VICKY ST, 2007, ANN BOT-LONDON, V99, P39
+   Vissenberg K, 2005, J EXP BOT, V56, P673, DOI 10.1093/jxb/eri048
+   Vissenberg K, 2005, PLANT CELL PHYSIOL, V46, P192, DOI 10.1093/pcp/pci013
+NR 27
+TC 51
+Z9 55
+U1 0
+U2 18
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 1674-2052
+EI 1752-9867
+J9 MOL PLANT
+JI Mol. Plant.
+PD JAN
+PY 2009
+VL 2
+IS 1
+BP 108
+EP 119
+DI 10.1093/mp/ssn092
+PG 12
+WC Biochemistry & Molecular Biology; Plant Sciences
+SC Biochemistry & Molecular Biology; Plant Sciences
+GA 418ZL
+UT WOS:000264188800010
+PM 19529818
+OA Green Published
+DA 2020-08-14
+ER
+
+PT J
+AU Uppalapati, SR
+   Marek, SM
+   Lee, HK
+   Nakashima, J
+   Tang, Y
+   Sledge, MK
+   Dixon, RA
+   Mysore, KS
+AF Uppalapati, Srinivasa Rao
+   Marek, Stephen M.
+   Lee, Hee-Kyung
+   Nakashima, Jin
+   Tang, Yuhong
+   Sledge, Mary K.
+   Dixon, Richard A.
+   Mysore, Kirankumar S.
+TI Global Gene Expression Profiling During Medicago
+   truncatula-Phymatotrichopsis omnivora Interaction Reveals a Role for
+   Jasmonic Acid, Ethylene, and the Flavonoid Pathway in Disease
+   Development
+SO MOLECULAR PLANT-MICROBE INTERACTIONS
+LA English
+DT Article
+DE cotton root rot; necrotrophic; Pezizomycetes
+ID INSERTIONAL MUTAGENESIS; SIGNAL-TRANSDUCTION; COTTON SEEDLINGS; STRESS
+   RESPONSES; CELL-DEATH; PROTEINS; FUNGI; DETOXIFICATION; PATHOGENICITY;
+   RESISTANCE
+AB Phymatotrichopsis omnivora (Duggar) Hennebert causes a destructive root rot in cotton, alfalfa (Medicago sativa), and many other dicot species. No consistently effective control measures or resistant host germplasm for Phymatotrichum root rot (PRR) are known. The relative genetic intractability of cotton and alfalfa precludes their use as model pathosystem hosts for P. omnivora. Therefore, we used the model legume M. truncatula and its available genetic and genomic resources to investigate PRR. Confocal imaging of P. omnivora interactions with M. truncatula roots revealed that the mycelia do not form any specialized structures for penetration and mainly colonize cortical cells and, eventually, form a mycelial mantle covering the root's surfaces. Expression profiling of M. truncatula roots infected by P. omnivora identified several upregulated genes, including the pathogenesis-related class I and class IV chitinases and genes involved in reactive oxygen species generation and phytohormone (jasmonic acid and ethylene) signaling. Genes involved in flavonoid biosynthesis were induced (2.5- to 10-fold over mock-inoculated controls) at 3 days postinoculation (dpi) in response to fungal penetration. However, the expression levels of flavonoid biosynthesis genes returned to the basal levels with the progress of the disease at 5 dpi. These transcriptome results, confirmed by real-time quantitative polymerase chain reaction analyses, showed that P. omnivora apparently evades induced host defenses and may downregulate phytochemical defenses at later stages of infection to favor pathogenesis.
+C1 [Uppalapati, Srinivasa Rao; Nakashima, Jin; Tang, Yuhong; Dixon, Richard A.; Mysore, Kirankumar S.] Samuel Roberts Noble Fdn Inc, Div Plant Biol, Ardmore, OK 73401 USA.
+   [Marek, Stephen M.] Oklahoma State Univ, Dept Entomol & Plant Pathol, Stillwater, OK 74078 USA.
+   [Sledge, Mary K.] Samuel Roberts Noble Fdn Inc, Forage Improvement Div, Ardmore, OK 73401 USA.
+RP Mysore, KS (corresponding author), Samuel Roberts Noble Fdn Inc, Div Plant Biol, Ardmore, OK 73401 USA.
+EM ksmysore@noble.org
+RI Mysore, Kirankumar/AAG-7112-2020; Marek, Stephen/M-9865-2013; Marek,
+   Stephen/Q-6911-2019; Marek, Stephen/A-7610-2013
+OI Mysore, Kirankumar/0000-0002-9805-5741; Marek,
+   Stephen/0000-0002-0146-8049; Marek, Stephen/0000-0002-0146-8049; Marek,
+   Stephen/0000-0002-0146-8049; Tang, Yuhong/0000-0003-2967-778X;
+   Nakashima, Jin/0000-0002-7714-2096
+FU Consortium for Legume Research from the Oklahoma State Regents for
+   Higher Education; Noble Foundation; Oklahoma Agricultural Experiment
+   Station Project 2536; Oklahoma Department of Agriculture; Food and
+   Forestry; Noble Foundation was from an equipment grant from the National
+   Science Foundation [DBI 0400580]
+FX This work was supported by a grant to the Consortium for Legume Research
+   from the Oklahoma State Regents for Higher Education and in part by
+   funding from the Noble Foundation, Oklahoma Agricultural Experiment
+   Station Project 2536 ( to S. M. Marek), and the Oklahoma Department of
+   Agriculture, Food and Forestry. We thank S. Allen for help with RT-qPCR
+   and microarray experiments, E. Urbanczyk-Wochniak for help with
+   annotation of Affymetrix Medicago gene set, and C. Young and V. Benedito
+   for reviewing the manuscript. The confocal system used at the Noble
+   Foundation was from an equipment grant from the National Science
+   Foundation (DBI 0400580).
+CR Bae H, 2006, PLANT PHYSIOL, V141, P1056, DOI 10.1104/pp.106.076869
+   BEINTEMA JJ, 1994, FEBS LETT, V350, P159, DOI 10.1016/0014-5793(94)00753-5
+   Benedito VA, 2008, PLANT J, V55, P504, DOI 10.1111/j.1365-313X.2008.03519.x
+   BHATTACHARYYA MK, 1985, PHYSIOL MOL PLANT P, V27, P2691
+   Bieri S, 2003, MOL BREEDING, V11, P37, DOI 10.1023/A:1022145915983
+   Blank LM, 1940, PHYTOPATHOLOGY, V30, P1033
+   BLOUNT JW, 1992, PHYSIOL MOL PLANT P, V41, P333, DOI 10.1016/0885-5765(92)90020-V
+   COLLINGE DB, 1993, PLANT J, V3, P31, DOI 10.1046/j.1365-313X.1993.t01-1-00999.x
+   Dixon RA, 1999, TRENDS PLANT SCI, V4, P394, DOI 10.1016/S1360-1385(99)01471-5
+   Dozmorov I, 2003, BIOINFORMATICS, V19, P204, DOI 10.1093/bioinformatics/19.2.204
+   Gao LL, 2008, PLANT PHYSIOL, V146, P996, DOI 10.1104/pp.107.111971
+   Genre A, 2005, PLANT CELL, V17, P3489, DOI 10.1105/tpc.105.035410
+   Glazebrook J, 2005, ANNU REV PHYTOPATHOL, V43, P205, DOI 10.1146/annurev.phyto.43.040204.135923
+   Goffard N, 2007, BMC BIOINFORMATICS, V8, DOI 10.1186/1471-2105-8-87
+   Goffard N, 2006, BIOINFORMATICS, V22, P2958, DOI 10.1093/bioinformatics/btl517
+   Govrin EM, 2000, CURR BIOL, V10, P751, DOI 10.1016/S0960-9822(00)00560-1
+   Hano C, 2008, PLANT PHYSIOL BIOCH, V46, P590, DOI 10.1016/j.plaphy.2008.02.004
+   HARBORNE JB, 1977, PURE APPL CHEM, V49, P1403, DOI 10.1351/pac197749091403
+   Henderson L, 1937, AM J BOT, V24, P547, DOI 10.2307/2437078
+   Hennebert G. L., 1973, Persoonia, V7, P183
+   Irizarry RA, 2003, NUCLEIC ACIDS RES, V31, DOI 10.1093/nar/gng015
+   JACH G, 1995, PLANT J, V8, P97, DOI 10.1046/j.1365-313X.1995.08010097.x
+   Leek JT, 2006, BIOINFORMATICS, V22, P507, DOI 10.1093/bioinformatics/btk005
+   Li C, 2001, P NATL ACAD SCI USA, V98, P31, DOI 10.1073/pnas.011404098
+   Lorito M, 1998, P NATL ACAD SCI USA, V95, P7860, DOI 10.1073/pnas.95.14.7860
+   Lozovaya VV, 2004, CROP SCI, V44, P819, DOI 10.2135/cropsci2004.0819
+   LYDA SD, 1978, ANNU REV PHYTOPATHOL, V16, P193, DOI 10.1146/annurev.py.16.090178.001205
+   LYDA SD, 1992, METHODS RES SOILBORN, P145
+   MAREK SM, PHYMATOTRIC IN PRESS
+   McDowell JM, 2000, TRENDS BIOCHEM SCI, V25, P79, DOI 10.1016/S0968-0004(99)01532-7
+   Okubara PA, 2005, PLANT SOIL, V274, P215, DOI 10.1007/s11104-004-7328-9
+   PAMMEL LH, 1888, TEXAS AGR EXP STN AN, V1, P3
+   Pedras MSC, 2005, PHYTOCHEMISTRY, V66, P391, DOI 10.1016/j.phytochem.2004.12.032
+   PERCY RG, 1983, PLANT DIS, V67, P981, DOI 10.1094/PD-67-981
+   POSTEK MT, 1977, J MICROSC-OXFORD, V110, P71, DOI 10.1111/j.1365-2818.1977.tb00015.x
+   Qutob D, 2006, PLANT CELL, V18, P3721, DOI 10.1105/tpc.106.044180
+   Rogers CH, 1938, AM J BOT, V25, P244, DOI 10.2307/2436650
+   Rotter A, 2007, PLANT METHODS, V3, DOI 10.1186/1746-4811-3-10
+   Salzer P, 2000, MOL PLANT MICROBE IN, V13, P763, DOI 10.1094/MPMI.2000.13.7.763
+   Staats M, 2007, FUNGAL GENET BIOL, V44, P52, DOI 10.1016/j.fgb.2006.07.003
+   Storey JD, 2003, P NATL ACAD SCI USA, V100, P9440, DOI 10.1073/pnas.1530509100
+   STREETS RB, 1973, AM PHYTOPATHOL SOC M, V8, P1
+   Tadege M, 2005, TRENDS PLANT SCI, V10, P229, DOI 10.1016/j.tplants.2005.03.009
+   Tadege M, 2008, PLANT J, V54, P335, DOI 10.1111/j.1365-313X.2008.03418.x
+   Tahara S, 2007, BIOSCI BIOTECH BIOCH, V71, P1387, DOI 10.1271/bbb.70028
+   Thomma BPHJ, 2001, CURR OPIN IMMUNOL, V13, P63, DOI 10.1016/S0952-7915(00)00183-7
+   Uppalapati SR, 2004, PHYSIOL MOL PLANT P, V64, P17, DOI 10.1016/j.pmpp.2004.05.003
+   Uppalapati SR, 2008, MOL PLANT MICROBE IN, V21, P383, DOI 10.1094/MPMI-21-4-0383
+   van Loon LC, 2006, ANNU REV PHYTOPATHOL, V44, P135, DOI 10.1146/annurev.phyto.44.070505.143425
+   Vandesompele J, 2002, GENOME BIOL, V3, DOI 10.1186/gb-2002-3-7-research0034
+   VANETTEN HD, 1989, ANNU REV PHYTOPATHOL, V27, P143, DOI 10.1146/annurev.py.27.090189.001043
+   VOGEL HJ, 1964, AM NAT, V98, P435, DOI 10.1086/282338
+   Young ND, 2005, PLANT PHYSIOL, V137, P1174, DOI 10.1104/pp.104.057034
+NR 53
+TC 50
+Z9 50
+U1 0
+U2 16
+PU AMER PHYTOPATHOLOGICAL SOC
+PI ST PAUL
+PA 3340 PILOT KNOB ROAD, ST PAUL, MN 55121 USA
+SN 0894-0282
+EI 1943-7706
+J9 MOL PLANT MICROBE IN
+JI Mol. Plant-Microbe Interact.
+PD JAN
+PY 2009
+VL 22
+IS 1
+BP 7
+EP 17
+DI 10.1094/MPMI-22-1-0007
+PG 11
+WC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Plant Sciences
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Plant Sciences
+GA 394IU
+UT WOS:000262441200001
+PM 19061398
+OA Bronze
+DA 2020-08-14
+ER
+
+PT J
+AU Hohnjec, N
+   Lenz, F
+   Fehlberg, V
+   Vieweg, MF
+   Baier, MC
+   Hause, B
+   Kuster, H
+AF Hohnjec, Natalija
+   Lenz, Frauke
+   Fehlberg, Vera
+   Vieweg, Martin F.
+   Baier, Markus C.
+   Hause, Bettina
+   Kuester, Helge
+TI The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25
+   Operates as an Address Label for the Specific Targeting of Proteins to
+   Nitrogen-Fixing Symbiosomes
+SO MOLECULAR PLANT-MICROBE INTERACTIONS
+LA English
+DT Article
+DE alternative splicing; confocal laser-scanning microscopy; mRFP
+ID VICIA-FABA L; ROOT-NODULES; GENE-EXPRESSION; PERIBACTEROID MEMBRANE;
+   ARBUSCULAR MYCORRHIZA; SYMBIOTIC MEMBRANES; LOTUS-JAPONICUS; ALFALFA
+   NODULES; LEGUME NODULES; IDENTIFICATION
+AB The nodule-specific MtNOD25 gene of the model legume Medicago truncatula encodes a modular nodulin composed of different repetitive modules flanked by distinct N- and C-termini. Although similarities are low with respect to all repetitive modules, both the N-terminal signal peptide (SP) and the C-terminus are highly conserved in modular nodulins from different legumes. On the cellular level, MtNOD25 is only transcribed in the infected cells of root nodules, and this activation is mediated by a 299-bp minimal promoter containing an organ-specific element. By expressing mGFP6 translational fusions in transgenic nodules, we show that MtNOD25 proteins are exclusively translocated to the symbiosomes of infected cells. This specific targeting only requires an N-terminal MtNOD25 SP that is highly conserved across a family of legume-specific symbiosome proteins. Our finding sheds light on one possible mechanism for the delivery of host proteins to the symbiosomes of infected root nodule cells and, in addition, defines a short molecular address label of only 24 amino acids whose N-terminal presence is sufficient to translocate proteins across the peribacteroid membrane.
+C1 [Hohnjec, Natalija; Lenz, Frauke; Fehlberg, Vera; Vieweg, Martin F.; Baier, Markus C.; Kuester, Helge] Univ Bielefeld, Inst Genome Res & Syst Biol IGS, D-33594 Bielefeld, Germany.
+   [Hohnjec, Natalija; Kuester, Helge] Univ Bielefeld, Int Grad Sch Bioinformat & Genome Res, Ctr Biotechnol CeBiTec, D-33594 Bielefeld, Germany.
+   [Hause, Bettina] Leibniz Inst Plant Biochem, D-06108 Halle, Germany.
+RP Kuster, H (corresponding author), Univ Bielefeld, Inst Genome Res & Syst Biol IGS, D-33594 Bielefeld, Germany.
+EM Helge.Kuester@Genetik.Uni-Bielefeld.de
+RI Kuster, Helge/A-4487-2013
+OI Kuster, Helge/0000-0002-9197-9802
+FU International Graduate School in Bioinformatics and Genome Research;
+   CeBiTec, Bielefeld University, Germany
+FX We are grateful to P. Gamas (INRA-CNRS, Toulouse, France) and M. Crespi
+   (CNRS, Gif-sur-Yvette, France) for providing M. truncatula cDNA
+   libraries, to T. Huguet (INRA-CNRS, Toulouse, France) for supplying M.
+   truncatula Jemalong A17 seed, and to T. Bisseling (Wageningen
+   University, The Netherlands) for the supply of S. meliloti Sm2011-mRFP.
+   Nylon membranes representing a genomic BAC library of M. truncatula cv.
+   A17 were a kind gift of D. Cook ( University of California-Davis, Davis,
+   U. S. A.). We acknowledge H. Densow (Biometra GmbH, Gottingen, Germany)
+   for sharing the p35S-mGFP6 vector. N.Hohnjec and H. Kuster received
+   financial support from the "International Graduate School in
+   Bioinformatics and Genome Research" (CeBiTec, Bielefeld University,
+   Germany).
+CR Alunni B, 2007, MOL PLANT MICROBE IN, V20, P1138, DOI 10.1094/MPMI-20-9-1138
+   Auriac MC, 2007, MOL PLANT MICROBE IN, V20, P1040, DOI 10.1094/MPMI-20-9-1040
+   Bairoch A, 2004, BRIEF BIOINFORM, V5, P39, DOI 10.1093/bib/5.1.39
+   BEVAN M, 1984, NUCLEIC ACIDS RES, V12, P8711, DOI 10.1093/nar/12.22.8711
+   Boutet Emmanuel, 2007, V406, P89
+   BREWIN NJ, 1991, ANNU REV CELL BIOL, V7, P191, DOI 10.1146/annurev.cb.07.110191.001203
+   BULLOCK WO, 1987, BIOTECHNIQUES, V5, P376
+   Carvalho HG, 2003, PLANT PHYSIOL, V133, P243, DOI 10.1104/pp.102.017830
+   Catalano CM, 2004, ELECTROPHORESIS, V25, P519, DOI 10.1002/elps.200305711
+   Chen MH, 2004, PLANT PHYSIOL, V135, P1367, DOI 10.1104/pp.104.042184
+   Colebatch G, 2004, PLANT J, V39, P487, DOI 10.1111/j.1365-313X.2004.02150.x
+   Coque L, 2008, MOL PLANT MICROBE IN, V21, P404, DOI 10.1094/MPMI-21-4-0404
+   Crespi M, 2000, J PLANT GROWTH REGUL, V19, P155
+   Crooks GE, 2004, GENOME RES, V14, P1188, DOI 10.1101/gr.849004
+   Cullimore J, 2003, SCIENCE, V302, P575, DOI 10.1126/science.1091269
+   Day DA, 2001, AUST J PLANT PHYSIOL, V28, P667, DOI 10.1071/PP01028
+   Doyle JJ, 2003, PLANT PHYSIOL, V131, P900, DOI 10.1104/pp.102.018150
+   El Yahyaoui F, 2004, PLANT PHYSIOL, V136, P3159, DOI 10.1104/pp.104.043612
+   Emanuelsson O, 2007, NAT PROTOC, V2, P953, DOI 10.1038/nprot.2007.131
+   Fedorova M, 2002, PLANT PHYSIOL, V130, P519, DOI 10.1104/pp.006833
+   Fruhling M, 2000, PLANT SCI, V152, P67, DOI 10.1016/S0168-9452(99)00219-8
+   Gamas P, 1996, MOL PLANT MICROBE IN, V9, P233, DOI 10.1094/MPMI-9-0233
+   GANTER G, 1998, PLANT PHYSIOL, V118, P330
+   Geurts R, 2002, PLANT CELL, V14, pS239, DOI 10.1105/tpc.002451
+   Graham MA, 2004, PLANT PHYSIOL, V135, P1179, DOI 10.1104/pp.104.037531
+   Gyorgyey J, 2000, MOL PLANT MICROBE IN, V13, P62, DOI 10.1094/MPMI.2000.13.1.62
+   Haseloff J, 1999, METHOD CELL BIOL, V58, P139
+   Haseloff J, 1997, P NATL ACAD SCI USA, V94, P2122, DOI 10.1073/pnas.94.6.2122
+   Hohnjec N, 2003, MOL PLANT MICROBE IN, V16, P903, DOI 10.1094/MPMI.2003.16.10.903
+   Hohnjec N, 2005, PLANT PHYSIOL, V137, P1283, DOI 10.1104/pp.104.056572
+   Journet EP, 2002, NUCLEIC ACIDS RES, V30, P5579, DOI 10.1093/nar/gkf685
+   Kaijalainen S, 2002, PHYSIOL PLANTARUM, V114, P588, DOI 10.1034/j.1399-3054.2002.1140412.x
+   KISS GB, 1993, MOL GEN GENET, V238, P129, DOI 10.1007/BF00279539
+   KISS GB, 1990, PLANT MOL BIOL, V14, P467, DOI 10.1007/BF00027493
+   Kuster H, 1995, PLANT MOL BIOL, V29, P759, DOI 10.1007/BF00041166
+   Kuster H, 1999, PLANT SCI, V149, P1, DOI 10.1016/S0168-9452(99)00070-9
+   Kuster H, 2004, J BIOTECHNOL, V108, P95, DOI 10.1016/j.jbiotec.2003.11.011
+   KUSTER H, 1994, PLANT MOL BIOL, V24, P143, DOI 10.1007/BF00040581
+   Kuster H, 1996, MOL GEN GENET, V252, P648
+   Liu JQ, 2006, PLANT PHYSIOL, V141, P167, DOI 10.1104/pp.106.076711
+   MEADE HM, 1977, P NATL ACAD SCI USA, V74, P2076, DOI 10.1073/pnas.74.5.2076
+   Mergaert P, 2003, PLANT PHYSIOL, V132, P161, DOI 10.1104/pp.102.018192
+   Nam YW, 1999, THEOR APPL GENET, V98, P638, DOI 10.1007/s001220051115
+   NOTHWEHR SF, 1990, BIOESSAYS, V12, P479, DOI 10.1002/bies.950121005
+   Oldroyd GED, 2006, CURR OPIN PLANT BIOL, V9, P351, DOI 10.1016/j.pbi.2006.05.003
+   Parniske M, 2000, CURR OPIN PLANT BIOL, V3, P320, DOI 10.1016/S1369-5266(00)00088-1
+   Pawlowski K, 1997, PHYSIOL PLANTARUM, V99, P617, DOI 10.1034/j.1399-3054.1997.990414.x
+   PENG T, 1994, PLANT SCI, V101, P65, DOI 10.1016/0168-9452(94)90165-1
+   PERLICK AM, 1993, PLANT MOL BIOL, V22, P957, DOI 10.1007/BF00028969
+   PRIDMORE RD, 1987, GENE, V56, P309, DOI 10.1016/0378-1119(87)90149-1
+   Quackenbush J, 2001, NUCLEIC ACIDS RES, V29, P159, DOI 10.1093/nar/29.1.159
+   QUANDT HJ, 1993, MOL PLANT MICROBE IN, V6, P699, DOI 10.1094/MPMI-6-699
+   Quevillon E, 2005, NUCLEIC ACIDS RES, V33, pW116, DOI 10.1093/nar/gki442
+   Saalbach G, 2002, PROTEOMICS, V2, P325, DOI 10.1002/1615-9861(200203)2:3<325::AID-PROT325>3.0.CO;2-W
+   Sambrook J, 1989, MOL CLONING LAB MANU
+   Schaarschmidt S, 2006, J EXP BOT, V57, P4015, DOI 10.1093/jxb/erl172
+   Schultze M, 1998, ANNU REV GENET, V32, P33, DOI 10.1146/annurev.genet.32.1.33
+   Smit P, 2005, SCIENCE, V308, P1789, DOI 10.1126/science.1111025
+   STOUGAARD J, 1990, MOL GEN GENET, V220, P353, DOI 10.1007/BF00391738
+   Swiderski MR, 2000, PLANT SCI, V151, P75, DOI 10.1016/S0168-9452(99)00198-3
+   Thoquet Philippe, 2002, BMC Plant Biology, V2, P1, DOI 10.1186/1471-2229-2-1
+   TYERMAN SD, 1995, NATURE, V378, P629, DOI 10.1038/378629a0
+   Udvardi MK, 1997, ANNU REV PLANT PHYS, V48, P493, DOI 10.1146/annurev.arplant.48.1.493
+   VANKAMMEN A, 1984, PLANT MOL BIOL REP, V2, P43
+   VASSE J, 1990, J BACTERIOL, V172, P4295, DOI 10.1128/jb.172.8.4295-4306.1990
+   VEGH Z, 1990, PLANT MOL BIOL, V15, P295, DOI 10.1007/BF00036915
+   Vieweg MF, 2004, MOL PLANT MICROBE IN, V17, P62, DOI 10.1094/MPMI.2004.17.1.62
+   VON HG, 1986, NUCLEIC ACIDS RES, V14, P4683
+   Wienkoop S, 2003, PLANT PHYSIOL, V131, P1080, DOI 10.1104/pp.102.015362
+   Zhu HY, 2003, PLANT PHYSIOL, V131, P1018, DOI 10.1104/pp.102.016436
+NR 70
+TC 18
+Z9 18
+U1 0
+U2 6
+PU AMER PHYTOPATHOLOGICAL SOC
+PI ST PAUL
+PA 3340 PILOT KNOB ROAD, ST PAUL, MN 55121 USA
+SN 0894-0282
+EI 1943-7706
+J9 MOL PLANT MICROBE IN
+JI Mol. Plant-Microbe Interact.
+PD JAN
+PY 2009
+VL 22
+IS 1
+BP 63
+EP 72
+DI 10.1094/MPMI-22-1-0063
+PG 10
+WC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Plant Sciences
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Plant Sciences
+GA 394IU
+UT WOS:000262441200006
+PM 19061403
+OA Bronze
+DA 2020-08-14
+ER
+
+PT J
+AU Wang, CL
+   Lower, S
+   Williamson, VM
+AF Wang, Congli
+   Lower, Steven
+   Williamson, Valerie M.
+TI Application of Pluronic gel to the study of root-knot nematode behaviour
+SO NEMATOLOGY
+LA English
+DT Article
+DE aggregation; Arabidopsis; attraction; Medicago truncatula; Meloidogyne
+   hapla; Meloidogyne incognita; Meloidogyne javanica; tomato
+ID PLANT-PARASITIC NEMATODES; ROTYLENCHULUS-RENIFORMIS;
+   MELOIDOGYNE-INCOGNITA; NATURAL VARIATION; CARBON-DIOXIDE; RESISTANCE;
+   ATTRACTANT; TOMATO; RESPONSES; ELEGANS
+AB Pluronic F-127 is a stable, non-toxic, copolymer that forms a gel at room temperature and a liquid at 15 degrees C when the concentration is 20-30%. Root-knot nematode (Meloidogyne spp.) second-stage juveniles can move freely through the gel and display attraction toward roots of tomato, Medicago truncatula, common bean and Arabidopsis. The excellent clarity of the gel allows examination of behavioural changes in the nematode as it reaches and infects its host. Attraction assays showed that Meloidogyne javanica and M. incognita move to roots much more rapidly than does M. hapla. Nematodes form aggregates when in contact with root tips suggesting that the presence of a signal from the nematode or from the root is involved in the attraction. Nematodes suspended in Pluronic gel without roots aggregate into balls after 1 to 2 days. A coverslip placed on the gel accelerates and serves as a focus for the aggregation, suggesting that lower oxygen, or perhaps a volatile attractant, is involved in this behaviour. These observations demonstrate that Pluronic gel is a useful medium for dissecting attraction of root-knot nematodes to their hosts and for studying additional aspects of their behaviour.
+C1 [Wang, Congli; Lower, Steven; Williamson, Valerie M.] Univ Calif Davis, Dept Nematol, Davis, CA 95616 USA.
+RP Williamson, VM (corresponding author), Univ Calif Davis, Dept Nematol, Davis, CA 95616 USA.
+EM vmwilliamson@ucdavis.edu
+FU National Research Initiative of the USDA Cooperative State Research,
+   Education and Extension ServiceUnited States Department of Agriculture
+   (USDA)National Institute of Food and Agriculture [566000756]; National
+   Science Foundation Division of Environmental BiologyNational Science
+   Foundation (NSF) [DEB-0120169]
+FX This project was supported by the National Research Initiative of the
+   USDA Cooperative State Research, Education and Extension Service, grant
+   no. 566000756 and National Science Foundation Division of Environmental
+   Biology (grant no. DEB-0120169). We thank BASF for Pluronic F-127
+   samples, Luis Perez-Grau for helpful suggestions and Howard Ferris for
+   valuable comments on the manuscript.
+CR Alexandre G, 2004, FEMS MICROBIOL REV, V28, P113, DOI 10.1016/j.femsre.2003.10.003
+   Barichello JM, 1999, INT J PHARM, V184, P189, DOI 10.1016/S0378-5173(99)00119-2
+   Byrd D.W., 1983, J NEMATOL, V15, P142
+   Chen PC, 2003, NEMATOLOGY, V5, P39, DOI 10.1163/156854102765216678
+   Christie J. R., 1959, PLANT NEMATODES THEI
+   Cooper A. F. J., 1971, PLANT PARASIT NEMAT, P297
+   de Bono M, 1998, CELL, V94, P679, DOI 10.1016/S0092-8674(00)81609-8
+   de Bono M, 2002, NATURE, V419, P899, DOI 10.1038/nature01169
+   DUSENBERY DB, 1983, J NEMATOL, V15, P168
+   GARDENER S, 1984, J GEN MICROBIOL, V130, P731
+   Gleason CA, 2008, MOL PLANT MICROBE IN, V21, P576, DOI 10.1094/MPMI-21-5-0576
+   Gray JM, 2004, NATURE, V430, P317, DOI 10.1038/nature02714
+   GRISHANIN RN, 1991, J BACTERIOL, V169, P3118
+   HO JY, 1992, PLANT J, V2, P971
+   Hodgkin J, 1997, GENETICS, V146, P149
+   Kabanov AV, 2002, ADV DRUG DELIVER REV, V54, P759, DOI 10.1016/S0169-409X(02)00047-9
+   KO MP, 1988, J NEMATOL, V20, P478
+   Le Saux R, 2002, NEMATOLOGY, V4, P99, DOI 10.1163/156854102760082258
+   Liu QL, 2006, J NEMATOL, V38, P158
+   Marsh LH, 2003, INT J PHARM, V251, P155, DOI 10.1016/S0378-5173(02)00592-6
+   McSorley R, 2003, FLA ENTOMOL, V86, P138, DOI 10.1653/0015-4040(2003)086[0138:AONTEE]2.0.CO;2
+   Mende N. von, 1997, Cellular and molecular aspects of plant-nematode interactions., P51
+   Morishita M, 2001, INT J PHARM, V212, P289, DOI 10.1016/S0378-5173(00)00615-3
+   PAULSON RE, 1972, PHYSIOL PLANT PATHOL, V2, P227, DOI 10.1016/0048-4059(72)90005-7
+   Perry R. N., 1997, Cellular and molecular aspects of plant-nematode interactions., P38
+   Pitts RJ, 1998, PLANT J, V16, P553, DOI 10.1046/j.1365-313x.1998.00321.x
+   Prot J.-C., 1980, Revue de Nematologie, V3, P305
+   RENDE JF, 1982, J CHEM ECOL, V8, P981, DOI 10.1007/BF00987664
+   RIDDLE DL, 1985, PARASITOLOGY, V91, P185, DOI 10.1017/S0031182000056626
+   RIEMANN F, 1988, MAR BIOL, V98, P81, DOI 10.1007/BF00392661
+   ROBINSON AF, 1994, J NEMATOL, V26, P46
+   ROBINSON AF, 1995, J NEMATOL, V27, P42
+   SHIOI J, 1987, J BACTERIOL, V169, P3118, DOI 10.1128/jb.169.7.3118-3123.1987
+   Spiegel Y, 2003, PHYTOPATHOLOGY, V93, P127, DOI 10.1094/PHYTO.2003.93.1.127
+   Wharton David A., 2004, P371, DOI 10.1079/9780851998183.0371
+   Wuyts N, 2006, PLANT SOIL, V283, P217, DOI 10.1007/s11104-006-0013-4
+   WYSS U, 1992, NEMATOLOGICA, V38, P98, DOI 10.1163/187529292X00081
+   YAGHOOBI J, 1995, THEOR APPL GENET, V91, P457, DOI 10.1007/BF00222973
+NR 38
+TC 70
+Z9 74
+U1 0
+U2 58
+PU BRILL ACADEMIC PUBLISHERS
+PI LEIDEN
+PA PLANTIJNSTRAAT 2, P O BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 1388-5545
+J9 NEMATOLOGY
+JI Nematology
+PY 2009
+VL 11
+BP 453
+EP 464
+DI 10.1163/156854109X447024
+PN 3
+PG 12
+WC Zoology
+SC Zoology
+GA 458IE
+UT WOS:000267009700012
+DA 2020-08-14
+ER
+
+PT J
+AU Perera, MR
+   Taylor, SP
+   Vanstone, VA
+   Jones, MGK
+AF Perera, Modika R.
+   Taylor, Sharyn P.
+   Vanstone, Vivien A.
+   Jones, Michael G. K.
+TI Protein biomarkers to distinguish oat and lucerne races of the stem
+   nematode, Ditylenchus dipsaci, with quarantine significance for Western
+   Australia
+SO NEMATOLOGY
+LA English
+DT Article
+DE 2D-PAGE; de novo sequences; MALDI-TOFMS; matrix solution; peptide mass
+   fingerprints; protein extraction
+ID FLIGHT MASS-SPECTROMETRY; IDENTIFICATION; ELECTROPHORESIS;
+   DIFFERENTIATION; POLYMORPHISM; SEPARATION; GEL
+AB The stem and bulb nematode, Ditylenchus dipsaci, is a serious pest of forage, horticultural and other crops. The two races of D. dipsaci that occur in Australia are the oat and lucerne races. These two races have the 'normal' morphology compared to the 'giant' type that attacks Vicia faba. The oat and lucerne races have been found in eastern Australia but not in Western Australia. There are no morphological or specific molecular tests to differentiate races within closely related 'normal' types of D. dipsaci. The aim of this work was to find protein biomarkers that would differentiate oat and lucerne races of D. dipsaci using matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry (MALDI-TOFMS), 2-D PAGE and associated proteomics techniques. Three protein biomarkers at m/z 4313 +/- 0.1%, 6300 +/- 0.1% and 7460 +/- 0.1% were found that discriminate the oat and lucerne races of D. dipsaci using MALDI-TOFMS. The biomarker at m/z 4313 +/- 0.1% was the prominent race-specific marker for the lucerne race and is almost absent in the oat race. In addition, proteomic maps were obtained by 2-D PAGE of proteins extracted from oat and lucerne races of D. dipsaci. This analysis allowed a comparison of acetone soluble proteins of oat and lucerne races of D. dipsaci. A prominent protein spot was identified with an isoelectric point (pI) of about 5 and molecular mass ca 4.5 kDa for the lucerne race, which was absent in the oat race. This particular protein was trypsin-digested and analysed by MALDI-TOFMS and MALDI-TOF-TOFMS. The resultant spectra of peptide mass fingerprints (PMF) showed two major peptides at m/z 845 +/- 0.1%, 916 +/- 0.1% and a less intense peptide at m/z 1258 +/- 0.1%. De novo sequencing and MS/MS interpreted amino acid sequences are presented.
+C1 [Vanstone, Vivien A.] Dept Agr & Food Western Australia, S Perth, WA 6151, Australia.
+   [Perera, Modika R.; Jones, Michael G. K.] Murdoch Univ, WA State Agr Biotechnol Ctr, Sch Biol Sci & Biotechnol, Plant Biotechnol Res Grp, Perth, WA 6150, Australia.
+   [Taylor, Sharyn P.] S Australian Res & Dev Inst, Field Crop Unit, Glen Osmond, SA 5064, Australia.
+RP Perera, MR (corresponding author), Dept Agr & Food Western Australia, 3 Baron Hay Court, S Perth, WA 6151, Australia.
+EM mperera@agric.wa.gov.au
+RI Jones, Michael GK/M-5932-2013
+OI Jones, Michael GK/0000-0001-5002-0227
+FU Australian Research Council (ARC)Australian Research Council; DAFWA
+   [LP0560971]
+FX We thank Ms D. Szot and Dr J. Nobbs SARDI, Field Crops Unit, for the
+   provision of nematode samples for transportation, Dr S. Kumar,
+   Quarantine Pathologist, for dealing with AQIS requirements, Ms P.
+   Moolhuijze, Centre for Comparative Genomics, Murdoch University, for
+   assistance with downloading dbESTs and the Australian Research Council
+   (ARC) and DAFWA for financial support with a Linkage Grant No.
+   LP0560971. We thank Proteomics International Pty Ltd for MS/MS analysis
+   of trypsin-digested peptides.
+CR Campbell PM, 2005, SYST ENTOMOL, V30, P186, DOI 10.1111/j.1365-3113.2004.00279.x
+   Casey TM, 2005, MOL CELL PROTEOMICS, V4, P651, DOI 10.1074/mcp.M400155-MCP200
+   Castanha ER, 2007, MOL CELL PROBE, V21, P190, DOI 10.1016/j.mcp.2006.11.002
+   Claydon MA, 1996, NAT BIOTECHNOL, V14, P1584, DOI 10.1038/nbt1196-1584
+   DROPKIN VH, 1988, ANNU REV PHYTOPATHOL, V26, P145, DOI 10.1146/annurev.py.26.090188.001045
+   ERIKSSON KB, 1969, NEMATOLOGICA, V15, P530
+   Esquibet M, 2003, GENOME, V46, P1077, DOI 10.1139/G03-072
+   Esquibet M, 1998, HEREDITY, V81, P291, DOI 10.1046/j.1365-2540.1998.00367.x
+   Johnson RS, 2005, METHODS, V35, P223, DOI 10.1016/j.ymeth.2004.08.014
+   Kersten B, 2002, PLANT MOL BIOL, V48, P133, DOI 10.1023/A:1013784205292
+   PALMER H M, 1991, Revue de Nematologie, V14, P625
+   Perera MR, 2005, ENTOMOL EXP APPL, V117, P243, DOI 10.1111/j.1570-7458.2005.00353.x
+   Perera MR, 2005, RAPID COMMUN MASS SP, V19, P1454, DOI 10.1002/rcm.1943
+   SCHAGGER H, 1987, ANAL BIOCHEM, V166, P368, DOI 10.1016/0003-2697(87)90587-2
+   Sturhan Dieter, 1991, P423
+   Subbotin SA, 2005, PHYTOPATHOLOGY, V95, P1308, DOI 10.1094/PHYTO-95-1308
+   SUTHERLAND J, 1995, AGR NOTES DEP PRIMAR
+   Taylor S, 2000, AUSTRALAS PLANT PATH, V29, P153, DOI 10.1071/AP00027
+   TAYLOR SP, 2004, P 3 AUSTR SOILB DIS, P170
+   Tenente Renata C. V., 1997, Nematologia Brasileira, V21, P84
+   Valentine NB, 2002, RAPID COMMUN MASS SP, V16, P1352, DOI 10.1002/rcm.721
+   WENDT KR, 1993, J NEMATOL, V25, P555
+NR 22
+TC 5
+Z9 6
+U1 0
+U2 14
+PU BRILL ACADEMIC PUBLISHERS
+PI LEIDEN
+PA PLANTIJNSTRAAT 2, P O BOX 9000, 2300 PA LEIDEN, NETHERLANDS
+SN 1388-5545
+J9 NEMATOLOGY
+JI Nematology
+PY 2009
+VL 11
+BP 555
+EP 563
+DI 10.1163/138855409X12465362560557
+PG 9
+WC Zoology
+SC Zoology
+GA 489WQ
+UT WOS:000269456900006
+DA 2020-08-14
+ER
+
+PT J
+AU Berger, TM
+   Hofer, A
+AF Berger, T. M.
+   Hofer, A.
+TI Causes and Circumstances of Neonatal Deaths in 108 Consecutive Cases
+   over a 10-Year Period at the Children's Hospital of Lucerne, Switzerland
+SO NEONATOLOGY
+LA English
+DT Article
+DE Causes of death, neonates; Circumstances of death, neonates; Term
+   infants; Preterm infants; Viability, limit of; Redirection of care;
+   Primary nonintervention
+ID INTENSIVE-CARE-UNIT; END-OF-LIFE; NEWBORN-INFANTS; DECISIONS; MORTALITY;
+   NURSERY
+AB Background: Neonatal deaths still represent the largest percentage of overall childhood mortality. Many deaths of neonates are preceded by end-of-life decisions; however, decision-making practices have been reported to vary widely from country to country. Objectives: To analyze principal causes and circumstances of all consecutive neonatal deaths at our institution over a 10-year period. Methods: All neonates who had died either in the delivery room (DR) or the neonatal intensive care unit (NICU) between January 1, 1997 and December 31, 2006 were identified. Demographic information, principal causes and circumstances of death were abstracted from the individual medical records. Results: There were approximately 72,000 live births in the catchment area of our center with 15,150 deliveries occurring at the Women's Hospital of Lucerne. Of the 108 deaths identified, 29 occurred in the DR (DR mortality rate 0.2%) and 79 in the NICU (NICU mortality rate 2.3%). The majority of DR deaths occurred in the setting of primary nonintervention and were related to extreme prematurity (n = 20), lethal congenital malformations (n = 6) and trisomy 13 (n = 2). One patient with severe perinatal asphyxia died despite full resuscitative efforts. In the NICU, overall mortality rate was inversely related to gestational age (GA). Cardiovascular and respiratory system failures were the predominant causes of death in premature infants with a GA <32 weeks, whereas CNS catastrophes accounted for the majority of deaths in the more mature NICU population. End-of-life decisions were common with less than 10% of deaths occurring despite maximal intensive care. Conclusions: In our perinatal center, primary nonintervention and redirection of care are the most common circumstances of death in neonates. This reflects our belief that, apart from futility, quality-of-life con siderations are an important part of decision making in neonatology. Copyright (c) 2008 S. Karger AG, Basel
+C1 [Berger, T. M.; Hofer, A.] Childrens Hosp Lucerne, Neonatal & Pediat Intens Care Unit, CH-6000 Luzern 16, Switzerland.
+RP Berger, TM (corresponding author), Childrens Hosp Lucerne, Neonatal & Pediat Intens Care Unit, CH-6000 Luzern 16, Switzerland.
+EM thomas.berger@ksl.ch
+CR Arlettaz R, 2005, ACTA PAEDIATR, V94, P1626, DOI 10.1080/08035250510036543
+   Barton L, 2005, PEDIATRICS, V116, P1487, DOI 10.1542/peds.2005-0392
+   Baumann-Holzle R, 2005, ACTA PAEDIATR, V94, P1777, DOI 10.1080/08035250510011928
+   Berner ME, 2006, SWISS MED WKLY, V136, P597
+   Cook L A, 1996, J Perinatol, V16, P133
+   Cuttini M, 2000, LANCET, V355, P2112, DOI 10.1016/S0140-6736(00)02378-3
+   de Leeuw R, 2000, J PEDIATR-US, V137, P608, DOI 10.1067/mpd.2000.109144
+   deLeeuw R, 1996, J PEDIATR-US, V129, P661, DOI 10.1016/S0022-3476(96)70146-4
+   DUFF RS, 1973, NEW ENGL J MED, V289, P890, DOI 10.1056/NEJM197310252891705
+   Hagen Cathrine Monrad, 2004, Pediatr Crit Care Med, V5, P463
+   Hentschel R, 2006, PEDIATRICS, V118, P563, DOI 10.1542/peds.2005-1615
+   Leuthner S R, 2001, J Perinatol, V21, P193, DOI 10.1038/sj.jp.7200523
+   Meadow W, 2002, PEDIATRICS, V109, P878, DOI 10.1542/peds.109.5.878
+   MININO AM, 2004, NATL VITAL STAT REP, V55, P1
+   Orzalesi Marcello, 2005, Biol Neonate, V87, P345, DOI 10.1159/000084883
+   Saugstad OD, 2005, ACTA PAEDIATR, V94, P1535, DOI 10.1080/08035250500340412
+   Schulz-Baldes A, 2007, ACTA PAEDIATR, V96, P681, DOI 10.1111/j.1651-2227.2007.00234.x
+   Singh J, 2004, PEDIATRICS, V114, P1620, DOI 10.1542/peds.2004-0447
+   Singh J, 2007, PEDIATRICS, V120, P519, DOI 10.1542/peds.2006-2966
+   *SWISS SOC NEON, 2002, PAEDIATRICA, V13, P27
+   Wall SN, 1997, PEDIATRICS, V99, P64, DOI 10.1542/peds.99.1.64
+NR 21
+TC 42
+Z9 42
+U1 2
+U2 4
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 1661-7800
+EI 1661-7819
+J9 NEONATOLOGY
+JI Neonatology
+PY 2009
+VL 95
+IS 2
+BP 157
+EP 163
+DI 10.1159/000153100
+PG 7
+WC Pediatrics
+SC Pediatrics
+GA 369GQ
+UT WOS:000260682900008
+PM 18776730
+DA 2020-08-14
+ER
+
+PT J
+AU Jagadeeswaran, G
+   Zheng, Y
+   Li, YF
+   Shukla, LI
+   Matts, J
+   Hoyt, P
+   Macmil, SL
+   Wiley, GB
+   Roe, BA
+   Zhang, WX
+   Sunkar, R
+AF Jagadeeswaran, Guru
+   Zheng, Yun
+   Li, Yong-Fang
+   Shukla, Lata I.
+   Matts, Jessica
+   Hoyt, Peter
+   Macmil, Simone L.
+   Wiley, Graham B.
+   Roe, Bruce A.
+   Zhang, Weixiong
+   Sunkar, Ramanjulu
+TI Cloning and characterization of small RNAs from Medicago truncatula
+   reveals four novel legume-specific microRNA families
+SO NEW PHYTOLOGIST
+LA English
+DT Article
+DE legumes; Medicago truncatula; microRNAs; post-transcriptional gene
+   regulation; trans-acting siRNAs
+ID TRANS-ACTING SIRNAS; GENOME-WIDE ANALYSIS; INTERFERING RNA; EFFICIENT
+   TRANSFORMATION; ARABIDOPSIS-THALIANA; REGULATED MICRORNAS; NODULE
+   DEVELOPMENT; EXPRESSION ATLAS; PLANT MICRORNAS; MESSENGER-RNAS
+AB MicroRNAs (miRNAs) and small-interfering RNAs (siRNAs) have emerged as important regulators of gene expression in higher eukaryotes. Recent studies indicate that genomes in higher plants encode lineage-specific and species-specific miRNAs in addition to the well-conserved miRNAs. Leguminous plants are grown throughout the world for food and forage production. To date the lack of genomic sequence data has prevented systematic examination of small RNAs in leguminous plants. Medicago truncatula, a diploid plant with a near-completely sequenced genome has recently emerged as an important model legume.
+   We sequenced a small RNA library generated from M. truncatula to identify not only conserved miRNAs but also novel small RNAs, if any.
+   Eight novel small RNAs were identified, of which four (miR1507, miR2118, miR2119 and miR2199) are annotated as legume-specific miRNAs because these are conserved in related legumes. Three novel transcripts encoding TIR-NBS-LRR proteins are validated as targets for one of the novel miRNA, miR2118. Small RNA sequence analysis coupled with the small RNA blot analysis, confirmed the expression of around 20 conserved miRNA families in M. truncatula. Fifteen transcripts have been validated as targets for conserved miRNAs. We also characterized Tas3-siRNA biogenesis in M. truncatula and validated three auxin response factor (ARF) transcripts that are targeted by tasiRNAs.
+   These findings indicate that M. truncatula and possibly other related legumes have complex mechanisms of gene regulation involving specific and common small RNAs operating post-transcriptionally.
+C1 [Jagadeeswaran, Guru; Li, Yong-Fang; Shukla, Lata I.; Matts, Jessica; Hoyt, Peter; Sunkar, Ramanjulu] Oklahoma State Univ, Dept Biochem & Mol Biol, Stillwater, OK 74078 USA.
+   [Zheng, Yun; Zhang, Weixiong] Washington Univ, Dept Comp Sci & Engn, St Louis, MO 63130 USA.
+   [Macmil, Simone L.; Wiley, Graham B.; Roe, Bruce A.] Univ Oklahoma, Dept Chem & Biochem, Norman, OK 73019 USA.
+   [Zhang, Weixiong] Washington Univ, Sch Med, Dept Genet, St Louis, MO 63110 USA.
+RP Sunkar, R (corresponding author), Oklahoma State Univ, Dept Biochem & Mol Biol, Stillwater, OK 74078 USA.
+EM ramanjulu.sunkar@okstate.edu
+RI Zheng, Yun/I-7011-2012; Sunkar, Ramanjulu/L-2982-2014; Shukla,
+   Lata/AAC-8614-2019
+OI Zheng, Yun/0000-0003-4292-9806; Shukla, Lata/0000-0002-6911-9451; Cree,
+   Simone/0000-0002-7349-422X
+FU Oklahoma Agricultural Experiment Station; National Science
+   FoundationNational Science Foundation (NSF) [IIS-0535257, DBI-0743797];
+   Alzheimer's AssociationAlzheimer's Association; Department of Science
+   and Technology, Government of IndiaDepartment of Science & Technology
+   (India)
+FX Support for this research was provided by the Oklahoma Agricultural
+   Experiment Station to R. S., and by the National Science Foundation
+   grants IIS-0535257 and DBI-0743797, a grant from the Alzheimer's
+   Association and a grant from Monsanto to W.Z. We thank Drs Rao
+   Uppalapati and Kiran Mysore ( Samuel Roberts Noble Foundation, Ardmore)
+   for providing us some of the tissues used in small RNA blot analysis. L.
+   S. was a recipient of a BOYSCAST fellowship from the Department of
+   Science and Technology, Government of India.
+CR Abdel-Ghany SE, 2008, J BIOL CHEM, V283, P15932, DOI 10.1074/jbc.M801406200
+   Adenot X, 2006, CURR BIOL, V16, P927, DOI 10.1016/j.cub.2006.03.035
+   Allen E, 2005, CELL, V121, P207, DOI 10.1016/j.cell.2005.04.004
+   Ambros V, 2003, RNA, V9, P277, DOI 10.1261/rna.2183803
+   Ameline-Torregrosa C, 2008, PLANT PHYSIOL, V146, P5, DOI 10.1104/pp.107.104588
+   Arazi T, 2005, PLANT J, V43, P837, DOI 10.1111/j.1365-313X.2005.02499.x
+   Aukerman MJ, 2003, PLANT CELL, V15, P2730, DOI 10.1105/tpc.016238
+   Axtell MJ, 2007, PLANT CELL, V19, P1750, DOI 10.1105/tpc.107.051706
+   Axtell MJ, 2006, CELL, V127, P565, DOI 10.1016/j.cell.2006.09.032
+   Barakat Abdelali, 2007, BMC Genomics, V8, P481, DOI 10.1186/1471-2164-8-481
+   Bari R, 2006, PLANT PHYSIOL, V141, P988, DOI 10.1104/pp.106.079707
+   Bartel DP, 2004, CELL, V116, P281, DOI 10.1016/S0092-8674(04)00045-5
+   Benedito VA, 2008, PLANT J, V55, P504, DOI 10.1111/j.1365-313X.2008.03519.x
+   Boualem A, 2008, PLANT J, V54, P876, DOI 10.1111/j.1365-313X.2008.03448.x
+   Brodersen P, 2008, SCIENCE, V320, P1185, DOI 10.1126/science.1159151
+   Buhtz A, 2008, PLANT J, V53, P739, DOI 10.1111/j.1365-313X.2007.03368.x
+   Chabaud M, 2003, PLANT CELL REP, V22, P46, DOI 10.1007/s00299-003-0649-y
+   Chen XM, 2004, SCIENCE, V303, P2022, DOI 10.1126/science.1088060
+   Chiou TJ, 2007, PLANT CELL ENVIRON, V30, P323, DOI 10.1111/j.1365-3040.2007.01643.x
+   Combier JP, 2006, GENE DEV, V20, P3084, DOI 10.1101/gad.402806
+   Crane C, 2006, METH MOL B, V343, P137
+   Fahlgren N, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000219
+   Fahlgren N, 2006, CURR BIOL, V16, P939, DOI 10.1016/j.cub.2006.03.065
+   Fattash I, 2007, BMC PLANT BIOL, V7, DOI 10.1186/1471-2229-7-13
+   Fujii H, 2005, CURR BIOL, V15, P2038, DOI 10.1016/j.cub.2005.10.016
+   Garcia D, 2006, CURR BIOL, V16, P933, DOI 10.1016/j.cub.2006.03.064
+   Gasciolli V, 2005, CURR BIOL, V15, P1494, DOI 10.1016/j.cub.2005.07.024
+   Hofacker IL, 2003, NUCLEIC ACIDS RES, V31, P3429, DOI 10.1093/nar/gkg599
+   Howell MD, 2007, PLANT CELL, V19, P926, DOI 10.1105/tpc.107.050062
+   Jones-Rhoades MW, 2006, ANNU REV PLANT BIOL, V57, P19, DOI 10.1146/annurev.arplant.57.032905.105218
+   Jones-Rhoades MW, 2004, MOL CELL, V14, P787, DOI 10.1016/j.molcel.2004.05.027
+   Liu B, 2007, PLANT CELL, V19, P2705, DOI 10.1105/tpc.107.052209
+   Lu C, 2005, SCIENCE, V309, P1567, DOI 10.1126/science.1114112
+   Lu C, 2008, P NATL ACAD SCI USA, V105, P4951, DOI 10.1073/pnas.0708743105
+   Lu C, 2006, GENOME RES, V16, P1276, DOI 10.1101/gr.5530106
+   Lu SF, 2008, PLANT J, V55, P131, DOI 10.1111/j.1365-313X.2008.03497.x
+   Mallory AC, 2006, NAT GENET, V38, pS31, DOI 10.1038/ng1791
+   Meyers BC, 2008, PLANT CELL, V20, P3186, DOI 10.1105/tpc.108.064311
+   Moxon S, 2008, GENOME RES, V18, P1602, DOI 10.1101/gr.080127.108
+   Nobuta K, 2007, NAT BIOTECHNOL, V25, P473, DOI 10.1038/nbt1291
+   Nogueira FTS, 2007, GENE DEV, V21, P750, DOI 10.1101/gad.1528607
+   Peragine A, 2004, GENE DEV, V18, P2368, DOI 10.1101/gad.1231804
+   Rajagopalan R, 2006, GENE DEV, V20, P3407, DOI 10.1101/gad.1476406
+   Ramachandran V, 2008, TRENDS PLANT SCI, V13, P368, DOI 10.1016/j.tplants.2008.03.008
+   Rhoades MW, 2002, CELL, V110, P513, DOI 10.1016/S0092-8674(02)00863-2
+   Subramanian S, 2008, BMC GENOMICS, V9, DOI 10.1186/1471-2164-9-160
+   Sunkar R, 2005, PLANT CELL, V17, P1397, DOI 10.1105/tpc.105.031682
+   Sunkar R, 2004, PLANT CELL, V16, P2001, DOI 10.1105/tpc.104.022830
+   Sunkar R, 2007, TRENDS PLANT SCI, V12, P301, DOI 10.1016/j.tplants.2007.05.001
+   Sunkar R, 2006, PLANT CELL, V18, P2415, DOI 10.1105/tpc.106.180960
+   Sunkar R, 2008, BMC PLANT BIOL, V8, DOI 10.1186/1471-2229-8-37
+   Sunkar R, 2008, BMC PLANT BIOL, V8, DOI 10.1186/1471-2229-8-25
+   Szittya G, 2008, BMC GENOMICS, V9, DOI 10.1186/1471-2164-9-593
+   Talmor-Neiman M, 2006, PLANT J, V48, P511, DOI 10.1111/j.1365-313X.2006.02895.x
+   Talmor-Neiman M, 2006, PLANT J, V47, P25, DOI 10.1111/j.1365-313X.2006.02768.x
+   Trinh TH, 1998, PLANT CELL REP, V17, P345, DOI 10.1007/s002990050405
+   Vaucheret H, 2006, GENE DEV, V20, P759, DOI 10.1101/gad.1410506
+   Vazquez F, 2004, MOL CELL, V16, P69, DOI 10.1016/j.molcel.2004.09.028
+   Williams L, 2005, P NATL ACAD SCI USA, V102, P9703, DOI 10.1073/pnas.0504029102
+   Xie ZX, 2005, P NATL ACAD SCI USA, V102, P12984, DOI 10.1073/pnas.0506426102
+   Yamasaki H, 2007, J BIOL CHEM, V282, P16369, DOI 10.1074/jbc.M700138200
+   Yang SM, 2008, P NATL ACAD SCI USA, V105, P12164, DOI 10.1073/pnas.0802518105
+   Yoshikawa M, 2005, GENE DEV, V19, P2164, DOI 10.1101/gad.1352605
+   Zhang BH, 2006, PLANT J, V46, P243, DOI 10.1111/j.1365-313X.2006.02697.X
+   ZHENG Y, 2008, ANIMAL MICRORNA TARG
+   Zhou ZS, 2008, BIOCHEM BIOPH RES CO, V374, P538, DOI 10.1016/j.bbrc.2008.07.083
+NR 66
+TC 110
+Z9 154
+U1 1
+U2 44
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0028-646X
+EI 1469-8137
+J9 NEW PHYTOL
+JI New Phytol.
+PY 2009
+VL 184
+IS 1
+BP 85
+EP 98
+DI 10.1111/j.1469-8137.2009.02915.x
+PG 14
+WC Plant Sciences
+SC Plant Sciences
+GA 490XO
+UT WOS:000269541600011
+PM 19555436
+DA 2020-08-14
+ER
+
+PT J
+AU Wasson, AP
+   Ramsay, K
+   Jones, MGK
+   Mathesius, U
+AF Wasson, Anton P.
+   Ramsay, Kerry
+   Jones, Michael G. K.
+   Mathesius, Ulrike
+TI Differing requirements for flavonoids during the formation of lateral
+   roots, nodules and root knot nematode galls in Medicago truncatula
+SO NEW PHYTOLOGIST
+LA English
+DT Article
+DE auxin; flavonoids; lateral root; nodulation; root knot gall; root knot
+   nematode
+ID SIGNAL-TRANSDUCTION PATHWAYS; AUXIN TRANSPORT INHIBITORS;
+   PLANT-PARASITIC NEMATODES; TRANSPARENT-TESTA MUTANTS;
+   ARABIDOPSIS-THALIANA; WHITE CLOVER; SINORHIZOBIUM-MELILOTI;
+   MELOIDOGYNE-INCOGNITA; PHENOLIC-COMPOUNDS; LEGUME NODULATION
+AB In this study, we tested whether the organogenesis of symbiotic root nodules, lateral roots and root galls induced by parasitic root knot nematodes (Meloidogyne javanica) was regulated by the presence of flavonoids in the roots of Medicago truncatula. Flavonoids accumulate in all three types of root organ, and have been hypothesized previously to be required for secondary root organogenesis because of their potential role as auxin transport regulators.
+   Using RNA interference to silence the flavonoid biosynthetic pathway in M. truncatula, we generated transformed flavonoid-deficient hairy roots which were used to study flavonoid accumulation, cell division and organogenesis of nodules, lateral roots and root galls.
+   Flavonoid-deficient roots did not form nodules, as demonstrated previously, but showed altered root growth in response to rhizobia. By contrast, flavonoid-deficient roots showed no difference in the number of lateral roots and root galls. Galls on flavonoid-deficient roots formed normal giant cells, but were shorter, and were characterized by reduced numbers of dividing pericycle cells.
+   We rejected the hypothesis that flavonoids are required as general regulators of the organogenesis of secondary root organs, but flavonoids appear to be necessary for nodulation. Possible reasons for this difference in the requirement for flavonoids are discussed.
+   New Phytologist (2009) 183: 167-179doi: 10.1111/j.1469-8137.2009.02850.x.
+C1 [Wasson, Anton P.; Mathesius, Ulrike] Australian Natl Univ, Sch Biol, Dept Biochem & Mol Biol, Australian Res Council Ctr Excellence Integrat Le, Canberra, ACT 0200, Australia.
+   [Ramsay, Kerry; Jones, Michael G. K.] Murdoch Univ, Sch Biol Sci & Biotechnol, Murdoch, WA 6150, Australia.
+RP Mathesius, U (corresponding author), Australian Natl Univ, Sch Biol, Dept Biochem & Mol Biol, Australian Res Council Ctr Excellence Integrat Le, GPO Box 4, Canberra, ACT 0200, Australia.
+EM Ulrike.Mathesius@anu.edu.au
+RI Wasson, Anton P/D-3260-2011; Jones, Michael GK/M-5932-2013; Mathesius,
+   Ulrike/C-9767-2009
+OI Wasson, Anton P/0000-0002-8044-7210; Jones, Michael
+   GK/0000-0001-5002-0227; Mathesius, Ulrike/0000-0002-3557-0105
+FU Australian Research Council (ARC)Australian Research Council [CE0348212,
+   DP0557692]; Australian Postgraduate AwardAustralian Government
+FX We are grateful to the Australian Research Council (ARC) for funding
+   through the ARC Centre of Excellence for Integrative Legume Research
+   (CE0348212) and through an ARC Research Fellowship to UM (DP0557692).
+   APW was supported by an Australian Postgraduate Award. We thank Charles
+   Buer for discussions and for sharing prepublication results.
+CR Beeckman T, 2001, J EXP BOT, V52, P403, DOI 10.1093/jexbot/52.suppl_1.403
+   Benkova E, 2003, CELL, V115, P591, DOI 10.1016/S0092-8674(03)00924-3
+   Besseau S, 2007, PLANT CELL, V19, P148, DOI 10.1105/tpc.106.044495
+   Bhalerao RP, 2002, PLANT J, V29, P325, DOI 10.1046/j.0960-7412.2001.01217.x
+   Bird DM, 2004, CURR OPIN PLANT BIOL, V7, P372, DOI 10.1016/j.pbi.2004.05.005
+   Boisson-Dernier A, 2001, MOL PLANT MICROBE IN, V14, P695, DOI 10.1094/MPMI.2001.14.6.695
+   Boot KJM, 1999, MOL PLANT MICROBE IN, V12, P839, DOI 10.1094/MPMI.1999.12.10.839
+   Brown DE, 2001, PLANT PHYSIOL, V126, P524, DOI 10.1104/pp.126.2.524
+   Buer CS, 2007, PLANT PHYSIOL, V145, P478, DOI 10.1104/pp.107.101824
+   Buer CS, 2009, J EXP BOT, V60, P751, DOI 10.1093/jxb/ern323
+   Buer CS, 2006, PLANT PHYSIOL, V140, P1384, DOI 10.1104/pp.105.075671
+   Cantero G, 2006, MUTAGENESIS, V21, P321, DOI 10.1093/mutage/gel033
+   Casimiro I, 2001, PLANT CELL, V13, P843, DOI 10.1105/tpc.13.4.843
+   Chitwood DJ, 2002, ANNU REV PHYTOPATHOL, V40, P221, DOI 10.1146/annurev.phyto.40.032602.130045
+   Christie JR, 1936, PHYTOPATHOLOGY, V26, P1
+   Curtis RHC, 2007, NEMATOLOGY, V9, P155, DOI 10.1163/156854107780739072
+   Davis EL, 2005, PLANT PHYSIOL, V137, P1182, DOI 10.1104/pp.104.054973
+   De Smet I, 2007, DEVELOPMENT, V134, P681, DOI 10.1242/dev.02753
+   Djordjevic MA, 1997, AUST J PLANT PHYSIOL, V24, P119, DOI 10.1071/PP96095
+   DJORDJEVIC MA, 1987, ANNU REV PHYTOPATHOL, V25, P145, DOI 10.1146/annurev.py.25.090187.001045
+   Dubrovsky JG, 2000, PLANT PHYSIOL, V124, P1648, DOI 10.1104/pp.124.4.1648
+   Dubrovsky JG, 2008, P NATL ACAD SCI USA, V105, P8790, DOI 10.1073/pnas.0712307105
+   Farag MA, 2007, PHYTOCHEMISTRY, V68, P342, DOI 10.1016/j.phytochem.2006.10.023
+   Favery B, 2002, MOL PLANT MICROBE IN, V15, P1008, DOI 10.1094/MPMI.2002.15.10.1008
+   Fujita H, 1996, PLANT CELL PHYSIOL, V37, P1094, DOI 10.1093/oxfordjournals.pcp.a029059
+   Fukaki H, 2007, INT REV CYTOL, V256, P111, DOI 10.1016/S0074-7696(07)56004-3
+   FURUYA M, 1962, NATURE, V193, P456, DOI 10.1038/193456a0
+   Gage DJ, 1996, J BACTERIOL, V178, P7159, DOI 10.1128/jb.178.24.7159-7166.1996
+   Gheysen G, 2002, ANNU REV PHYTOPATHOL, V40, P191, DOI 10.1146/annurev.phyto.40.121201.093719
+   GLAZER I, 1986, PHYSIOL MOL PLANT P, V28, P171, DOI 10.1016/S0048-4059(86)80061-3
+   Gonzalez A, 2006, J CHEMOTHERAPY, V18, P10, DOI 10.1080/1120009X.2006.11782408
+   Goverse A, 2000, PLANT MOL BIOL, V43, P747, DOI 10.1023/A:1006367126077
+   Goverse A, 2000, MOL PLANT MICROBE IN, V13, P1121, DOI 10.1094/MPMI.2000.13.10.1121
+   Grunewald W, 2009, PLOS PATHOG, V5, DOI 10.1371/journal.ppat.1000266
+   HIRSCH AM, 1992, NEW PHYTOL, V122, P211, DOI 10.1111/j.1469-8137.1992.tb04227.x
+   HIRSCH AM, 1989, P NATL ACAD SCI USA, V86, P1244, DOI 10.1073/pnas.86.4.1244
+   Hirsch AM, 1997, PLANT SOIL, V194, P171, DOI 10.1023/A:1004292020902
+   Hirsch AM, 1997, CRIT REV PLANT SCI, V16, P361, DOI 10.1080/713608153
+   HOFGEN R, 1988, NUCLEIC ACIDS RES, V16, P9877, DOI 10.1093/nar/16.20.9877
+   Hutangura P, 1999, AUST J PLANT PHYSIOL, V26, P221, DOI 10.1071/PP98157
+   Imin N, 2007, J EXP BOT, V58, P439, DOI 10.1093/jxb/erl224
+   Ivanchenko MG, 2008, PLANT J, V55, P335, DOI 10.1111/j.1365-313X.2008.03528.x
+   JACOBS M, 1988, SCIENCE, V241, P346, DOI 10.1126/science.241.4863.346
+   Jones JT, 2007, NEMATOLOGY, V9, P671, DOI 10.1163/156854107782024875
+   JONES MGK, 1978, J NEMATOL, V10, P70
+   JONES MGK, 1981, ANN APPL BIOL, V97, P353, DOI 10.1111/j.1744-7348.1981.tb05122.x
+   KAPLAN DT, 1980, PHYSIOL PLANT PATHOL, V16, P309
+   Karczmarek A, 2004, MOL PLANT PATHOL, V5, P343, DOI 10.1111/j.1364-3703.2004.00230.x
+   Karimi M, 2002, TRENDS PLANT SCI, V7, P193, DOI 10.1016/S1360-1385(02)02251-3
+   Koltai H, 2001, MOL PLANT MICROBE IN, V14, P1168, DOI 10.1094/MPMI.2001.14.10.1168
+   Kuo SM, 1997, CRIT REV ONCOGENESIS, V8, P47, DOI 10.1615/CritRevOncog.v8.i1.30
+   Laplaze L, 2007, PLANT CELL, V19, P3889, DOI 10.1105/tpc.107.055863
+   Lohar DP, 2004, PLANT J, V38, P203, DOI 10.1111/j.1365-313X.2004.02038.x
+   Mathesius U, 2003, PLANT SOIL, V255, P105, DOI 10.1023/A:1026139026780
+   Mathesius U, 2001, J EXP BOT, V52, P419, DOI 10.1093/jexbot/52.suppl_1.419
+   Mathesius U, 1998, MOL PLANT MICROBE IN, V11, P1223, DOI 10.1094/MPMI.1998.11.12.1223
+   Mathesius U, 2008, FUNCT PLANT BIOL, V35, P651, DOI 10.1071/FP08177
+   Mathison GW, 1998, J APPL ANIM RES, V14, P1
+   Morris AC, 2006, MOL PLANT MICROBE IN, V19, P471, DOI 10.1094/MPMI-19-0471
+   Negi S, 2008, PLANT J, V55, P175, DOI 10.1111/j.1365-313X.2008.03495.x
+   O'Prey J, 2003, BIOCHEM PHARMACOL, V66, P2075, DOI 10.1016/j.bcp.2003.07.007
+   Olah B, 2005, PLANT J, V44, P195, DOI 10.1111/j.1365-313X.2005.02522.x
+   Pacios-Bras C, 2003, PLANT MOL BIOL, V52, P1169, DOI 10.1023/B:PLAN.0000004308.78057.f5
+   Peer WA, 2001, PLANT PHYSIOL, V126, P536, DOI 10.1104/pp.126.2.536
+   Peer WA, 2007, TRENDS PLANT SCI, V12, P556, DOI 10.1016/j.tplants.2007.10.003
+   Pegard A, 2005, PHYTOPATHOLOGY, V95, P158, DOI 10.1094/PHYTO-95-0158
+   PI CL, 1967, PHYTOPATHOLOGY, V57, P344
+   Polster J, 2006, PHYSIOL PLANTARUM, V128, P163, DOI 10.1111/j.1399-3054.2006.00721.x
+   Prayitno J, 2006, PLANT PHYSIOL, V142, P168, DOI 10.1104/pp.106.080093
+   REDMOND JW, 1986, NATURE, V323, P632, DOI 10.1038/323632a0
+   RiceEvans CA, 1997, TRENDS PLANT SCI, V2, P152, DOI 10.1016/S1360-1385(97)01018-2
+   ROLFE BG, 1980, PLANT SCI LETT, V19, P277, DOI 10.1016/0304-4211(80)90082-6
+   Sakamoto T, 2006, PLANT PHYSIOL, V142, P54, DOI 10.1104/pp.106.085811
+   SATO F, 1994, BIOCHEM BIOPH RES CO, V204, P578, DOI 10.1006/bbrc.1994.2498
+   SHEN WH, 1988, P NATL ACAD SCI USA, V85, P3417, DOI 10.1073/pnas.85.10.3417
+   SPAINK HP, 1995, ANNU REV PHYTOPATHOL, V33, P345, DOI 10.1146/annurev.py.33.090195.002021
+   Subramanian S, 2007, TRENDS PLANT SCI, V12, P282, DOI 10.1016/j.tplants.2007.06.006
+   Subramanian S, 2006, PLANT J, V48, P261, DOI 10.1111/j.1365-313X.2006.02874.x
+   Taylor LP, 2005, CURR OPIN PLANT BIOL, V8, P317, DOI 10.1016/j.pbi.2005.03.005
+   Tsiantis M, 1999, PLANT PHYSIOL, V121, P1163, DOI 10.1104/pp.121.4.1163
+   van Noorden GE, 2007, PLANT PHYSIOL, V144, P1115, DOI 10.1104/pp.107.099978
+   Wang XH, 2007, MOL PLANT PATHOL, V8, P423, DOI [10.1111/j.1364-3703.2007.00403.x, 10.1111/J.1364-3703.2007.00403.X]
+   Wasson AP, 2006, PLANT CELL, V18, P1617, DOI 10.1105/tpc.105.038232
+   Winkel-Shirley B, 2001, PLANT PHYSIOL, V126, P485, DOI 10.1104/pp.126.2.485
+   Wuyts N, 2006, J EXP BOT, V57, P2825, DOI 10.1093/jxb/erl044
+   Wuyts N, 2006, NEMATOLOGY, V8, P89, DOI 10.1163/156854106776179953
+   Zhang J, 2009, PLANT J, V57, P171, DOI 10.1111/j.1365-313X.2008.03676.x
+NR 87
+TC 34
+Z9 36
+U1 2
+U2 45
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0028-646X
+EI 1469-8137
+J9 NEW PHYTOL
+JI New Phytol.
+PY 2009
+VL 183
+IS 1
+BP 167
+EP 179
+DI 10.1111/j.1469-8137.2009.02850.x
+PG 13
+WC Plant Sciences
+SC Plant Sciences
+GA 453KU
+UT WOS:000266610100017
+PM 19402878
+DA 2020-08-14
+ER
+
+PT J
+AU Madoui, MA
+   Bertrand-Michel, J
+   Gaulin, E
+   Dumas, B
+AF Madoui, Mohammed-Amine
+   Bertrand-Michel, Justine
+   Gaulin, Elodie
+   Dumas, Bernard
+TI Sterol metabolism in the oomycete Aphanomyces euteiches, a legume root
+   pathogen
+SO NEW PHYTOLOGIST
+LA English
+DT Article
+DE isoprenoids; legumes; lipids; Medicago; oomycete; soil pathogen;
+   Stramenopila
+ID ISOPRENOID BIOSYNTHESIS; GENOME; 14-ALPHA-DEMETHYLASE; MECHANISMS;
+   SEQUENCES; EVOLUTION; ELICITINS; PHYLOGENY; PROTEINS; FAMILIES
+AB P>Sterols are isoprenoid-derived molecules that have essential functions in eukaryotes but whose metabolism remains largely unknown in a large number of organisms. Oomycetes are fungus-like microorganisms that are evolutionarily related to stramenopile algae, a large group of organisms for which no sterol metabolic pathway has been reported. Here, we present data that support a model of sterol biosynthesis in Aphanomyces euteiches, an oomycete species causing devastating diseases in legume crops.
+   In silico analyses were performed to identify genes encoding enzymes involved in the conversion of the isoprenoid precursor 3-hydroxy-3-methylglutaryl coenzyme A to isoprenoids. Several metabolic intermediates and two major sterol end-products were identified by gas chromatography-mass spectroscopy.
+   We show that A. euteiches is able to produce fucosterol (a sterol initially identified in brown algae) and cholesterol (the major animal sterol). Mycelium development is inhibited by two sterol demethylase inhibitors used as fungicides, namely tebuconazole and epoxiconazole.
+   We propose the first sterol biosynthetic pathway identified in a stramenopile species. Phylogenetic analyses revealed close relationships between A. euteiches enzyme sequences and those found in stramenopile algae, suggesting that part of this pathway could be conserved in the Stramenopila kingdom.
+   New Phytologist (2009) 183: 291-300doi: 10.1111/j.1469-8137.2009.02895.x.
+C1 [Madoui, Mohammed-Amine; Gaulin, Elodie; Dumas, Bernard] Univ Toulouse, UPS, F-31326 Castanet Tolosan, France.
+   [Madoui, Mohammed-Amine; Gaulin, Elodie; Dumas, Bernard] CNRS, F-31326 Castanet Tolosan, France.
+   [Bertrand-Michel, Justine] INSERM, Inst Claude Preval, IFR30, F-31300 Toulouse, France.
+RP Dumas, B (corresponding author), Univ Toulouse, UPS, 24 Chemin Borde Rouge,BP42617, F-31326 Castanet Tolosan, France.
+EM dumas@scsv.ups-tlse.fr
+RI GAULIN, Elodie/D-1750-2009; Lenka, Sangram K./A-5830-2009; Dumas,
+   Bernard/D-1751-2009
+OI Lenka, Sangram K./0000-0002-0121-2430; Dumas,
+   Bernard/0000-0002-4138-3533; Madoui, Mohammed-Amin/0000-0003-4809-2971;
+   Gaulin, Elodie/0000-0003-0572-8749
+FU Centre National de la Recherche Scientifique (CNRS)Centre National de la
+   Recherche Scientifique (CNRS)
+FX M.-A. M. was supported by a predoctoral fellowship from the Centre
+   National de la Recherche Scientifique (CNRS). We thank Hubert Schaller
+   (IBMP-CNRS Strasbourg, France) for helpful discussions, Marc Cock
+   (Roscoff, France) for access to unpublished Ectocarpus siliculosus
+   genomic data and Marie-Pascale Latorse (Bayer CropScience, France) for
+   the generous gift of demethylase inhibitors.
+CR Armbrust EV, 2004, SCIENCE, V306, P79, DOI 10.1126/science.1101156
+   Badreddine I, 2008, EUKARYOT CELL, V7, P1980, DOI 10.1128/EC.00091-08
+   Baldauf SL, 2000, SCIENCE, V290, P972, DOI 10.1126/science.290.5493.972
+   Blein JP, 2002, TRENDS PLANT SCI, V7, P293, DOI 10.1016/S1360-1385(02)02284-7
+   BLIGH EG, 1959, CAN J BIOCHEM PHYS, V37, P911
+   Bouvier-Nave P, 1998, EUR J BIOCHEM, V256, P88, DOI 10.1046/j.1432-1327.1998.2560088.x
+   Bowler C, 2008, NATURE, V456, P239, DOI 10.1038/nature07410
+   Cvejic JH, 2000, PHYTOCHEMISTRY, V53, P21, DOI 10.1016/S0031-9422(99)00465-3
+   Dick MW, 1999, MYCOL RES, V103, P1119, DOI 10.1017/S0953756299008643
+   Diener AC, 2000, PLANT CELL, V12, P853, DOI 10.1105/tpc.12.6.853
+   Gaulin E, 2007, MOL PLANT PATHOL, V8, P539, DOI 10.1111/j.1364-3703.2007.00413.X
+   Gaulin E, 2008, PLOS ONE, V3, DOI 10.1371/journal.pone.0001723
+   GOTOH O, 1992, J BIOL CHEM, V267, P83
+   Huelsenbeck JP, 2001, SCIENCE, V294, P2310, DOI 10.1126/science.1065889
+   Jiang RHY, 2006, MOL BIOL EVOL, V23, P338, DOI 10.1093/molbev/msj039
+   Kumar S, 2004, BRIEF BIOINFORM, V5, P150, DOI 10.1093/bib/5.2.150
+   Lamb D, 1999, DRUG RESIST UPDATE, V2, P390, DOI 10.1054/drup.1999.0112
+   Larkin MA, 2007, BIOINFORMATICS, V23, P2947, DOI 10.1093/bioinformatics/btm404
+   Lepesheva GI, 2007, BBA-GEN SUBJECTS, V1770, P467, DOI 10.1016/j.bbagen.2006.07.018
+   Lepesheva GI, 2006, J BIOL CHEM, V281, P3577, DOI 10.1074/jbc.M510317200
+   Lichtenthaler HK, 1997, FEBS LETT, V400, P271, DOI 10.1016/S0014-5793(96)01404-4
+   Madoui MA, 2007, BMC GENOMICS, V8, DOI 10.1186/1471-2164-8-471
+   Marshall JA, 2001, PHYTOCHEMISTRY, V58, P423, DOI 10.1016/S0031-9422(01)00219-9
+   Martens C, 2008, P NATL ACAD SCI USA, V105, P3427, DOI 10.1073/pnas.0712248105
+   Masse G, 2004, P NATL ACAD SCI USA, V101, P4413, DOI 10.1073/pnas.0400902101
+   Odds FC, 2003, TRENDS MICROBIOL, V11, P272, DOI 10.1016/S0966-842X(03)00117-3
+   Phillips AJ, 2008, TRENDS MICROBIOL, V16, P13, DOI 10.1016/j.tim.2007.10.013
+   R Core Team, 2008, R LANG ENV STAT COMP
+   RIEHL RM, 1985, J STEROID BIOCHEM, V23, P483, DOI 10.1016/0022-4731(85)90196-7
+   Riethmuller A, 2002, MYCOLOGIA, V94, P834, DOI 10.2307/3761698
+   Roberts CW, 2003, MOL BIOCHEM PARASIT, V126, P129, DOI 10.1016/S0166-6851(02)00280-3
+   Salamov AA, 2000, GENOME RES, V10, P516, DOI 10.1101/gr.10.4.516
+   Schaller H, 2003, PROG LIPID RES, V42, P163, DOI 10.1016/S0163-7827(02)00047-4
+   Soderhall Kenneth, 1999, Freshwater Crayfish, V12, P11
+   Torto-Alalibo T, 2005, BMC MICROBIOL, V5, DOI 10.1186/1471-2180-5-46
+   Tyler BM, 2006, SCIENCE, V313, P1261, DOI 10.1126/science.1128796
+   Vandersea MW, 2006, APPL ENVIRON MICROB, V72, P1551, DOI 10.1128/AEM.72.2.1551-1557.2006
+   Vauthrin S, 1999, BBA-BIOMEMBRANES, V1419, P335, DOI 10.1016/S0005-2736(99)00083-8
+   Waterman MR, 2005, BIOCHEM BIOPH RES CO, V338, P418, DOI 10.1016/j.bbrc.2005.08.118
+   Whelan S, 2001, MOL BIOL EVOL, V18, P691, DOI 10.1093/oxfordjournals.molbev.a003851
+NR 40
+TC 24
+Z9 24
+U1 0
+U2 24
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0028-646X
+EI 1469-8137
+J9 NEW PHYTOL
+JI New Phytol.
+PY 2009
+VL 183
+IS 2
+BP 291
+EP 300
+DI 10.1111/j.1469-8137.2009.02895.x
+PG 10
+WC Plant Sciences
+SC Plant Sciences
+GA 463JF
+UT WOS:000267427500008
+PM 19496952
+DA 2020-08-14
+ER
+
+PT J
+AU De Michele, R
+   Formentin, E
+   Todesco, M
+   Toppo, S
+   Carimi, F
+   Zottini, M
+   Barizza, E
+   Ferrarini, A
+   Delledonne, M
+   Fontana, P
+   Lo Schiavo, F
+AF De Michele, Roberto
+   Formentin, Elide
+   Todesco, Marco
+   Toppo, Stefano
+   Carimi, Francesco
+   Zottini, Michela
+   Barizza, Elisabetta
+   Ferrarini, Alberto
+   Delledonne, Massimo
+   Fontana, Paolo
+   Lo Schiavo, Fiorella
+TI Transcriptome analysis of Medicago truncatula leaf senescence:
+   similarities and differences in metabolic and transcriptional
+   regulations as compared with Arabidopsis, nodule senescence and nitric
+   oxide signalling
+SO NEW PHYTOLOGIST
+LA English
+DT Article
+DE asparagine-synthetase; cDNA-AFLP; gene ontology; legume; MADS box;
+   Medicago truncatula; senescence; nitric oxide
+ID ASPARAGINE SYNTHETASE GENES; PROGRAMMED CELL-DEATH;
+   GLUTAMINE-SYNTHETASE; MOLECULAR ANALYSIS; ROOT-NODULES; EXPRESSION;
+   THALIANA; PROTEIN; LEAVES; NITROGEN
+AB Here, for the first time, a comprehensive transcriptomics study is presented of leaf senescence in the legume model Medicago truncatula, providing a broad overview of differentially expressed transcripts involved in this process.
+   The cDNA-amplification fragment length polymorphism (AFLP) technique was used to identify > 500 genes, which were cloned and sorted into functional categories according to their gene ontology annotation.
+   Comparison between the datasets of Arabidopsis and M. truncatula leaf senescence reveals common physiological events but differences in the nitrogen metabolism and in transcriptional regulation. In addition, it was observed that a minority of the genes regulated during leaf senescence were equally involved in other processes leading to programmed cell death, such as nodule senescence and nitric oxide signalling.
+   This study provides a wide transcriptional profile for the comprehension of key events of leaf senescence in M. truncatula and highlights a possible regulative role for MADS box transcription factors in the terminal phases of the process.
+   New Phytologist (2009) 181: 563-575 doi: 10.1111/j.1469-8137.2008.02684.x.
+C1 [De Michele, Roberto; Formentin, Elide; Todesco, Marco; Zottini, Michela; Barizza, Elisabetta; Lo Schiavo, Fiorella] Univ Padua, Dipartimento Biol, I-35131 Padua, Italy.
+   [Toppo, Stefano] Univ Padua, Dipartimento Chim Biol, I-35131 Padua, Italy.
+   [Carimi, Francesco] Sez Palermo CNR, Ist Genet Vegetale, I-90129 Palermo, Italy.
+   [Ferrarini, Alberto; Delledonne, Massimo] Univ Verona, Dipartimento Sci & Tecnol, I-37134 Verona, Italy.
+   [Fontana, Paolo] Dept Mol Biol & Genet, IASMA Res Ctr, I-38010 San Michele All Adige, TN, Italy.
+RP Formentin, E (corresponding author), Univ Padua, Dipartimento Biol, Via Ugo Bassi 58-B, I-35131 Padua, Italy.
+EM elide.formentin@gmail.com
+RI Zottini, Michela/Y-3763-2019; Ferrarini, Alberto/G-4517-2012; Carimi,
+   Francesco/E-2954-2016; De Michele, Roberto/Z-4760-2019; Delledonne,
+   Massimo/O-8685-2017; Toppo, Stefano/Z-5479-2019
+OI Ferrarini, Alberto/0000-0002-8452-3380; Carimi,
+   Francesco/0000-0002-7700-9527; De Michele, Roberto/0000-0002-8987-6599;
+   Toppo, Stefano/0000-0002-0246-3119; zottini,
+   michela/0000-0001-8930-2969; Delledonne, Massimo/0000-0002-7100-4581;
+   Todesco, Marco/0000-0002-6227-4096
+FU 'Ministero dell'Istruzione e della Ricerca', FIRB
+FX We are grateful to Professor Mario Terzi, now retired, for his financial
+   and scientific contribution. This work was supported by the 'Ministero
+   dell'Istruzione e della Ricerca', FIRB: 'Postgenomics of forage
+   legumes'.
+CR ALTSCHUL SF, 1997, NUCLEIC ACIDS RES, V25, P3402
+   Andersson A, 2004, GENOME BIOL, V5, DOI 10.1186/gb-2004-5-4-r24
+   Ashburner M, 2000, NAT GENET, V25, P25, DOI 10.1038/75556
+   Herrera-Rodriguez MB, 2006, J PLANT PHYSIOL, V163, P1061, DOI 10.1016/j.jplph.2005.10.012
+   Bhalerao R, 2003, PLANT PHYSIOL, V131, P430, DOI 10.1104/pp.012732
+   Breyne P, 2003, MOL GENET GENOMICS, V269, P173, DOI 10.1007/s00438-003-0830-6
+   Buchanan-Wollaston V, 2005, PLANT J, V42, P567, DOI 10.1111/j.1365-313X.2005.02399.x
+   Buchanan-Wollaston V, 2003, PLANT BIOTECHNOL J, V1, P3, DOI 10.1046/j.1467-7652.2003.00004.x
+   Carimi F, 2005, PLANT CELL ENVIRON, V28, P1171, DOI 10.1111/j.1365-3040.2005.01355.x
+   Carimi F, 2003, PLANTA, V216, P413, DOI 10.1007/s00425-002-0862-x
+   Carvalho H, 1997, PLANT MOL BIOL, V35, P623, DOI 10.1023/A:1005884304303
+   Carvalho H, 2000, PLANT SCI, V159, P301, DOI 10.1016/S0168-9452(00)00360-5
+   Fang SC, 2002, PLANT PHYSIOL, V130, P78, DOI 10.1104/pp.004721
+   Ferrarini A, 2008, MOL PLANT MICROBE IN, V21, P781, DOI 10.1094/MPMI-21-6-0781
+   Gabaldon C, 2005, NEW PHYTOL, V165, P121, DOI 10.1111/j.1469-8137.2004.01230.x
+   Gan SS, 1997, PLANT PHYSIOL, V113, P313, DOI 10.1104/pp.113.2.313
+   Gepstein S, 2003, PLANT J, V36, P629, DOI 10.1046/j.1365-313X.2003.01908.x
+   Gregersen PL, 2007, PLANT BIOTECHNOL J, V5, P192, DOI 10.1111/j.1467-7652.2006.00232.x
+   Guo Y, 2004, PLANT CELL ENVIRON, V27, P521, DOI 10.1111/j.1365-3040.2003.01158.x
+   He YH, 2001, PLANT PHYSIOL, V126, P707, DOI 10.1104/pp.126.2.707
+   Hoeberichts FA, 2007, J EXP BOT, V58, P2873, DOI 10.1093/jxb/erm076
+   Hoenicka H, 2008, PLANTA, V227, P1001, DOI 10.1007/s00425-007-0674-0
+   Huang XQ, 1999, GENOME RES, V9, P868, DOI 10.1101/gr.9.9.868
+   Jukanti AK, 2008, NEW PHYTOL, V177, P333, DOI 10.1111/j.1469-8137.2007.02270.x
+   KING GA, 1995, PLANT PHYSIOL, V108, P125, DOI 10.1104/pp.108.1.419
+   LAM HM, 1994, PLANT PHYSIOL, V106, P1347, DOI 10.1104/pp.106.4.1347
+   Li WZ, 2006, BIOINFORMATICS, V22, P1658, DOI 10.1093/bioinformatics/btl158
+   Lin JF, 2004, PLANT J, V39, P612, DOI 10.1111/j.1365-313X.2004.02160.x
+   LOHMAN KN, 1994, PHYSIOL PLANTARUM, V92, P322, DOI 10.1111/j.1399-3054.1994.tb05343.x
+   Melo PM, 2003, PLANT PHYSIOL, V132, P390, DOI 10.1104/pp.102.016675
+   Quirino BF, 1999, PLANT MOL BIOL, V40, P267, DOI 10.1023/A:1006199932265
+   SANGER F, 1977, P NATL ACAD SCI USA, V74, P5463, DOI 10.1073/pnas.74.12.5463
+   Schmid M, 2005, NAT GENET, V37, P501, DOI 10.1038/ng1543
+   Schneider M, 2005, PLANT PHYSIOL, V138, P59, DOI 10.1104/pp.104.058933
+   Shi LF, 1997, PLANT CELL, V9, P1339, DOI 10.1105/tpc.9.8.1339
+   Swidzinski JA, 2002, PLANT J, V30, P431, DOI 10.1046/j.1365-313X.2002.01301.x
+   Thompson JE, 2004, TRENDS PLANT SCI, V9, P174, DOI 10.1016/j.tplants.2004.02.008
+   TSAI FY, 1990, EMBO J, V9, P323, DOI 10.1002/j.1460-2075.1990.tb08114.x
+   Van de Velde W, 2006, PLANT PHYSIOL, V141, P711, DOI 10.1104/pp.106.078691
+   van Doorn WG, 2003, PLANT MOL BIOL, V53, P845, DOI 10.1023/B:PLAN.0000023670.61059.1d
+   Velasco R, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0001326
+   Weaver LM, 2001, PLANT PHYSIOL, V127, P876, DOI 10.1104/pp.010312
+   Winter D, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000718
+   WINTERMANS JF, 1965, BIOCHIM BIOPHYS ACTA, V109, P448, DOI 10.1016/0926-6585(65)90170-6
+   Yoshida S, 2003, CURR OPIN PLANT BIOL, V6, P79, DOI 10.1016/S1369526602000092
+   Young ND, 2005, PLANT PHYSIOL, V137, P1174, DOI 10.1104/pp.104.057034
+   Zaninotto F, 2006, PLANT PHYSIOL, V141, P379, DOI 10.1104/pp.106.078857
+   Zhang Z, 2000, J COMPUT BIOL, V7, P203, DOI 10.1089/10665270050081478
+   Zimmermann P, 2005, CELL MOL BIOL LETT, V10, P515
+   Zottini M, 2006, NEW PHYTOL, V172, P239, DOI 10.1111/j.1469-8137.2006.01830.x
+NR 50
+TC 40
+Z9 40
+U1 1
+U2 24
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0028-646X
+EI 1469-8137
+J9 NEW PHYTOL
+JI New Phytol.
+PY 2009
+VL 181
+IS 3
+BP 563
+EP 575
+DI 10.1111/j.1469-8137.2008.02684.x
+PG 13
+WC Plant Sciences
+SC Plant Sciences
+GA 394XM
+UT WOS:000262486500007
+PM 19021865
+DA 2020-08-14
+ER
+
+PT J
+AU Martinez-Corral, L
+   Martinez-Rubin, E
+   Flores-Garcia, F
+   Castellanos, GC
+   Juarez, AR
+   Lopez, MJD
+AF Martinez-Corral, L.
+   Martinez-Rubin, E.
+   Flores-Garcia, F.
+   Castellanos, G. C.
+   Juarez, A. R.
+   Lopez, M. J. D.
+TI Database development for alfalfa (Medicago sativa L.) characterization
+   in an artificial vision system
+SO PHYTON-INTERNATIONAL JOURNAL OF EXPERIMENTAL BOTANY
+LA Spanish
+DT Article
+DE artificial intelligence; vision systems; plant nutrition
+AB The increasing demand of alfalfa crop production in the Lagunera Region has caused the search of new alternatives to the conventional methods Of nutritional and hydric evaluation of alfalfa, where costs and time are optimized. The use of a machine vision system for computerized visual recognition of the crop hydric and/or nutritional stress implies the analysis and processing of certain characteristics, such as color, shape and object dimensions from a digital image. Due to the fact that identification parameters are closely related, it is necessary to compile information from specialists, foliar analysis, Mathematical morphology and alfalfa crop deficiency photographs. The goal of this work was to develop an information system that works as a database tool I-or nutritional (nitrogen, phosphorous, potassium) deficiency and water stress characterizations of alfalfa crops, integrating all parameters mentioned before. The database utilizes images Captured by a CCD camera, and results of extraction techniques and recognition Of configured patterns in a machine vision system previously developed. Integration of the artificial vision module and human expert knowledge module arc presented in a single information base, programmed in Visual Basic language.
+C1 [Martinez-Corral, L.; Flores-Garcia, F.] Inst Tecnol Laguna, Torreon, Coahuila, Mexico.
+   [Martinez-Rubin, E.; Castellanos, G. C.; Juarez, A. R.] Inst Tecnol Torreon, Torreon, Coah, Mexico.
+   [Lopez, M. J. D.] Univ Juarez Estado Durango, Fac Agr & Zootecnia, Ej Venecia, Mexico.
+RP Martinez-Corral, L (corresponding author), Inst Tecnol Laguna, Direcc Blvd Revoluc & Clzda,Cuauhtemoc S-N, Torreon, Coahuila, Mexico.
+EM luime_mc18@yahoo.com.mx
+CR Chen Q, 2008, T ASABE, V51, P623, DOI 10.13031/2013.24363
+   Corona S.T, 2000, TERRA LATINOAMERICAN, V18, P173
+   GONZALEZ RC, 1996, MEJORA IMAGEN MODELO, P175
+   Lee W. S., 1999, Precision Agriculture, V1, P95, DOI 10.1023/A:1009977903204
+   PILATTI MA, 2001, REV FAVE, V15, P45
+   Salazar-Sosa E, 2007, PHYTON-INT J EXP BOT, V76, P169
+   Volke-Holler V, 1998, TERRA, V16, P79
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 3
+PU FUNDACION ROMULO RAGGIO
+PI VICENTE LOPEZ (BA)
+PA GASPAR CAMPOS 861, 1638 VICENTE LOPEZ (BA), ARGENTINA
+SN 1851-5657
+J9 PHYTON-INT J EXP BOT
+JI Phyton-Int. J. Exp. Bot.
+PY 2009
+VL 78
+BP 43
+EP 47
+PG 5
+WC Plant Sciences
+SC Plant Sciences
+GA 537EL
+UT WOS:000273095700008
+DA 2020-08-14
+ER
+
+PT J
+AU Zhang, J
+   Subramanian, S
+   Stacey, G
+   Yu, O
+AF Zhang, Juan
+   Subramanian, Senthil
+   Stacey, Gary
+   Yu, Oliver
+TI Flavones and flavonols play distinct critical roles during nodulation of
+   Medicago truncatula by Sinorhizobium meliloti
+SO PLANT JOURNAL
+LA English
+DT Article
+DE Medicago truncatula; auxin transport; flavonoids; nodulation; flavone;
+   flavonol
+ID ROOT-NODULE FORMATION; AUXIN TRANSPORT; RHIZOBIUM-MELILOTI; ISOFLAVONE
+   SYNTHASE; LEGUME NODULATION; SIGNAL EXCHANGE; GENE-EXPRESSION; WHITE
+   CLOVER; BIOSYNTHESIS; ALFALFA
+AB Flavonoids play critical roles in legume-rhizobium symbiosis. However, the role of individual flavonoid compounds in this process has not yet been clearly established. We silenced different flavonoid-biosynthesis enzymes to generate transgenic Medicago truncatula roots with different flavonoid profiles. Silencing of chalcone synthase, the key entry-point enzyme for flavonoid biosynthesis led to flavonoid-deficient roots. Silencing of isoflavone synthase and flavone synthase led to roots deficient for a subset of flavonoids, isoflavonoids (formononetin and biochanin A) and flavones (7,4'-dihydroxyflavone), respectively. When tested for nodulation by Sinorhizobium meliloti, flavonoid-deficient roots had a near complete loss of nodulation, whereas flavone-deficient roots had reduced nodulation. Isoflavone-deficient roots nodulated normally, suggesting that isoflavones might not play a critical role in M. truncatula nodulation, even though they are the most abundant root flavonoids. Supplementation of flavone-deficient roots with 7, 4'-dihydroxyflavone, a major inducer of S. meliloti nod genes, completely restored nodulation. However, the same treatment did not restore nodulation in flavonoid-deficient roots, suggesting that other non-nod gene-inducing flavonoid compounds are also critical to nodulation. Supplementation of roots with the flavonol kaempferol (an inhibitor of auxin transport), in combination with the use of flavone pre-treated S. meliloti cells, completely restored nodulation in flavonoid-deficient roots. In addition, S. meliloti cells constitutively producing Nod factors were able to nodulate flavone-deficient roots, but not flavonoid-deficient roots. These observations indicated that flavones might act as internal inducers of rhizobial nod genes, and that flavonols might act as auxin transport regulators during nodulation. Both these roles of flavonoids appear critical for symbiosis in M. truncatula.
+C1 [Zhang, Juan; Subramanian, Senthil; Yu, Oliver] Donald Danforth Plant Sci Ctr, St Louis, MO 63132 USA.
+   [Stacey, Gary] Univ Missouri, Natl Ctr Soybean Biotechnol, Div Plant Sci, Columbia, MO 65211 USA.
+   [Stacey, Gary] Univ Missouri, Div Biochem, Dept Mol Microbiol & Immunol, Christopher S Bond Life Sci Ctr, Columbia, MO 65211 USA.
+RP Yu, O (corresponding author), Donald Danforth Plant Sci Ctr, 975 N Warson Rd, St Louis, MO 63132 USA.
+EM oyu@danforthcenter.org
+OI Subramanian, Senthil/0000-0002-7403-1139
+FU Missouri Soybean Merchandising Council [03-242]; National Science
+   FoundationNational Science Foundation (NSF) [DBI-0421620]
+FX We thank Dr Sharon Long, Stanford University, for the S. meliloti
+   mutants. This research was supported by grants from Missouri Soybean
+   Merchandising Council 03-242 (to OY), and the National Science
+   Foundation, Plant Genome program DBI-0421620 (to GS).
+CR Akashi T, 1999, PLANT PHYSIOL, V121, P821, DOI 10.1104/pp.121.3.821
+   Arrighi JF, 2006, PLANT PHYSIOL, V142, P265, DOI 10.1104/pp.106.084657
+   Austin MB, 2003, NAT PROD REP, V20, P79, DOI 10.1039/b100917f
+   Barnett MJ, 2004, P NATL ACAD SCI USA, V101, P16636, DOI 10.1073/pnas.0407269101
+   Begum AA, 2001, J EXP BOT, V52, P1537, DOI 10.1093/jexbot/52.360.1537
+   Boot KJM, 1999, MOL PLANT MICROBE IN, V12, P839, DOI 10.1094/MPMI.1999.12.10.839
+   Bovy A, 2002, PLANT CELL, V14, P2509, DOI 10.1105/tpc.004218
+   Brown DE, 2001, PLANT PHYSIOL, V126, P524, DOI 10.1104/pp.126.2.524
+   Collier R, 2005, PLANT J, V43, P449, DOI 10.1111/j.1365-313X.2005.02454.x
+   Cooper JE, 1995, SYMBIOSIS, V19, P91
+   CORONADO C, 1995, PLANT PHYSIOL, V108, P533, DOI 10.1104/pp.108.2.533
+   Den Herder J, 2007, PLANT PHYSIOL, V144, P717, DOI 10.1104/pp.107.098764
+   Denarie J, 1996, ANNU REV BIOCHEM, V65, P503, DOI 10.1146/annurev.bi.65.070196.002443
+   DIXON RA, 1995, PLANT CELL, V7, P1085, DOI 10.1105/tpc.7.7.1085
+   FISHER RF, 1992, NATURE, V357, P655, DOI 10.1038/357655a0
+   FISHER RF, 1988, GENE DEV, V2, P282, DOI 10.1101/gad.2.3.282
+   HARTWIG UA, 1989, PLANT PHYSIOL, V91, P1138, DOI 10.1104/pp.91.3.1138
+   HIRSCH AM, 1992, NEW PHYTOL, V122, P211, DOI 10.1111/j.1469-8137.1992.tb04227.x
+   HIRSCH AM, 1989, P NATL ACAD SCI USA, V86, P1244, DOI 10.1073/pnas.86.4.1244
+   HONMA MA, 1987, P NATL ACAD SCI USA, V84, P8558, DOI 10.1073/pnas.84.23.8558
+   Hungria M, 1997, SOIL BIOL BIOCHEM, V29, P819, DOI 10.1016/S0038-0717(96)00239-8
+   JACOBS M, 1988, SCIENCE, V241, P346, DOI 10.1126/science.241.4863.346
+   Jung W, 2000, NAT BIOTECHNOL, V18, P208, DOI 10.1038/72671
+   LULLIEN V, 1987, PLANT MOL BIOL, V9, P469, DOI 10.1007/BF00015878
+   Martens S, 2005, PHYTOCHEMISTRY, V66, P2399, DOI 10.1016/j.phytochem.2005.07.013
+   Mathesius U, 1998, PLANT J, V14, P23, DOI 10.1046/j.1365-313X.1998.00090.x
+   Mathesius U, 2001, J EXP BOT, V52, P419, DOI 10.1093/jexbot/52.suppl_1.419
+   MULLIGAN JT, 1989, GENETICS, V122, P7
+   Peer WA, 2004, PLANT CELL, V16, P1898, DOI 10.1105/tpc.021501
+   Peer WA, 2007, TRENDS PLANT SCI, V12, P556, DOI 10.1016/j.tplants.2007.10.003
+   Perret X, 2000, MICROBIOL MOL BIOL R, V64, P180, DOI 10.1128/MMBR.64.1.180-201.2000
+   PETERS NK, 1986, SCIENCE, V233, P977, DOI 10.1126/science.3738520
+   PHILLIPS DA, 1993, CURR PLANT SCI BIOT, V17, P197
+   SHARMA SB, 1990, GENE DEV, V4, P344, DOI 10.1101/gad.4.3.344
+   SPRENT JI, 2001, NODULATION LEGUMES
+   Steele CL, 1999, ARCH BIOCHEM BIOPHYS, V367, P146, DOI 10.1006/abbi.1999.1238
+   Subramanian S, 2005, PLANT PHYSIOL, V137, P1345, DOI 10.1104/pp.104.057257
+   Subramanian S, 2004, PLANT MOL BIOL, V54, P623, DOI 10.1023/B:PLAN.0000040814.28507.35
+   Subramanian S, 2007, TRENDS PLANT SCI, V12, P282, DOI 10.1016/j.tplants.2007.06.006
+   Subramanian S, 2006, PLANT J, V48, P261, DOI 10.1111/j.1365-313X.2006.02874.x
+   Suominen L, 2003, FEMS MICROBIOL LETT, V219, P225, DOI 10.1016/S0378-1097(02)01206-5
+   Timmers ACJ, 1998, DEVELOPMENT, V125, P339
+   Wasson AP, 2006, PLANT CELL, V18, P1617, DOI 10.1105/tpc.105.038232
+   Winkel-Shirley B, 2001, PLANT PHYSIOL, V126, P485, DOI 10.1104/pp.126.2.485
+   Yu O, 2003, PHYTOCHEMISTRY, V63, P753, DOI 10.1016/S0031-9422(03)00345-5
+   ZHANG J, 2006, MEDICAGO TRUNCATULA
+   Zhang JA, 2007, PLANT PHYSIOL, V144, P741, DOI 10.1104/pp.106.095018
+   Zuanazzi JAS, 1998, MOL PLANT MICROBE IN, V11, P784, DOI 10.1094/MPMI.1998.11.8.784
+NR 48
+TC 122
+Z9 128
+U1 8
+U2 71
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0960-7412
+EI 1365-313X
+J9 PLANT J
+JI Plant J.
+PD JAN
+PY 2009
+VL 57
+IS 1
+BP 171
+EP 183
+DI 10.1111/j.1365-313X.2008.03676.x
+PG 13
+WC Plant Sciences
+SC Plant Sciences
+GA 387OY
+UT WOS:000261962700014
+PM 18786000
+DA 2020-08-14
+ER
+
+PT J
+AU Seger, M
+   Ortega, JL
+   Bagga, S
+   Gopalan, CS
+AF Seger, Mark
+   Ortega, Jose Luis
+   Bagga, Suman
+   Gopalan, Champa-Sengupta
+TI Repercussion of mesophyll-specific overexpression of a soybean cytosolic
+   glutamine synthetase gene in alfalfa (Medicago sativa L.) and tobacco
+   (Nicotiana tabaccum L.)
+SO PLANT SCIENCE
+LA English
+DT Article
+DE Glutamine synthetase; Mesophyll-specific overexpression; Nitrogen
+   assimilation; Photorespiratory ammonium; Transgenic alfalfa
+ID NITROGEN USE EFFICIENCY; POSTTRANSLATIONAL REGULATION; EXPRESSION;
+   ASSIMILATION; DEHYDROGENASE; LOCALIZATION; ACCUMULATION; IMPROVEMENT;
+   STABILITY; SHOOTS
+AB Glutamine synthetase (GS) plays a central role in plant nitrogen metabolism. Plant GS occurs as a number of isoenzymes present in either the cytosol (GS(1)) or chloroplast/plastid (GS(2)). There are several reports of improved performance in transgenic plants overexpressing GS(1), transgenes driven by the constitutive CaMV35S promoter. Improvement has been attributed to the GS, transgene product functioning to enhance re-assimilation of NH4+ released by photorespiration or protein degradation. In this paper, alfalfa and tobacco transformants expressing a soybean gene driven by a photosynthetic cell-specific promoter have been compared to transformants with the same transgene driven by the stronger CaMV35S promoter. The two classes of alfalfa and tobacco transformants showed differences in the level of GS, transcript and GS, protein accumulation, but the difference in the total GS activity was small. The discrepancy in the transgene expression level and GS activity has been attributed to posttranslational regulation at the level of holoprotein stability. Both classes of transformants exhibited similar level of improvement in soluble protein and in the rates of photosynthesis and photorespiration. The data supports the hypothesis that CS, made in the mesophyll cells is involved in the re-assimilation of NH4+ released via photorespiration and/or protein degradation. (C) 2008 Elsevier Ireland Ltd. All rights reserved.
+C1 [Seger, Mark; Gopalan, Champa-Sengupta] New Mexico State Univ, Grad Program Mol Biol, Las Cruces, NM 88003 USA.
+   [Ortega, Jose Luis; Bagga, Suman; Gopalan, Champa-Sengupta] New Mexico State Univ, Dept Plant & Environm Sci, Las Cruces, NM 88003 USA.
+RP Gopalan, CS (corresponding author), New Mexico State Univ, Grad Program Mol Biol, Las Cruces, NM 88003 USA.
+EM mseger@nmsu.edu; jortegac@nmsu.edu; sbagga@nmsu.edu; csgopala@nmsu.edu
+FU National Institutes of HealthUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [GMO-8136-26,
+   GMO-61222, GMO-7667-25]; Agricultural Experiment Station at New Mexico
+   State University
+FX This work was supported by the National Institutes of Health (Grant Nos.
+   GMO-8136-26, GMO-61222 and GMO-7667-25) and by the Agricultural
+   Experiment Station at New Mexico State University. We would also like to
+   thank the NSF program AGEP for fellowship support.
+CR ARTUS NN, 1986, CRIT REV PLANT SCI, V4, P121, DOI 10.1080/07352688609382221
+   Bernard SM, 2008, PLANT MOL BIOL, V67, P89, DOI 10.1007/s11103-008-9303-y
+   Brugiere N, 2000, PLANTA, V211, P519, DOI 10.1007/s004250000309
+   Carvalho H, 2000, PLANT MOL BIOL, V42, P741, DOI 10.1023/A:1006304003770
+   CORUZZI G, 2000, BIOCH MOL BIOL PLANT, P358
+   EDWARDS JW, 1990, P NATL ACAD SCI USA, V87, P3459, DOI 10.1073/pnas.87.9.3459
+   Fei H, 2006, PLANT PHYSIOL BIOCH, V44, P543, DOI 10.1016/j.plaphy.2006.09.007
+   FERGUSON AR, 1971, J GEN MICROBIOL, V69, P423, DOI 10.1099/00221287-69-3-423
+   Finnemann J, 2000, PLANT J, V24, P171, DOI 10.1046/j.1365-313x.2000.00863.x
+   Fuentes SI, 2001, J EXP BOT, V52, P1071, DOI 10.1093/jexbot/52.358.1071
+   Gallardo F, 1999, PLANTA, V210, P19, DOI 10.1007/s004250050649
+   Good AG, 2004, TRENDS PLANT SCI, V9, P597, DOI 10.1016/j.tplants.2004.10.008
+   Habash DZ, 2007, THEOR APPL GENET, V114, P403, DOI 10.1007/s00122-006-0429-5
+   Habash DZ, 2001, ANN APPL BIOL, V138, P83, DOI 10.1111/j.1744-7348.2001.tb00087.x
+   Hirel B, 2001, PLANT PHYSIOL, V125, P1258, DOI 10.1104/pp.125.3.1258
+   Kiyomiya S, 2001, PLANT PHYSIOL, V125, P1743, DOI 10.1104/pp.125.4.1743
+   Kozaki A, 1996, NATURE, V384, P557, DOI 10.1038/384557a0
+   Lamb JFS, 2006, CROP SCI, V46, P902, DOI 10.2135/cropsci2005.08-0236
+   Lea PJ, 1999, BOOK SOIL P, P1
+   Lima L, 2006, J EXP BOT, V57, P2751, DOI 10.1093/jxb/erl036
+   Loudet O, 2003, PLANT PHYSIOL, V131, P345, DOI 10.1104/pp.102.010785
+   Marquez AJ, 2005, J EXP BOT, V56, P1741, DOI 10.1093/jxb/eri171
+   Martin A, 2006, PLANT CELL, V18, P3252, DOI 10.1105/tpc.106.042689
+   Masclaux C, 2000, PLANTA, V211, P510, DOI 10.1007/s004250000310
+   Miflin BJ, 2002, J EXP BOT, V53, P979, DOI 10.1093/jexbot/53.370.979
+   Morey KJ, 2002, PLANT PHYSIOL, V128, P182, DOI 10.1104/pp.010380
+   Obara M, 2004, THEOR APPL GENET, V110, P1, DOI 10.1007/s00122-004-1828-0
+   Oliveira IC, 2002, PLANT PHYSIOL, V129, P1170, DOI 10.1104/pp.020013
+   Orea A, 2002, PHYSIOL PLANTARUM, V115, P352, DOI 10.1034/j.1399-3054.2002.1150304.x
+   Ortega JL, 1999, PLANT PHYSIOL, V119, P1483, DOI 10.1104/pp.119.4.1483
+   Ortega JL, 2006, PLANT J, V45, P832, DOI 10.1111/j.1365-313X.2005.02644.x
+   Ortega JL, 2004, PLANTA, V219, P807, DOI 10.1007/s00425-004-1292-8
+   Ortega JL, 2001, PLANT PHYSIOL, V126, P109, DOI 10.1104/pp.126.1.109
+   Perez-Garcia A, 1998, PLANTA, V206, P426, DOI 10.1007/s004250050418
+   PORRA RJ, 1989, BIOCHIM BIOPHYS ACTA, V975, P384, DOI 10.1016/S0005-2728(89)80347-0
+   Potenza C, 2004, IN VITRO CELL DEV-PL, V40, P1, DOI 10.1079/IVP2003477
+   Putnam D, 2001, ALFALFA WILDLIFE ENV, P1
+   Riedel J, 2001, PLANTA, V213, P396, DOI 10.1007/s004250000509
+   Sambrook J, 2001, MOL CLONING LAB MANU
+   Taira M, 2004, PLANT CELL, V16, P2048, DOI 10.1105/tpc.104.022046
+   TEMPLE SJ, 1993, MOL GEN GENET, V236, P315, DOI 10.1007/BF00277128
+   Unno H, 2006, J BIOL CHEM, V281, P29287, DOI 10.1074/jbc.M601497200
+   Vincent R, 1997, PLANTA, V201, P424, DOI 10.1007/s004250050085
+   Zozaya-Hinchliffe M, 2005, PLANT SCI, V168, P1041, DOI 10.1016/j.plantsci.2004.12.001
+NR 44
+TC 14
+Z9 14
+U1 0
+U2 15
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0168-9452
+J9 PLANT SCI
+JI Plant Sci.
+PD JAN
+PY 2009
+VL 176
+IS 1
+BP 119
+EP 129
+DI 10.1016/j.plantsci.2008.10.006
+PG 11
+WC Biochemistry & Molecular Biology; Plant Sciences
+SC Biochemistry & Molecular Biology; Plant Sciences
+GA 381QV
+UT WOS:000261551900016
+PM 25067868
+OA Green Accepted
+DA 2020-08-14
+ER
+
+PT J
+AU Aloui, A
+   Recorbet, G
+   Gollotte, A
+   Robert, F
+   Valot, B
+   Gianinazzi-Pearson, V
+   Aschi-Smiti, S
+   Dumas-Gaudot, E
+AF Aloui, Achref
+   Recorbet, Ghislaine
+   Gollotte, Armelle
+   Robert, Franck
+   Valot, Benoit
+   Gianinazzi-Pearson, Vivienne
+   Aschi-Smiti, Samira
+   Dumas-Gaudot, Eliane
+TI On the mechanisms of cadmium stress alleviation in Medicago truncatula
+   by arbuscular mycorrhizal symbiosis: A root proteomic study
+SO PROTEOMICS
+LA English
+DT Article
+DE Arbuscular mycorrhizal symbiosis; Cadmium; Mass spectrometry; Stress
+   responses; Two-dimensional electrophoresis
+ID INDUCED OXIDATIVE STRESS; HEAVY-METAL TOLERANCE; GLOMUS-MOSSEAE;
+   ESCHERICHIA-COLI; PLANTS; ARABIDOPSIS; EXPRESSION; PROTEIN; GENES;
+   RESISTANCE
+AB The arbuscular mycorrhizal (AM) symbiosis belongs to the strategies plants have developed to cope with adverse environmental conditions including contamination by heavy metals such as cadmium (Cd). In the present work, we report on the protective effect conferred by AM symbiosis to the model legume Medicago truncatula grown in presence of Cd, and on the 2-D-based proteomic approach further used to compare the proteomes of M. truncatula roots either colonised or not with the AM fungus Glomus intraradices in Cd-free and Cd-contaminated substrates. The results indicated that at the proteome level, 9 out of the 15 cadmium-induced changes in non-mycorrhizal roots were absent or inverse in those Cd-treated and colonized by G. intraradices, including the G. intraradices-dependent down-accumulation of Cd stress-responsive proteins. Out of the twenty-six mycorrhiza-related proteins that were identified, only six displayed changes in abundance upon Cd exposure, suggesting that part of the symbiotic program, which displays low sensitivity to Cd, may be recruited to counteract Cd toxicity through the mycorrhiza-dependent synthesis of proteins having functions putatively involved in alleviating oxidative damages, including a cyclophilin, a guanine nucleotide-binding protein, an ubiquitin carboxylterminal hydrolase, a thiazole biosynthetic enzyme, an annexin, a glutathione S-transferase (GST)-like protein, and a S-adenosylmethionine (SAM) synthase.
+C1 [Aloui, Achref; Recorbet, Ghislaine; Gollotte, Armelle; Robert, Franck; Gianinazzi-Pearson, Vivienne; Dumas-Gaudot, Eliane] INRA, CNRS, UMR 1088, CMSE,UB Plante Microbe Environm 5184, F-21065 Dijon, France.
+   [Aloui, Achref; Aschi-Smiti, Samira] Fac Sci Tunis, Dept Sci Biol, Tunis 1060, Tunisia.
+   [Valot, Benoit] UMR Genet Vegetale, Gif Sur Yvette, France.
+RP Recorbet, G (corresponding author), INRA, CNRS, UMR 1088, CMSE,UB Plante Microbe Environm 5184, BP 86510, F-21065 Dijon, France.
+EM recorbet@dijon.inra.fr
+RI Valot, Benoit/G-3521-2018
+FU Conseil Regional de BourgogneRegion Bourgogne-Franche-Comte [CT 06516 CP
+   015 S248]
+FX The authors are grateful to Michel Zivy (UMR de Genetique Vegetale,
+   INRA, Gif sur Yvette, France) for providing access to the Mass
+   Spectrometry Platform at the 'Ferme du Moulon", to Istvan Paradi for
+   critical reading of the manuscript and to Zeina Daher and Helene Zuber
+   for suggestions, criticism and constant support. A. A. was financially
+   supported by a grant of the Faculty of Sciences of Tunis (Tunisia). This
+   work was funded through the "Conseil Regional de Bourgogne" (CT 06516 CP
+   015 S248).
+CR ALARY J, 1992, BIOCHEM PHARMACOL, V44, P2139, DOI 10.1016/0006-2952(92)90340-O
+   Alloway BJ, 1990, HEAVY METALS SOILS
+   AzconAguilar C, 1996, MYCORRHIZA, V6, P457, DOI 10.1007/s005720050147
+   Bestel-Corre G, 2002, ELECTROPHORESIS, V23, P122, DOI 10.1002/1522-2683(200201)23:1&lt;122::AID-ELPS122&gt;3.0.CO;2-4
+   Blilou I, 2000, MYCOL RES, V104, P722, DOI 10.1017/S095375629900204X
+   Brechenmacher L, 2004, MYCORRHIZA, V14, P253, DOI 10.1007/s00572-003-0263-4
+   Castillo C, 2005, BIOGERONTOLOGY, V6, P313, DOI 10.1007/s10522-005-4806-2
+   Choi HW, 2007, PLANT PHYSIOL, V145, P890, DOI 10.1104/pp.107.103325
+   Das P, 1997, ENVIRON POLLUT, V98, P29, DOI 10.1016/S0269-7491(97)00110-3
+   Delmer DP, 1997, CELL MOL LIFE SCI, V53, P546, DOI 10.1007/s000180050070
+   Dumas-Gaudot E, 2004, PROTEOMICS, V4, P451, DOI 10.1002/pmic.200300627
+   DUMASGAUDOT E, 1994, MYCORRHIZA, V4, P215, DOI 10.1007/BF00206783
+   Fester T, 2005, MYCORRHIZA, V15, P373, DOI 10.1007/s00572-005-0363-4
+   Frank A, 2005, ANAL CHEM, V77, P964, DOI 10.1021/ac048788h
+   FRANKEN P, 1994, MOL PLANT MICROBE IN, V7, P612, DOI 10.1094/MPMI-7-0612
+   Frosch SC, 2002, PLANT SCI, V162, P401, DOI 10.1016/S0168-9452(01)00577-5
+   Frova C, 2003, PHYSIOL PLANTARUM, V119, P469, DOI 10.1046/j.1399-3054.2003.00183.x
+   Gallardo K, 2007, MOL CELL PROTEOMICS, V6, P2165, DOI 10.1074/mcp.M700171-MCP200
+   Gidrol X, 1996, P NATL ACAD SCI USA, V93, P11268, DOI 10.1073/pnas.93.20.11268
+   Gonzalez-Chavez C, 2002, NEW PHYTOL, V155, P163, DOI 10.1046/j.1469-8137.2002.00430.x
+   GORG A, 1987, ELECTROPHORESIS, V8, P122, DOI 10.1002/elps.1150080207
+   Hildebrandt U, 2007, PHYTOCHEMISTRY, V68, P139, DOI 10.1016/j.phytochem.2006.09.023
+   Hohnjec N, 2005, PLANT PHYSIOL, V137, P1283, DOI 10.1104/pp.104.056572
+   Joner EJ, 2000, PLANT SOIL, V226, P227, DOI 10.1023/A:1026565701391
+   Joner EJ, 1997, NEW PHYTOL, V135, P353, DOI 10.1046/j.1469-8137.1997.00633.x
+   Kabala K, 2008, J PLANT PHYSIOL, V165, P278, DOI 10.1016/j.jplph.2007.03.007
+   Kaldorf M, 1999, J PLANT PHYSIOL, V154, P718, DOI 10.1016/S0176-1617(99)80250-8
+   Katayama A, 2002, EUR J BIOCHEM, V269, P2403, DOI 10.1046/j.1432-1033.2002.02900.x
+   KIRKHAM MB, 2006, CADMIUM PLANTS POLLU, P131
+   Lane TW, 2005, NATURE, V435, P42, DOI 10.1038/435042a
+   Lanfranco L, 2002, PLANT PHYSIOL, V130, P58, DOI 10.1104/pp.003525
+   Leyval C, 1997, MYCORRHIZA, V7, P139, DOI 10.1007/s005720050174
+   Leyval C, 2002, MYCORRHIZAL TECHNOLOGY IN AGRICULTURE: FROM GENES TO BIOPRODUCTS, P175
+   Liu JY, 2003, PLANT CELL, V15, P2106, DOI 10.1105/tpc.014183
+   Lohse S, 2005, PLANT PHYSIOL, V139, P329, DOI 10.1104/pp.105.061457
+   Mackey D, 2002, CELL, V108, P743, DOI 10.1016/S0092-8674(02)00661-X
+   Marmiroli N, 2006, NATO SCI S SS IV EAR, V69, P403
+   Mathesius U, 2001, PROTEOMICS, V1, P1424
+   Meharg AA, 2000, SOIL BIOL BIOCHEM, V32, P1475, DOI 10.1016/S0038-0717(00)00076-6
+   Nandi D, 2005, TOXICOLOGY, V211, P26, DOI 10.1016/j.tox.2005.02.013
+   Noriega GO, 2007, BIOMETALS, V20, P841, DOI 10.1007/s10534-006-9077-0
+   Parniske M, 2000, CURR OPIN PLANT BIOL, V3, P320, DOI 10.1016/S1369-5266(00)00088-1
+   Pilon-Smits E, 2002, CRIT REV PLANT SCI, V21, P439, DOI 10.1080/0735-260291044313
+   Poschenrieder C, 2006, TRENDS PLANT SCI, V11, P288, DOI 10.1016/j.tplants.2006.04.007
+   Pozo MJ, 2007, CURR OPIN PLANT BIOL, V10, P393, DOI 10.1016/j.pbi.2007.05.004
+   Prasad MNV, 1995, ENVIRON EXP BOT, V35, P525, DOI 10.1016/0098-8472(95)00024-0
+   RAMAGLI LS, 1985, ELECTROPHORESIS, V6, P559, DOI 10.1002/elps.1150061109
+   Repetto O, 2003, NEW PHYTOL, V157, P555, DOI 10.1046/j.1469-8137.2003.00682.x
+   Requejo R, 2006, PROTEOMICS, V6, pS156, DOI 10.1002/pmic.200500381
+   Rivera-Becerril F, 2005, MYCORRHIZA, V16, P51, DOI 10.1007/s00572-005-0016-7
+   Roth U, 2006, J EXP BOT, V57, P4003, DOI 10.1093/jxb/erl170
+   Ruepp A, 2004, NUCLEIC ACIDS RES, V32, P5539, DOI 10.1093/nar/gkh894
+   Sanita di Toppi L, 1999, ENVIRON EXP BOT, V41, P105, DOI 10.1016/S0098-8472(98)00058-6
+   Sarry JE, 2006, PROTEOMICS, V6, P2180, DOI 10.1002/pmic.200500543
+   Schussler A, 2001, MYCOL RES, V105, P1413, DOI 10.1017/S0953756201005196
+   Schutzendubel A, 2002, J EXP BOT, V53, P1351, DOI 10.1093/jexbot/53.372.1351
+   Silvestre F, 2006, AQUAT TOXICOL, V76, P46, DOI 10.1016/j.aquatox.2005.09.006
+   Slezack S, 2000, MOL PLANT MICROBE IN, V13, P238, DOI 10.1094/MPMI.2000.13.2.238
+   Smith SE, 1997, MYCORRHIZAL SYMBIOSI, P81
+   TROUVELOT A, 1986, RECHERCHE METHODES E, P217
+   TURNAU K, 1993, BOT ACTA, V106, P213, DOI 10.1111/j.1438-8677.1993.tb00742.x
+   VANASSCHE F, 1988, ENVIRON POLLUT, V52, P103, DOI 10.1016/0269-7491(88)90084-X
+   Vido K, 2001, J BIOL CHEM, V276, P8469, DOI 10.1074/jbc.M008708200
+   Xiang CB, 1998, PLANT CELL, V10, P1539, DOI 10.1105/tpc.10.9.1539
+   Yang QS, 2007, PROTEOMICS, V7, P737, DOI 10.1002/pmic.200600703
+   ZhongQun H, 2007, COLLOID SURFACE B, V59, P128, DOI 10.1016/j.colsurfb.2007.04.023
+NR 66
+TC 58
+Z9 64
+U1 3
+U2 43
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1615-9853
+EI 1615-9861
+J9 PROTEOMICS
+JI Proteomics
+PD JAN
+PY 2009
+VL 9
+IS 2
+BP 420
+EP 433
+DI 10.1002/pmic.200800336
+PG 14
+WC Biochemical Research Methods; Biochemistry & Molecular Biology
+SC Biochemistry & Molecular Biology
+GA 403YJ
+UT WOS:000263117600017
+PM 19072729
+DA 2020-08-14
+ER
+
+PT J
+AU Shebl, MA
+   Kamel, SM
+   Abu Hashesh, TA
+   Osman, MA
+AF Shebl, Mohamed A.
+   Kamel, Soliman M.
+   Abu Hashesh, Talaat A.
+   Osman, Mohamed A.
+TI THE IMPACT OF USING LEAFCUTTING BEES (Megachilidae hymenoptera) WITH
+   DIFFERENT FERTILIZATION TREATMENTS ON ALFALFA SEED PRODUCTION
+SO REVISTA DE LA CIENCIA DEL SUELO Y NUTRICION VEGETAL
+LA English
+DT Article
+DE Pollination; Alfalfa; Seed Production; Leafcutting bees
+ID POLLINATION; POTASSIUM; GROWTH; YIELDS
+AB Alfalfa, Medicago sativa (L, 1753), one of the most important forage crops in the world; leafcutting bees which belong to Family Megachilidae are very promising pollinator of Alfalfa is USA and Canada. Different lefacutting natural nests were discovered in Ismailia (east part of Egypt). Artificial polystyrene foam nests were used for bees nesting; it is easy to manage and handle it in alfalfa fields. Different fertilization treatments were carried out for testing their impact on alfalfa seed production in the presence of artificial nests. The seed production depends basically on the pollination of leafcutting bees (tripping mechanism) more than fertilization treatment; we found no significant differences between different fertilization treatments. It is highly recommended to use phosphorus and potassium fertilizers during the blooming season synchronized with leafcutting bees.
+C1 [Shebl, Mohamed A.; Kamel, Soliman M.; Abu Hashesh, Talaat A.; Osman, Mohamed A.] Suez Canal Univ, Fac Agr, Dept Plant Protect, Ismailia, Egypt.
+   [Shebl, Mohamed A.] Kyushu Univ, Grad Sch Bioresource & Bioenvironm, Entomol Lab, Fukuoka 8128581, Japan.
+RP Shebl, MA (corresponding author), Suez Canal Univ, Fac Agr, Dept Plant Protect, Ismailia, Egypt.
+EM mohamedshebl2002@hotmail.com
+RI Shebl, Mohamed/AAF-6913-2019
+OI Shebl, Mohamed/0000-0002-4099-9846
+FU Egyptian Academy for Science and TechnologyEgyptian Academy of
+   Scientific Research and Technology (ASRT)
+FX Thanks for Bee Research Unit peoples at Faculty of Agriculture, Suez
+   Canal University. My deep thanks for the chief editor and two anonyms
+   referee of the journal for their comments. This study supported by
+   Egyptian Academy for Science and Technology.
+CR [Anonymous], 1995, SEED TRADE NEWS, V116, P14
+   AZCON R, 1988, BIOL FERT SOILS, V7, P28, DOI 10.1007/BF00260728
+   BAIRD CR, 1991, POLLINATORS W REGION, V12
+   Berg WK, 2005, CROP SCI, V45, P297, DOI 10.2135/cropsci2005.0297
+   Breazeale D, 2008, J CENT EUR AGRIC, V9, P107
+   GOPLEN BO, 1982, AGR CANADA PUBL E, V1705
+   Gossen BD, 2004, CAN J PLANT SCI, V84, P1105, DOI 10.4141/P03-136
+   Kamel S. M., 2007, AGR RES J SUEZ CANAL, V7, P97
+   Malhi SS, 2001, NUTR CYCL AGROECOSYS, V59, P1, DOI 10.1023/A:1009889218829
+   MARKUS D. K., 1965, AGRON J, V57, P613
+   Mullen R. W., 2000, Better Crops with Plant Food, V84, P18
+   OLMSTEAD AL, 1987, AM J AGR ECON, V69, P56, DOI 10.2307/1241306
+   Shebl M. A., 2008, Agricultura (Slovenia), V5, P33
+   SHOUKRY A, 2004, AGR RES J SUEZ CANAL, V3, P139
+   SMITH D, 1975, AGRON J, V67, P60, DOI 10.2134/agronj1975.00021962006700010016x
+   Strickler K, 1996, J KANSAS ENTOMOL SOC, V69, P201
+   1982, FERTILIZER PRACTICES
+NR 17
+TC 4
+Z9 5
+U1 0
+U2 5
+PU SOC CHILENA CIENCIA SUELO
+PI TEMUCO
+PA CASILLA 54-D, TEMUCO, 00000, CHILE
+SN 0717-635X
+J9 REV CIENC SUELO NUTR
+JI Rev. Cienc. Suelo Nutr.
+PY 2009
+VL 9
+IS 2
+BP 134
+EP 141
+PG 8
+WC Soil Science
+SC Agriculture
+GA 490UJ
+UT WOS:000269531800005
+OA DOAJ Gold
+DA 2020-08-14
+ER
+
+PT J
+AU Tucak, M
+   Popovic, S
+   Cupic, T
+   Simic, G
+   Gantner, R
+   Meglic, V
+AF Tucak, Marijana
+   Popovic, Svetislav
+   Cupic, Tihomir
+   Simic, Gordana
+   Gantner, Ranko
+   Meglic, Vladimir
+TI EVALUATION OF ALFALFA GERMPLASM COLLECTION BY MULTIVARIATE ANALYSIS
+   BASED ON PHENOTYPIC TRAITS
+SO ROMANIAN AGRICULTURAL RESEARCH
+LA English
+DT Article
+DE alfalfa collection; phenotypic traits; variability; principal component
+   analysis
+ID GENETIC-VARIABILITY; MEDICAGO; DIVERSITY; WILD
+AB Crop improvement depends largely on the availability of diverse germplasm and their efficient utilization. The evaluation, characterization and screening of genetic resources are considered priorities in alfalfa breeding, as such information is crucial in choosing material for incorporation into breeding activities. The objectives of this research were to explore the extent and pattern of phenotypic variability in the alfalfa collections, to classify the germplasm into similar groups and to identify the main traits contributing to the overall variability. Twenty seven populations and cultivars of alfalfa of different origin were evaluated for thirteen phenotypic traits on the experimental field of the Osijek Agricultural Institute in Osijek - Croatia, during three growing seasons (2004-2006). Collected data were centered and scaled to unit variance and analyzed by principal component (PC) analysis. The first four PCs contributed to 89.02% of the total variability among the populations and cultivars. The yields of green mass and dry matter, vigour, growth habit, plant regeneration and length of central leaflet were the most important traits for the genetic variability, representing 58.21% of the total variability in the first PC variable. The second PC explained 16.24% of the total variability and was associated with number of stems, shape of leaf and width of central leaflet. The cluster analysis performed on the two first components grouped the majority of alfalfa cultivars and populations into three clusters of germplasm. In most cases, clustering did not depend on the country of origin. The present investigation revealed that there was wide phenotypic variability for the majority of the assessed traits in the alfalfa collections.
+C1 [Tucak, Marijana; Popovic, Svetislav; Cupic, Tihomir; Simic, Gordana] Agr Inst Osijek, Osijek 31000, Croatia.
+   [Gantner, Ranko] Univ JJ Strossmayer Osijek, Fac Agr, Osijek 31000, Croatia.
+   [Meglic, Vladimir] Agr Inst Slovenia, Ljubljana 1000, Slovenia.
+RP Tucak, M (corresponding author), Agr Inst Osijek, Juzno Predgrade 17, Osijek 31000, Croatia.
+EM marijana.tucak@poljinos.hr
+FU Ministry of Science, Education and Sport of the Republic of
+   CroatiaMinistry of Science, Education and Sports, Republic of Croatia
+FX This research was supported by the Ministry of Science, Education and
+   Sport of the Republic of Croatia (project "Evaluation of breeding value
+   in alfalfa (Medicago spp.) germplasm - 073-0000000-3535).
+CR Annicchiarico P, 2006, EUPHYTICA, V148, P269, DOI 10.1007/s10681-005-9024-0
+   Barcaccia G, 1999, PLANT BREEDING, V118, P335, DOI 10.1046/j.1439-0523.1999.00376.x
+   Bennett JW, 2000, ADV APPL MICROBIOL, V47, P1, DOI 10.1016/s0065-2164(00)47000-0
+   Crochemore ML, 1998, AGRONOMIE, V18, P79, DOI 10.1051/agro:19980106
+   Dias PMB, 2008, EUPHYTICA, V160, P189, DOI 10.1007/s10681-007-9534-z
+   Drobna J., 1999, P 13 EUCARPIA MED SP, P219
+   GHAFOOR A, 2003, SUSTAINABLE UTILIZAT, P238
+   *IBPGR, 1984, IBPGR84191 COMM EUR
+   Jenczewski E, 1999, AM J BOT, V86, P677, DOI 10.2307/2656577
+   JULIER B, 1995, AGRONOMIE, V15, P295, DOI 10.1051/agro:19950505
+   Martinez-Calvo J, 2008, GENET RESOUR CROP EV, V55, P695, DOI 10.1007/s10722-007-9276-8
+   Maureira IJ, 2004, THEOR APPL GENET, V109, P775, DOI 10.1007/s00122-004-1677-x
+   Naghavi MR, 2005, J INTEGR PLANT BIOL, V47, P375, DOI 10.1111/j.1744-7909.2005.00058.x
+   Prosperi JM, 2006, GENET RESOUR CROP EV, V53, P843, DOI 10.1007/s10722-004-6476-3
+   Sardana S, 2007, SABRAO J BREED GENET, V39, P31
+   SAS Institute Inc, 2003, SAS STAT SOFTW VERS
+   SMITH SE, 1991, CROP SCI, V31, P1159, DOI 10.2135/cropsci1991.0011183X003100050016x
+   TUCAK M, 2009, P 44 CROAT 4 INT S A, P400
+   *UPOV TG, 1988, UPOVTG64 INT U PROT
+   Veasey EA, 2001, GENET RESOUR CROP EV, V48, P79, DOI 10.1023/A:1011238320630
+   Zakova M., 2006, Communications in Biometry and Crop Science, V1, P124
+NR 21
+TC 10
+Z9 10
+U1 0
+U2 4
+PU NATL AGRICULTURAL RESEARCH & DEVELOPMENT INST
+PI FUNDULEA
+PA CALARASI COUNTY, FUNDULEA, 915200, ROMANIA
+SN 1222-4227
+J9 ROM AGRIC RES
+JI Rom. Agric. Res.
+PY 2009
+VL 26
+BP 47
+EP 52
+PG 6
+WC Agronomy
+SC Agriculture
+GA 520GB
+UT WOS:000271828400009
+DA 2020-08-14
+ER
+
+PT J
+AU Petcu, E
+   Schitea, M
+   Cirstea, VE
+AF Petcu, Elena
+   Schitea, Maria
+   Cirstea, Valentin Epure
+TI THE EFFECT OF WATER STRESS ON CUTICULAR TRANSPIRATION AND ITS
+   ASSOCIATION WITH ALFALFA YIELD
+SO ROMANIAN AGRICULTURAL RESEARCH
+LA English
+DT Article
+DE cuticular transpiration; water stress; alfalfa yield
+ID WHEAT
+AB Drought effects on the water loss by cuticular transpiration and alfalfa yield of twenty four alfalfa genotypes were evaluated. The experiment was conducted under vegetation house in 2006-2007 using special plots. Water stress was imposed before flowering by restricting watering, for 14 days. Exposure of plants to drought led to noticeable decreases in both leaf water loss by cuticle and biomass accumulation.
+   There were significant negative correlations between water loss by cuticular transpiration and yield under water stress conditions for first and second year of alfalfa vegetation (r = -0.64*** , r = - 0.62***), suggesting that low cuticular water loss could be used in selecting drought tolerant genotypes.
+C1 [Petcu, Elena; Schitea, Maria; Cirstea, Valentin Epure] Natl Agr Res & Dev Inst Fundulea, Fundulea 915200, Calarsai County, Romania.
+RP Petcu, E (corresponding author), Natl Agr Res & Dev Inst Fundulea, Fundulea 915200, Calarsai County, Romania.
+EM petcue@ricic.ro
+RI Petcu, Elena M/M-1319-2018
+OI petcu, elena/0000-0003-3987-5931
+CR Balota M, 1995, ROM AGRIC RES, V3, P69
+   Blum A., 1982, Drought resistance in crops with emphasis on rice., P53
+   CLARKE JM, 1991, CAN J PLANT SCI, V71, P695, DOI 10.4141/cjps91-102
+   FISCHER RA, 1979, AUST J AGR RES, V30, P1001, DOI 10.1071/AR9791001
+   Petcu E, 2005, ROM AGRIC RES, V22, P15
+NR 5
+TC 8
+Z9 9
+U1 0
+U2 4
+PU NATL AGRICULTURAL RESEARCH & DEVELOPMENT INST
+PI FUNDULEA
+PA CALARASI COUNTY, FUNDULEA, 915200, ROMANIA
+SN 1222-4227
+J9 ROM AGRIC RES
+JI Rom. Agric. Res.
+PY 2009
+VL 26
+BP 53
+EP 56
+PG 4
+WC Agronomy
+SC Agriculture
+GA 520GB
+UT WOS:000271828400010
+DA 2020-08-14
+ER
+
+PT J
+AU Singh, A
+   Eapen, S
+   Fulekar, MH
+AF Singh, Anamika
+   Eapen, Susan
+   Fulekar, M. H.
+TI Potential of Medicago sativa for uptake of cadmium from contaminated
+   environment
+SO ROMANIAN BIOTECHNOLOGICAL LETTERS
+LA English
+DT Article
+DE Medicago sativa; cadmium; uptake; hydroponic; potential
+ID ZINC; PLANTS; ARABIDOPSIS; ALFALFA; GROWTH
+AB Cadmium is associated with industrial processes such as metal plating and the production of nickel-cadmium batteries, pigments, plastics and other synthetics. Cadmium is a potential environmental hazard. A cost effective technologies are needed to remove cadmium from the contaminated soil-water environment. Phytoremediation is a novel, cost effective and eco-friendly 'green' remediation technology for environmental cleanup. In the present research study the uptake of cadmium by Medicago saliva (alfalfa, var. Col) has been studied under in vitro culture (aseptic) conditions. Plants initially grown in liquid media containing Murashige & Skoog medium were transferred to Steinberg solution spiked with cadmium as Cd (NO3)(2), 4H(2)O at concentration 0, 5, 10, 20 and 50 mu g ml(-1). The experiment was continued for a period of 21 days till complete metal uptake takes place. It has been observed that the growth of alfalfa plants was affected at higher concentration i.e. at 20 and 50 mu g ml(-1); whereas the lower concentration of cadmium was uptaken without any effects on growth of plant. The cadmium content in plant tissues was quantified using Atomic Absorption Spectroscopy. The result shows that most of the cadmium upto 12360 mu g gm(-1) was located in roots, while 1920 jig gm-1 was translocated to shoots when exposed to 50 mu g ml(-1) concentration of cadmium. The phytoremediation of cadmium using alfalfa plant in hydroponic solution shows that, during the period of the experiment (i.e. 21 days), the plant was found to have potential to uptake 80-85% of cadmium.
+C1 [Fulekar, M. H.] Univ Bombay, Dept Life Sci, Bombay 400098, Maharashtra, India.
+   [Eapen, Susan] Bhabha Atom Res Ctr, Nucl Agr Biotechnol Div, Bombay 400085, Maharashtra, India.
+RP Fulekar, MH (corresponding author), Univ Bombay, Dept Life Sci, Bombay 400098, Maharashtra, India.
+EM mhfulekar@yahoo.com
+CR *APHA AWWA WEF, 1998, STAND METH EX WAT WA
+   CATALDO DA, 1983, PLANT PHYSIOL, V73, P844, DOI 10.1104/pp.73.3.844
+   Cosio C, 2004, PLANT PHYSIOL, V134, P716, DOI 10.1104/pp.103.031948
+   DEGRAEVE N, 1981, MUTAT RES, V86, P115, DOI 10.1016/0165-1110(81)90035-X
+   ERNST WHO, 1992, ACTA BOT NEERL, V41, P229, DOI 10.1111/j.1438-8677.1992.tb01332.x
+   Fulekar M.H., 2005, ENV BIOTECHNOLOGY
+   Gomez K. A., 1984, STAT PROCEDURES AGR
+   Grotz N, 1998, P NATL ACAD SCI USA, V95, P7220, DOI 10.1073/pnas.95.12.7220
+   MILLER RW, 1995, AGR ECOSYST ENVIRON, V53, P179, DOI 10.1016/0167-8809(94)00559-W
+   MURASHIGE T, 1962, PHYSIOL PLANTARUM, V15, P473, DOI 10.1111/j.1399-3054.1962.tb08052.x
+   Niu ZX, 2007, J ENVIRON SCI, V19, P961, DOI 10.1016/S1001-0742(07)60158-2
+   PERALTA JR, 2000, ENV SCI ENG, P135
+   PETERSON PJ, 1979, CHEM BIOCH BIOL CADM, P45
+   Pulford ID, 2003, ENVIRON INT, V29, P529, DOI 10.1016/S0160-4120(02)00152-6
+   Ramesh SA, 2003, PLANT PHYSIOL, V133, P126, DOI 10.1104/pp.103.026815
+   STEINBERG RA, 1953, PLANT PHYSIOL, V28, P319, DOI 10.1104/pp.28.2.319
+   Vassilev A, 1998, ENVIRON POLLUT, V103, P287, DOI 10.1016/S0269-7491(98)00110-9
+   Zhou Q.X., 2004, REMEDIATION CONTAMIN
+NR 18
+TC 15
+Z9 16
+U1 0
+U2 5
+PU ARS DOCENDI
+PI BUCHAREST
+PA SOS PANDURI 90, SECT 5, BUCHAREST, RO-050663, ROMANIA
+SN 1224-5984
+J9 ROM BIOTECH LETT
+JI Rom. Biotech. Lett.
+PD JAN-FEB
+PY 2009
+VL 14
+IS 1
+BP 4164
+EP 4169
+PG 6
+WC Biotechnology & Applied Microbiology
+SC Biotechnology & Applied Microbiology
+GA 415GM
+UT WOS:000263922300010
+DA 2020-08-14
+ER
+
+PT J
+AU Watkin, ELJ
+   Mutch, LA
+   Rome, S
+   Reeve, WG
+   Castelli, JM
+   Gruchlik, Y
+   Best, WM
+   O'Hara, GW
+   Howieson, JG
+AF Watkin, E. L. J.
+   Mutch, L. A.
+   Rome, S.
+   Reeve, W. G.
+   Castelli, J. M.
+   Gruchlik, Y.
+   Best, W. M.
+   O'Hara, G. W.
+   Howieson, J. G.
+TI The effect of acidity on the production of signal molecules by Medicago
+   roots and their recognition by Sinorhizobium
+SO SOIL BIOLOGY & BIOCHEMISTRY
+LA English
+DT Article
+DE Acidity; Medicago nod gene inducing compounds; Root exudates; Signal
+   induction; Sinorhizobium medicae
+ID LEGUMINOSARUM BIOVAR VICIAE; RHIZOBIUM-MELILOTI; NODULATION GENES; LOW
+   PH; TOLERANCE; SATIVA; MUTAGENESIS; EXPRESSION; VECTORS; CLONING
+AB The Medicago sativa-Sinorhizobium symbiosis is challenged by acidity, resulting in generally poor nodulation and production. Medicago murex, however, can nodulate and grow at low pH. The effect of low pH on signal exchange in the Sinorhizobium-Medicago symbiosis was studied to gain a greater understanding of the basis for poor nodulation of M. sativa compared to M. murex. Root exudates from M. sativa and M. murex grown in buffered nutrient solution at pH 4.5, 5.8 and 7.0, were collected to measure the expression of nodB induction in Sinorhizobium. A nodB-gusA fusion was constructed and inserted into Sinorhizobium medicae strains WSM419 (acid tolerant) and CC169 (acid sensitive). We identified greater induction by root exudates from both Medicago, spp. collected at pH 4.5 than at pH 5.8 and 7.0, less induction by M. murex than M. sativa and less induction of WSM419 than CC169. The same major inducing compounds, 4',7-dihydroxyflavanone (liquiritigenin), 4',7-dihydroxyflavone, and 2',4',4-trihydroxychalcone (isoliquiritigenin), were identified in exudates of M. murex and M. sativa at all pH values, although in increasing amounts at lower pH. Poor nodulation of M. sativa relative to M. murex under acid conditions is not the consequence of decreased induction of Sinorhizobium nodB by chemical inducers present in the root exudates of both species at low pH. (c) 2008 Elsevier Ltd. All rights reserved.
+C1 [Watkin, E. L. J.; Mutch, L. A.] Curtin Univ Technol, Sch Biomed Sci, Perth, WA 6845, Australia.
+   [Watkin, E. L. J.; Mutch, L. A.; Rome, S.; Reeve, W. G.; Castelli, J. M.; O'Hara, G. W.; Howieson, J. G.] Murdoch Univ, Div Sci & Engn, Ctr Rhizobium Studies, Murdoch, WA 6150, Australia.
+   [Gruchlik, Y.; Best, W. M.] Chem Ctr WA, Med & Biol Chem Sect, Perth, WA 6004, Australia.
+   [Howieson, J. G.] Agr Western Australia, S Perth, WA 6151, Australia.
+RP Watkin, ELJ (corresponding author), Curtin Univ Technol, Sch Biomed Sci, GPO Box U1987, Perth, WA 6845, Australia.
+EM e.watkin@curtin.edu.au
+OI Watkin, Elizabeth/0000-0002-4881-7234
+FU Australian Research Council (ARC)Australian Research Council
+FX This work was supported by the Australian Research Council (ARC) under
+   the Strategic Partnerships with Industry (SPIRT) program. We wish to
+   thank Sharon Long for pRmE2, Michael Hynes for pJQ200SK and Yvonne Cheng
+   for critical review of the manuscript.
+CR AARONS SR, 1991, PLANT SOIL, V134, P145, DOI 10.1007/BF00010727
+   Angelini J, 2003, PLANT PHYSIOL BIOCH, V41, P289, DOI 10.1016/S0981-9428(03)00021-4
+   BECKER A, 1995, GENE, V162, P37, DOI 10.1016/0378-1119(95)00313-U
+   BERINGER JE, 1974, J GEN MICROBIOL, V84, P188
+   BROCKWELL J, 1991, AUST J EXP AGR, V31, P211, DOI 10.1071/EA9910211
+   Cheng Y, 2004, SOIL BIOL BIOCHEM, V36, P1357, DOI 10.1016/j.soilbio.2004.04.017
+   Cheng Y, 2005, AUST J EXP AGR, V45, P231, DOI 10.1071/EA03150
+   Cheng Y, 2002, PLANT SOIL, V238, P31, DOI 10.1023/A:1014273327527
+   Coventry D. R., 1989, Soil acidity and plant growth., P103
+   D'Haeze W, 2002, GLYCOBIOLOGY, V12, p79R, DOI 10.1093/glycob/12.6.79R
+   Denarie J, 1996, ANNU REV BIOCHEM, V65, P503, DOI 10.1146/annurev.bi.65.070196.002443
+   Dilworth MJ, 2001, AUST J EXP AGR, V41, P435, DOI 10.1071/EA99155
+   EGELHOFF TT, 1985, DNA-J MOLEC CELL BIO, V4, P241, DOI 10.1089/dna.1985.4.241
+   FELLAY R, 1987, GENE, V52, P147, DOI 10.1016/0378-1119(87)90041-2
+   Graham PH, 2000, FIELD CROP RES, V65, P93, DOI 10.1016/S0378-4290(99)00080-5
+   HERRERO M, 1990, J BACTERIOL, V172, P6557, DOI 10.1128/jb.172.11.6557-6567.1990
+   HOWIESON JG, 1986, AUST J AGR RES, V37, P55, DOI 10.1071/AR9860055
+   HOWIESON JG, 1992, AUST J PLANT PHYSIOL, V19, P287, DOI 10.1071/PP9920287
+   HOWIESON JG, 1989, AUST J AGR RES, V40, P843, DOI 10.1071/AR9890843
+   HOWIESON JG, 1993, SOIL BIOL BIOCHEM, V25, P567, DOI 10.1016/0038-0717(93)90195-H
+   HOWIESON JG, 2007, LEGUMINOUS NITROGEN, P363
+   HUBAC C, 1994, MICROBIOL-UK, V140, P2769, DOI 10.1099/00221287-140-10-2769
+   KUO MS, 1986, CARBOHYD RES, V156, P173, DOI 10.1016/S0008-6215(00)90109-5
+   MAXWELL CA, 1989, PLANT PHYSIOL, V91, P842, DOI 10.1104/pp.91.3.842
+   Metcalf WW, 1996, PLASMID, V35, P1, DOI 10.1006/plas.1996.0001
+   MUNNS DN, 1968, PLANT SOIL, V28, P129, DOI 10.1007/BF01349181
+   OHARA GW, 1989, APPL ENVIRON MICROB, V55, P1870, DOI 10.1128/AEM.55.8.1870-1876.1989
+   QUANDT J, 1993, GENE, V127, P15, DOI 10.1016/0378-1119(93)90611-6
+   RECOURT K, 1991, PLANT MOL BIOL, V16, P841, DOI 10.1007/BF00015076
+   RECOURT K, 1989, J BACTERIOL, V171, P4370, DOI 10.1128/JB.171.8.4370-4377.1989
+   Reeve WG, 2002, MOL MICROBIOL, V43, P981, DOI 10.1046/j.1365-2958.2002.02791.x
+   RICHARDSON AE, 1988, APPL ENVIRON MICROB, V54, P2541, DOI 10.1128/AEM.54.10.2541-2548.1988
+   RICHARDSON AE, 1988, PLANT SOIL, V109, P37, DOI 10.1007/BF02197578
+   ROBSON AD, 1970, AUST J AGR RES, V21, P427, DOI 10.1071/AR9700427
+   SCHLAMAN HRM, 1989, J BACTERIOL, V171, P4686, DOI 10.1128/jb.171.9.4686-4693.1989
+   Shaw LJ, 2006, ENVIRON MICROBIOL, V8, P1867, DOI 10.1111/j.1462-2920.2006.01141.x
+   Tiwari RP, 1996, MICROBIOL-UK, V142, P1693, DOI 10.1099/13500872-142-7-1693
+   VIEIRA J, 1991, GENE, V100, P189, DOI 10.1016/0378-1119(91)90365-I
+   WILSON KJ, 1995, MICROBIOL-SGM, V141, P1691, DOI 10.1099/13500872-141-7-1691
+NR 39
+TC 5
+Z9 5
+U1 2
+U2 15
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0038-0717
+J9 SOIL BIOL BIOCHEM
+JI Soil Biol. Biochem.
+PD JAN
+PY 2009
+VL 41
+IS 1
+BP 163
+EP 169
+DI 10.1016/j.soilbio.2008.10.007
+PG 7
+WC Soil Science
+SC Agriculture
+GA 391RR
+UT WOS:000262250900021
+DA 2020-08-14
+ER
+
+PT J
+AU Navarro-Cerrillo, RM
+   Ariza, D
+   Gonzalez, L
+   del Campo, A
+   Arjona, M
+   Ceacero, C
+AF Ma Navarro-Cerrillo, Rafael
+   Ariza, David
+   Gonzalez, Luis
+   del Campo, Antonio
+   Arjona, Miguel
+   Ceacero, Carlos
+TI Legume living mulch for afforestation in agricultural land in Southern
+   Spain
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE Afforestation; Weed control; Living mulch; Mediterranean species;
+   Medicago rugosa
+ID GROWTH; SEEDLINGS; WATER; PERFORMANCE; COVER; SOIL; ROOT; L.
+AB Weed control is essential for a successful establishment and growth of tree seedlings in former agricultural land. Weed control methods are effective but can be costly in terms of time, damage to nontarget vegetation, or increased soil erosion. Alternatively, some living mulches can exclude undesirable vegetation, protect the soil, compete minimally with associated trees, and supplement soil nitrogen, but there is a lack of knowledge on living mulch systems in Mediterranean afforestation. Thus, the objective of the present study was to evaluate the effects on Holm oak (Quercus ilex L.), mastic tree (Pistacia lentiscus L.), wild olive (Olea europaea L. var. sylvestris Brot.) and terebinth (Pistacia terebinthus L) seedlings of wrinkled medick (Medicago rugosa Desr.) mulch. Survival, growth, photosynthesis, foliar nutrient and soil parameters were measured during the first year. 36 months after planting, seedlings in the living mulch had survival rates of between 60% for mastic tree and 8.3% for Holm oak, compared with survival rates of 70% in the mechanical treatment for mastic tree and 2% for Holm oak. Photosynthesis and foliar nutrient concentrations were improved by the living mulch treatment. The soil under the living mulch had higher CEC, soil organic matter levels and nitrogen content in comparison to the cultivated soil. The response of living mulch differs between species and environmental conditions but our study suggests a positive effect due to soil protection. Living mulch may be a promise alternative for use in Mediterranean afforestation programs. (C) 2008 Published by Elsevier B.V.
+C1 [Ma Navarro-Cerrillo, Rafael; Ariza, David; Arjona, Miguel] Univ Cordoba, Dept Forestry Engn, E-14080 Cordoba, Spain.
+   [Gonzalez, Luis] Fac Ciencias Forestales, Dept Forestry Engn, Santiago 11315, Chile.
+   [del Campo, Antonio] Univ Politecn Valencia, Dept Ingn Hidraul & Medio Ambiente, Valencia 46022, Spain.
+   [Ceacero, Carlos] EGMASA, Seville, Spain.
+RP Navarro-Cerrillo, RM (corresponding author), Univ Cordoba, Dept Forestry Engn, Avda Menendez Pidal S-N,Mail Box 3048, E-14080 Cordoba, Spain.
+EM irlnacer@uco.es
+RI Ruiz, Carlos Juan Ceacero/L-4782-2017; Del Campo, Antonio/F-7445-2014
+OI Ruiz, Carlos Juan Ceacero/0000-0001-9056-0906; Del Campo,
+   Antonio/0000-0002-5279-4215
+FU Agricultural, Fisheries and Food Department of Junta de Andalusia
+FX This work was supported by the Agricultural, Fisheries and Food
+   Department of Junta de Andalusia through the project "Seguimiento del
+   Programa de Forestacion de Tierras Agrarias de Andalucia". We also thank
+   the Agricultural Research and Training Centre (CIFA-Alameda del Obispo)
+   in Cordoba for the facilities given during the fieldwork.
+CR Alley JL, 1998, AGROFOREST SYST, V44, P281, DOI 10.1023/A:1006263014054
+   Athy ER, 2006, RESTOR ECOL, V14, P233, DOI 10.1111/j.1526-100X.2006.00125.x
+   Barton CD, 1997, SOIL TECHNOL, V11, P153, DOI 10.1016/S0933-3630(97)00002-0
+   Cerrillo RMN, 2005, ECOL ENG, V25, P332, DOI 10.1016/j.ecoleng.2005.06.002
+   CERRILLO RMN, 2006, CALIDAD PLANTA FORES, P67
+   COGLIASTRO A, 1990, CAN J FOREST RES, V20, P1172, DOI 10.1139/x90-156
+   DELCAMPO AD, 2004, CUADERNOS SECF, V17, P43
+   Devine Warren D., 2000, Southern Journal of Applied Forestry, V24, P159
+   Dubois MR, 2000, NEW FOREST, V20, P105, DOI 10.1023/A:1006704016209
+   DUPRAZ C, 1997, AGROFORESTERIE DEV R, P369
+   GORDON JC, 1983, BIOL NITROGEN FIXATI
+   Hiltbrunner J, 2007, EUR J AGRON, V26, P21, DOI 10.1016/j.eja.2006.08.002
+   HORWITZ W, 2000, OFFICIAL METHODS ANA, V1
+   Ksontini M, 1998, ANN SCI FOREST, V55, P477, DOI 10.1051/forest:19980407
+   Lloret F, 1999, FUNCT ECOL, V13, P210, DOI 10.1046/j.1365-2435.1999.00309.x
+   Maestre FT, 2004, ECOGRAPHY, V27, P776, DOI 10.1111/j.0906-7590.2004.03990.x
+   Martinez-Ferri E, 2000, TREE PHYSIOL, V20, P131
+   NAVARROCERRILLO R, 1997, AGR CONSERVACION FUN, P327
+   Pickering J. S., 2000, Arboricultural Journal, V24, P175
+   PIMENTEL D, 1995, SCIENCE, V267, P1117, DOI 10.1126/science.267.5201.1117
+   Quinn G. P., 2002, EXPT DESIGN DATA ANA
+   Raven P.H., 1999, BIOL PLANTS
+   Sanchez-Gomez D, 2006, NEW PHYTOL, V170, P795, DOI 10.1111/j.1469-8137.2006.01711.x
+   Smith MW, 2000, HORTSCIENCE, V35, P192, DOI 10.21273/HORTSCI.35.2.192
+   South DB, 2007, FOREST ECOL MANAG, V242, P569, DOI 10.1016/j.foreco.2007.01.070
+   Tsakaldimi M, 2005, PLANT SOIL, V278, P85, DOI 10.1007/s11104-005-2580-1
+   VANSAMBEEK JW, 1986, FOREST ECOL MANAG, V17, P159, DOI 10.1016/0378-1127(86)90109-X
+   Vilagrosa A, 2003, RESTOR ECOL, V11, P208, DOI 10.1046/j.1526-100X.2003.00172.x
+NR 28
+TC 7
+Z9 7
+U1 0
+U2 13
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD JAN
+PY 2009
+VL 102
+IS 1
+BP 38
+EP 44
+DI 10.1016/j.still.2008.07.013
+PG 7
+WC Soil Science
+SC Agriculture
+GA 395TQ
+UT WOS:000262546800006
+DA 2020-08-14
+ER
+
+PT J
+AU Scholtz, GDJ
+   van der Merwe, HJ
+   Tylutki, TP
+AF Scholtz, G. D. J.
+   van der Merwe, H. J.
+   Tylutki, T. P.
+TI Sample preparation of Medicago sativa L. hay for chemical analysis
+SO SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE
+LA English
+DT Article
+DE Lucerne hay; sampling; sample preparation; moisture concentration; crude
+   protein
+AB The objective of this study was to quantify the effect of the grinding procedure on the moisture and crude protein concentration of a ground Medicago sativa L. hay sample for quality grading. An additional aim was to investigate the accuracy of electronic moisture testers (EMT). Variance of analyses revealed significant differences in moisture concentration between ground (CV = 16.1%) and unground (CV = 27.4%) samples ranging from 14.7 up to 41.1% of the unground sample. The grinding process had a non-significant influence on the CP concentration of the final grounded product. EMT failed to accurately predict moisture concentration around the moisture area of critical concern (16% and higher) where heat and/or mould damage are likely to occur. It was concluded that analytical moisture standards for Medicago sativa L. hay should be based on the original moisture concentration of samples in the unground state to be relevant for quality grading.
+C1 [Scholtz, G. D. J.; van der Merwe, H. J.] Univ Orange Free State, Dept Anim Wildlife & Grassland Sci, ZA-9300 Bloemfontein, South Africa.
+   [Tylutki, T. P.] Agr Modelling & Training Syst, Cortland, NY 13045 USA.
+RP Scholtz, GDJ (corresponding author), Univ Orange Free State, Dept Anim Wildlife & Grassland Sci, POB 399, ZA-9300 Bloemfontein, South Africa.
+EM Scholtzgd.sci@ufs.ac.za
+CR *AOAC, 2000, OFF METH AN
+   BATH DL, 1989, 21457 U CAL COOP EXT
+   DeBoever JL, 1996, ANIM FEED SCI TECH, V60, P103, DOI 10.1016/0377-8401(95)00914-0
+   GROENEWALD T, 2005, AFMA MATRIX, V27, P18
+   MARTIN NP, 1992, P AM FOR GRASSL C, P1
+   PUTNAM DH, 1998, RECOMMENDED PRINCIPL
+   SAS Institute Inc, 2003, SAS 9 1 3 SERV PACK
+   Sheaffer CC, 2000, AGRON J, V92, P64, DOI 10.1007/s100870050008
+   SHEWMAKER GE, 2004, P NAT ALF S 13 15 DE, P313
+   Williams P., 2007, NEAR INFRARED TECHNO
+   Williams P. C., 2001, NEAR INFRARED TECHNO, P171
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES
+PI HATFIELD
+PA C/O ESTIE KOSTER, PO BOX 13884, HATFIELD 0028, SOUTH AFRICA
+SN 0375-1589
+J9 S AFR J ANIM SCI
+JI South Afr. J. Anim. Sci.
+PY 2009
+VL 39
+IS 5
+SU 1
+BP 73
+EP 76
+PG 4
+WC Agriculture, Dairy & Animal Science
+SC Agriculture
+GA V15YW
+UT WOS:000207838300018
+DA 2020-08-14
+ER
+
+PT J
+AU Strydom, M
+   Brand, TS
+   Aucamp, BB
+   van Heerden, JM
+AF Strydom, M.
+   Brand, T. S.
+   Aucamp, B. B.
+   van Heerden, J. M.
+TI Effect of supplementary feed and stocking rate on the production of
+   ostriches grazing irrigated lucerne pasture
+SO SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE
+LA English
+DT Article
+DE Alfalfa; nutrition; free-range; ratite; slaughter weight; growth;
+   average daily gain; weight change
+AB This study was conducted to determine the effect of two different levels of supplementary feed and two different stocking rates on the production of grazing ostriches. One hundred and seventy ostriches were randomly allocated to four groups and kept on irrigated lucerne pasture with or without supplementary feed from approximately 58 kg to a target weight of 95 kg. The ostriches rotationally grazed lucerne pasture at one of two stocking rates, i.e. 15 birds/ha or 10 birds/ha and were fed one of two levels of supplement i.e. 0 g or 800 g feed/d formulated according to the nutrient requirements of the relevant group of birds. Data were analyzed by ANOVA. There was no interaction between the supplementary feed and stocking rate regarding mean live weight at 54 weeks of age and feed conversion ration (FCR). Data were provided as the two main effects of level of supplementation and stocking rate. Significant differences in mean live weight at 54 weeks of age and FCR of the birds were observed between the different levels of supplementary feed. The parameters measured for the two different stocking rates used in this study (10 birds/ha vs. 15 birds/ha) did not differ from each other and did not influence either mean live weight at 54 weeks of age, average daily gain (ADG) or FCR. The two groups which received 800 g supplementary feed/d reached slaughter weight (95 kg) within the set of 54 weeks of grazing for the trial, while the two groups which received no supplementary feed did not achieve slaughter weight by 54 weeks on the pasture. Ostriches receiving supplementation of 800 g/bird/day had significantly better FCR's than birds receiving no supplementation. There was a significant interaction between level of supplementary feed and stocking rate regarding ADG of the birds. As stocking rate increased, average daily gains of birds receiving no supplementary feed declined. This study indicates that ostriches being kept on grazing and receiving supplementary feed will exhibit improved and faster growth rates than ostriches which only have access to grazing and receive no supplementary feed.
+C1 [Strydom, M.; Brand, T. S.; Aucamp, B. B.] Inst Anim Prod Elsenburg, Western Cape Dept Agr, ZA-7607 Elsenburg, South Africa.
+   [Strydom, M.; Brand, T. S.] Univ Stellenbosch, Dept Anim Sci, ZA-7602 Matieland, South Africa.
+   [van Heerden, J. M.] Agr Res Council, ZA-7599 Stellenbosch, South Africa.
+RP Strydom, M (corresponding author), Inst Anim Prod Elsenburg, Western Cape Dept Agr, Private Bag X1, ZA-7607 Elsenburg, South Africa.
+EM tersb@elsenburg.com
+OI Brand, Ters/0000-0003-0160-6605
+CR *AGR SOFTW CONS IN, 1982, MIXIT 2 LEAST COST F
+   ALLDEN WG, 1981, WORLD ANIMAL SCI B, V1, P289
+   Animut G, 2005, SMALL RUMINANT RES, V59, P203, DOI 10.1016/j.smallrumres.2005.05.015
+   Brand TS, 2006, FEEDING IN DOMESTIC VERTEBRATES: FROM STRUCTURE TO BEHAVIOUR, P136, DOI 10.1079/9781845930639.0136
+   Brand T.S., 1996, THESIS U STELLENBOSC
+   CLOETE SWP, 1992, P WORLD WOOL C 6 12, P1
+   Cooper RG, 2004, REV SCI TECH OIE, V23, P1033, DOI 10.20506/rst.23.3.1541
+   DEVILLIERS JF, 1994, S AFR J ANIM SCI, V24, P133
+   MAREE PCJ, 1979, LUCERNE UTILIZATION
+   MELLETT FD, 1993, LIVESTOCK PRODUCTION, P187
+   NEL JC, 1993, PASTURE UTILIZATION, P20
+   Rachuonyo HA, 2005, J ANIM SCI, V83, P2225
+   Relling EA, 2001, S AFR J ANIM SCI, V31, P77
+   SAS/STAT, 2002, SAS STAT VERS 9 1 3
+   SMIT DJV, 1964, S AFRICAN DEP TECHNI, V358, P46
+   STRYDOM M, 2007, P SPEC MIN C S AFR S
+   SWART D, 1985, S AFR J ANIM SCI, V15, P146
+   VANHEERDEN JM, 1987, GRASSLANDS SOC S AFR, V3, P95
+   VANNIEKERK BDH, 1995, P AFMA C JUN PRET S, P1
+   VANNIEKERK WA, 2006, S AFR J ANIM SCI S1, V36, P50
+   Varel VH, 1997, J ANIM SCI, V75, P2715
+   Verwoerd DJ, 1999, OSTRICH: BIOLOGY, PRODUCTION AND HEALTH, P191
+   WILLIAMS OB, 1981, WORLD ANIMAL SCI B, V1, P1
+   ZEEMAN P, 1980, NUTRITIVE VALUE LUCE
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES
+PI HATFIELD
+PA C/O ESTIE KOSTER, PO BOX 13884, HATFIELD 0028, SOUTH AFRICA
+SN 0375-1589
+J9 S AFR J ANIM SCI
+JI South Afr. J. Anim. Sci.
+PY 2009
+VL 39
+IS 5
+SU 1
+BP 173
+EP 178
+PG 6
+WC Agriculture, Dairy & Animal Science
+SC Agriculture
+GA V15YW
+UT WOS:000207838300042
+DA 2020-08-14
+ER
+
+PT J
+AU Scholtz, GDJ
+   van der Merwe, HJ
+   Tylutki, TP
+AF Scholtz, G. D. J.
+   van der Merwe, H. J.
+   Tylutki, T. P.
+TI The nutritive value of South African Medicago sativa L. hay
+SO SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE
+LA English
+DT Article
+DE Lucerne; quality; chemical analysis
+AB A study was conducted to evaluate the variation and expand the existing and limiting nutritive value database of Medicago sativa L. hay (168 near-infrared reflectance spectroscopy spectrally selected samples) in South Africa. The highest moisture content recorded (140 g/kg) was safely below the critical moisture level of 160 g/kg for effective storage. Coefficient of variation (CV) ranged from 1.2% for dry matter (DM) up to 66.2% for acid detergent fibre-crude protein (ADF-CP). The average ash content was 130 g/kg (73 to 295 g/kg), indicating soil contamination. Fibre fractions varied as follows: acid detergent fibre (ADF) (213 to 473 g/kg), neutral detergent fibre (NDF) (289 to 659 g/kg), lignin (43 to 163 g/kg), cellulose (163 to 364 g/kg) and hemicellulose (53 to 199 g/kg). The mean IVOMD for both 24 and 48 h (693 and 732 g/kg DM, respectively), was representative (CV = +/-8%) of the Medicago sativa L. hay population. Crude protein (CP) (average = 207 g/kg DM) consists of 76.9% true protein. According to ADF-CP, 6% of the samples were heat damaged. High mean Ca (13.5 g/kg), P (25.3 g/kg) and Fe (874 mg/kg) values were recorded.
+C1 [Scholtz, G. D. J.; van der Merwe, H. J.] Univ Free State, Dept Anim Wildlife & Grassland Sci, ZA-9300 Bloemfontein, South Africa.
+   [Tylutki, T. P.] Agr Modelling & Training Syst, Cortland, NY 13045 USA.
+RP Scholtz, GDJ (corresponding author), Univ Free State, Dept Anim Wildlife & Grassland Sci, POB 399, ZA-9300 Bloemfontein, South Africa.
+EM Scholtzgd@ufs.ac.za
+CR ABREU JMF, 1996, AN I SUP AGRON, V45, P523
+   AOAC [Assoc of Official Analytical Chemists], 1990, OFF METH AN
+   *AOAC INT, 2000, OFF METH AN AOAC INT, V1
+   BATH DL, 1989, 21457 U CAL COOP EXT
+   DOWMAN MG, 1982, J SCI FOOD AGR, V33, P689, DOI 10.1002/jsfa.2740330802
+   ERASMUS LJ, 1990, S AFR J ANIM SCI, V20, P124
+   Goering H K, 1970, AGR HDB USDA, V379
+   HALL M. B, 2000, U FLORIDA B, V339, pA
+   LINN J. G., 1999, FORAGE QUALITY TESTS
+   McDonald P., 1995, ANIMAL NUTR
+   Mertens D. R., 1992, LARGE DAIRY HERD MAN, P219
+   NRC-National Research Council, 2001, NUTR REQ DAIR CATTL
+   PUTNAM DH, 1997, 256 U CAL
+   SAS Institute Inc, 2003, SAS 9 1 3 SERV PACK
+   TILLEY J. M. A., 1963, JOUR BRIT GRASSLAND SOC, V18, P104
+   TYLUTKI TP, 2007, STUDY GUIDE AMTS CAT
+   Van Soest PJ, 1994, NUTR ECOLOGY RUMINAN
+   VANDERMERWE FJ, 1970, DIEREVOEDING
+   VANWYK HPD, 1955, SCI B, V354, P19
+   ZINN RA, 2004, P NAT ALF S 13 15 DE
+NR 20
+TC 5
+Z9 5
+U1 0
+U2 3
+PU SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES
+PI HATFIELD
+PA C/O ESTIE KOSTER, PO BOX 13884, HATFIELD 0028, SOUTH AFRICA
+SN 0375-1589
+J9 S AFR J ANIM SCI
+JI South Afr. J. Anim. Sci.
+PY 2009
+VL 39
+IS 5
+SU 1
+BP 179
+EP 182
+PG 4
+WC Agriculture, Dairy & Animal Science
+SC Agriculture
+GA V15YW
+UT WOS:000207838300043
+DA 2020-08-14
+ER
+
+PT J
+AU Scholtz, GDJ
+   van der Merwe, HJ
+   Tylutki, TP
+AF Scholtz, G. D. J.
+   van der Merwe, H. J.
+   Tylutki, T. P.
+TI Prediction of chemical composition of South African Medicago sativa L.
+   hay from a near infrared reflectance spectroscopy spectrally structured
+   sample population
+SO SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE
+LA English
+DT Article
+DE Lucerne; fibre; protein; NIRS; calibration
+AB The near infrared reflectance spectroscopy (NIRS) to predict chemical and digestibility parameters was investigated. Samples (n = 168) representing the spectral characteristics of the South African Medicago sativa L. hay population were chemically analysed for the development of calibration equations. Values for r(2) and ratio of prediction to deviation (RPD) used as estimates of calibration accuracy for these parameters were classified as follows: good for dry matter (DM) (r(2) = 0.97; RPD = 4.84), crude protein (CP) (r(2) = 0.97; RPD = 4.57), acid detergent fibre (ADF) (r(2) = 0.95; RPD = 3.97), neutral detergent fibre (NDF) (r(2) = 0.95; RPD = 3.99), lignin (r(2) = 0.94; RPD = 3.61), ash (r(2) = 0.93; RPD = 3.12) and chloride (Cl) (r(2) = 0.95; RPD = 3.74); intermediate for NDF-crude protein (NDF-CP) (r(2) = 0.91; RPD = 2.96), sugar (r(2) = 0.91; RPD = 2.82), in vitro organic matter digestibility at 24 hr (IVOMD24) (r(2) = 0.90; RPD = 2.84) and 48 hr (IVOMD48) (r(2) = 0.89; RPD = 2.70); and low (RPD < 2.31) for soluble protein (SP), ADF-crude protein (ADF-CP), fat, starch, NDF digestibility (NDFD) and the macro minerals (Ca, P, Mg, P, Na and S). The results recorded in the present study indicated that the NIRS technique is acceptable for DM, CP, ADF, NDF, lignin, ash and Cl analysis and for inclusion in quality models.
+C1 [Scholtz, G. D. J.; van der Merwe, H. J.] Univ Free State, Dept Anim Wildlife & Grassland Sci, ZA-9300 Bloemfontein, South Africa.
+   [Tylutki, T. P.] Agr Modeling & Training Syst, Cortland, NY 13045 USA.
+RP Scholtz, GDJ (corresponding author), Univ Free State, Dept Anim Wildlife & Grassland Sci, POB 399, ZA-9300 Bloemfontein, South Africa.
+EM Scholtzgd@ufs.ac.za
+CR Andres S, 2005, ANIM FEED SCI TECH, V123, P487, DOI 10.1016/j.anifeedsci.2005.04.043
+   BARNES RJ, 1989, APPL SPECTROSC, V43, P772, DOI 10.1366/0003702894202201
+   Cozzolino D, 2004, ANIM FEED SCI TECH, V111, P161, DOI 10.1016/j.anifeedsci.2003.08.001
+   Edney M. J., 1994, J NEAR INFRARED SPEC, V2, P33
+   Herrero M, 1996, ANIM FEED SCI TECH, V60, P51, DOI 10.1016/0377-8401(95)00924-8
+   Mathison GW, 1999, CAN J ANIM SCI, V79, P519, DOI 10.4141/A99-011
+   *NIRS, 1995, 2 NIRS INFR INT
+   NORRIS KH, 1976, J ANIM SCI, V43, P889
+   Scholtz GDJ, 2009, S AFR J ANIM SCI, V39, P179
+   SCHOLTZ GDJ, 2001, THESIS UFS BLOEMFONT
+   SHENK JS, 1979, J DAIRY SCI, V62, P807, DOI 10.3168/jds.S0022-0302(79)83330-5
+   Shenk JS, 1993, ANAL AGR FOOD PRODUC
+   SNYMAN LD, 1992, S AFR J ANIM SCI, V23, P20
+   Stuth JW, 1999, NUTR ECOLOGY HERBIVO, P696
+   VANWAES C, 1998, PLANT SCI SOFIA, V35, P708
+   WEISS WP, 1993, J DAIRY SCI, V76, P1802, DOI 10.3168/jds.S0022-0302(93)77512-8
+   Williams P, 1987, NEAR INFRARED TECHNO, P143
+   Williams P., 2007, NEAR INFRARED TECHNO
+   Williams P. C., 2001, NEAR INFRARED TECHNO, P171
+   WILLIAMS PC, 1985, J AGR SCI, V104, P113, DOI 10.1017/S0021859600043057
+   WILLIAMS PC, 2001, NEAR INFRARED TECHNO, P145
+NR 21
+TC 4
+Z9 4
+U1 0
+U2 5
+PU SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES
+PI HATFIELD
+PA C/O ESTIE KOSTER, PO BOX 13884, HATFIELD 0028, SOUTH AFRICA
+SN 0375-1589
+J9 S AFR J ANIM SCI
+JI South Afr. J. Anim. Sci.
+PY 2009
+VL 39
+IS 5
+SU 1
+BP 183
+EP 187
+PG 5
+WC Agriculture, Dairy & Animal Science
+SC Agriculture
+GA V15YW
+UT WOS:000207838300044
+DA 2020-08-14
+ER
+
+PT J
+AU Scholtz, GDJ
+   van der Merwe, HJ
+   Tylutki, TP
+AF Scholtz, G. D. J.
+   van der Merwe, H. J.
+   Tylutki, T. P.
+TI Evaluation of models for assessing Medicago sativa L. hay quality
+SO SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE
+LA English
+DT Article
+DE Lucerne hay; CNCPS; NIRS; FQI; LMV; RFQ; RFV; TFI
+AB A study was conducted to evaluate current proposed models for assessing Medicago sativa L. hay quality, using near infrared reflectance spectroscopy (NIRS) analyses and Cornell Nett Carbohydrate and Protein System (CNCPS) milk production prediction as a criterion of accuracy. Application of the theoretically-based summative total digestible nutrients (TDNlig) model of Weiss et al. (1992), using lignin to determine truly digestible NDF, explained almost all of the variation in milk yield (MY) (r(2) = 0.98). However, this model involves high analysis costs to develop and maintain NIRS calibrations and several of its components were poorly predicted by NIRS and therefore, not suited for quality assessment in practice. Current available models (forage quality index (FQI), relative forage quality (RFQ); relative feed value (RFV)) for assessing Medicago sativa L. hay quality revealed lower accuracies (r(2) = 0.83, r(2) = 0.76, r(2) = 0.61, respectively), especially when protein was included in the model (total forage quality index (TFI); r(2) < 0.49). The developed empirical equation named lucerne milk value (LMV), including ADF, ash and lignin (Y = b0 - b1ADF - b2ash - b3lignin) (r(2) = 0.96), proved to be the most practical, simplistic, economical and accurate quality evaluation model for commercial application.
+C1 [Scholtz, G. D. J.; van der Merwe, H. J.] Univ Free State, Dept Anim Wildlife & Grassland Sci, ZA-9300 Bloemfontein, South Africa.
+   [Tylutki, T. P.] Agr Modeling & Training Syst, Cortland, NY 13045 USA.
+RP Scholtz, GDJ (corresponding author), Univ Free State, Dept Anim Wildlife & Grassland Sci, POB 399, ZA-9300 Bloemfontein, South Africa.
+EM Scholtzgd@ufs.ac.za
+CR BRODERICK GA, 1992, J DAIRY SCI, V75, P2440, DOI 10.3168/jds.S0022-0302(92)78005-9
+   ERASMUS LJ, 2000, AFMA MATRIX, V2, P17
+   HOFFMAN PC, 1993, J DAIRY SCI, V76, P2632, DOI 10.3168/jds.S0022-0302(93)77599-2
+   HUTJENS MF, 1995, DAIRY TODAY, V2, P20
+   LINN JG, 2003, P MINN DAIR HLTH C C, P102
+   MARTIN NP, 2005, P CAL ALF FOR S 12 1
+   MOORE JE, 2002, P 13 ANN FLOR RUM NU, P16
+   NRC-National Research Council, 2001, NUTR REQ DAIR CATTL
+   PUTNAM DH, 2004, P 34 CAL ALF S 13 15
+   Robinson PH, 2004, ANIM FEED SCI TECH, V114, P75, DOI 10.1016/j.anifeedsci.2003.12.002
+   ROHWEDER D, 1976, FEEDSTUFFS, V48, P22
+   *SAS I INC, 2003, STAT AN SYST US GUID
+   Scholtz GDJ, 2009, S AFR J ANIM SCI, V39, P183
+   SCHOLTZ GDJ, 2008, THESIS UFS S AFRICA
+   TAYLOR RW, 1997, AGRONOMY FACTS SERIE
+   Tylutki TP, 2008, ANIM FEED SCI TECH, V143, P174, DOI 10.1016/j.anifeedsci.2007.05.010
+   Van Soest PJ, 1994, NUTR ECOLOGY RUMINAN
+   WEISS WP, 1992, ANIM FEED SCI TECH, V39, P95, DOI 10.1016/0377-8401(92)90034-4
+   ZINN RA, 2007, P 22 ANN SW NUTR MAN
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES
+PI HATFIELD
+PA C/O ESTIE KOSTER, PO BOX 13884, HATFIELD 0028, SOUTH AFRICA
+SN 0375-1589
+J9 S AFR J ANIM SCI
+JI South Afr. J. Anim. Sci.
+PY 2009
+VL 39
+IS 5
+SU 1
+BP 188
+EP 192
+PG 5
+WC Agriculture, Dairy & Animal Science
+SC Agriculture
+GA V15YW
+UT WOS:000207838300045
+DA 2020-08-14
+ER
+
+PT J
+AU Scholtz, GDJ
+   Van der Merwe, HJ
+   Tylutki, TP
+AF Scholtz, G. D. J.
+   Van der Merwe, H. J.
+   Tylutki, T. P.
+TI A model for assessing Medicago Sativa L. hay quality
+SO SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCE
+LA English
+DT Article
+DE Lucerne hay; CNCPS; lignin; ADF; ash; NIRS
+AB A study was conducted to identify chemical parameters and/or models for assessing Medicago sativa L. (L) hay quality, using near infrared reflectance spectroscopy (NIRS) analysis and Cornell Net Carbohydrate and Protein System (CNCPS) milk prediction as a criterion of accuracy. Milk yield (MY) derived from the CNCPS model, by replacing the average L hay in a complete diet with 168 representative South African L hay samples, was used as a criterion to evaluate and/or develop models for L hay quality grading. The best single predictor of MY was the acid detergent fibre (ADF) content of L hay, which explained 67% of the measured variation. A multiple linear equation (Y = 64.18 - b1ADF - b2ash - b3lignin) explains 96% of the measured variation in MY. The relatively poor performance of crude protein (CP) (r(2) = 0.04) and other protein related parameters (r(2) < 0.25; adjusted-crude protein, ADF-CP, neutral detergent fibre-CP and soluble protein) in predicting MY suggests that protein content of L hay is an unreliable indicator of L hay quality. It is clear that MY derived from the CNCPS model by replacing L hay in a basal diet with others in the South African L hay population can be significantly predicted with high accuracy by the developed empirical model named lucerne milk value (LMV) consisting of only ADF, ash and lignin.
+C1 [Scholtz, G. D. J.; Van der Merwe, H. J.] Univ Orange Free State, Dept AnimWildlife & Grassland Sci, ZA-9300 Bloemfontein, South Africa.
+   [Tylutki, T. P.] Agr Modeling & Training Syst, Cortland, NY 13045 USA.
+RP Scholtz, GDJ (corresponding author), Univ Orange Free State, Dept AnimWildlife & Grassland Sci, POB 399, ZA-9300 Bloemfontein, South Africa.
+EM Scholtzgd.sci@ufs.ac.za
+CR ALLEN MS, 1988, J NUTR, V118, P261
+   Calberry JM, 2003, J DAIRY SCI, V86, P3611, DOI 10.3168/jds.S0022-0302(03)73967-8
+   Fox DG, 2004, ANIM FEED SCI TECH, V112, P29, DOI 10.1016/j.anifeedsci.2003.10.006
+   LINN JG, 1992, LARGE DAIRY HERD MAN, P318
+   Mertens DR, 1997, J DAIRY SCI, V80, P1463, DOI 10.3168/jds.S0022-0302(97)76075-2
+   NRC-National Research Council, 2001, NUTR REQ DAIR CATTL
+   SAS Institute Inc, 2003, SAS 9 1 3 SERV PACK
+   Scholtz GDJ, 2009, S AFR J ANIM SCI, V39, P183
+   TYLUTKI TP, 2007, ANIM FEED S IN PRESS
+   WILLIAMS PC, 2001, NEAR INFRARED TECHNO, P145
+   ZINN RA, 2007, P 22 ANN SW NUTR MAN
+NR 11
+TC 2
+Z9 4
+U1 0
+U2 2
+PU SOUTH AFRICAN JOURNAL OF ANIMAL SCIENCES
+PI HATFIELD
+PA C/O ESTIE KOSTER, PO BOX 13884, HATFIELD 0028, SOUTH AFRICA
+SN 0375-1589
+J9 S AFR J ANIM SCI
+JI South Afr. J. Anim. Sci.
+PY 2009
+VL 39
+IS 5
+SU 1
+BP 301
+EP 305
+PG 5
+WC Agriculture, Dairy & Animal Science
+SC Agriculture
+GA V15YW
+UT WOS:000207838300070
+DA 2020-08-14
+ER
+
+PT J
+AU Steppuhn, H
+   Wall, KG
+   Jefferson, PG
+AF Steppuhn, H.
+   Wall, K. G.
+   Jefferson, P. G.
+TI SEED SIZE EFFECTS ON EMERGENCE, HEIGHT GROWTH, AND SHOOT BIOMASS OF
+   FIRST-YEAR ALFALFA GROWN IN SALINE MEDIA
+SO TRANSACTIONS OF THE ASABE
+LA English
+DT Article
+DE Alfalfa; Crop production; Crop response to salinity; Forage; Salinity;
+   Salt resistance; Salt tolerance; Seed size
+ID ROOT-ZONE SALINITY; TOLERANCE; SOIL; GERMINATION; CROPS; YIELD; WATER;
+   NACL
+AB Rangelander alfalfa grown from large, medium, and small size seed while subjected to saline rooting media was evaluated for plant emergence, height growth, and shoot biomass production. The experiment utilized Canada's Salinity Tolerance Testing Facility, featuring a controlled environment simulating field conditions. Test plants were grown in sand tanks flushed four times daily with hydroponic solutions consisting of nutrients and salts dominated by sulfate anions targeting electrical conductivity (EC(sol)) treatments of 1.4 (nutrients only), 4, 8, 12, 18, and 24 dS m(-1). Seed averaging 1.30, 1.70, and 2.16 g per 1000 kernels, representing small, medium, and large sizes, respectively, averaged 58.5%, 65.4%, and 74.8% in cumulative emergence and early survival of the best attainable from saline substrates within the 8, 12, 18, and 24 dS m(-1) treatments. The vegetative growth of crop plants derived from large seed appeared to be less affected by the salinity than those emerging from smaller seed, but this advantage failed to fully compensate for the negative impact of the salinity. Shoot biomass yields from the first harvest cut of the forage grown from large alfalfa seed exceeded yields from small seed by 9010, 31%, 30%, 107%, 154%, and 717% in the respective root zone EC(sol) treatment solutions; the medium seed compared to the small size showed a similar trend with respective extra forage yields of 7%, 30%, 50%, 29%, 56%, and 100%. Large seed improved seedling emergence and survival in slightly and moderately saline media by 7%, crop height after emergence by 0.5% per day, and first-year forage production by 7% in comparison to the values obtained from the alfalfa grown from seed sown without size separation.
+C1 [Steppuhn, H.; Wall, K. G.] Agr & Agri Food Canada, Semiarid Prairie Agr Res Ctr, Swift Current, SK S9H 3X2, Canada.
+   [Jefferson, P. G.] Western Beef Dev Ctr, Prairie Agr Machinery Inst, Humboldt, SK, Canada.
+RP Steppuhn, H (corresponding author), Agr & Agri Food Canada, Semiarid Prairie Agr Res Ctr, POB 1030, Swift Current, SK S9H 3X2, Canada.
+EM steppuhnh@agr.gc.ca
+FU Canadian Seed Growers Association; Federal Agriculture Matching
+   Investment Initiative
+FX The authors acknowledge and thank the following people and organizations
+   for their contribution to this research: Mr. Ken Deobald, who nurtured
+   the test crops and collected much of the data; Mr. Don Sluth and Mr.
+   Evan Powell, who provided their usual excellent services in seeding and
+   harvesting the test plants; and the support staff at the Semiarid
+   Prairie Agricultural Research Centre. We recognize their contributions
+   and extend sincere thanks. We also acknowledge with thanks the financial
+   contributions to this study by the Canadian Seed Growers Association and
+   the Federal Agriculture Matching Investment Initiative.
+CR ALNIEMI TS, 1992, CROP SCI, V32, P976, DOI 10.2135/cropsci1992.0011183X003200040029x
+   ASSADIAN NW, 1987, AGRON J, V79, P710, DOI 10.2134/agronj1987.00021962007900040026x
+   Ayers R. S., 1985, 29 FAO
+   BARNES DK, 1995, FORAGES, V1, P205
+   Bates D.M., 1988, NONLINEAR REGRESSION
+   Bolton J.L., 1962, ALFALFA BOT CULTIVAT
+   Brown P. L., 1983, 30 USDA AGR RES SERV
+   BRUN LJ, 1975, AGRON J, V67, P586, DOI 10.2134/agronj1975.00021962006700040038x
+   FORSBERG D. E., 1953, CANADIAN JOUR AGRIC SCI, V33, P542
+   Gompertz B, 1825, PHILOS T ROY SOC LON, V115, P513, DOI [10.1098/rstl.1825.0026, DOI 10.1098/RSTL.1825.0026]
+   GRIEVE CM, 1992, PLANT SOIL, V147, P197, DOI 10.1007/BF00029071
+   HALVORSON AD, 1980, SOIL SCI SOC AM J, V44, P370, DOI 10.2136/sssaj1980.03615995004400020032x
+   HEINRICHS DH, 1979, CAN J PLANT SCI, V59, P491, DOI 10.4141/cjps79-076
+   HEINRICHS DH, 1971, CAN J PLANT SCI, V51, P367, DOI 10.4141/cjps71-073
+   Hoagland D.R., 1950, CALIFORNIA AGR EXPT
+   IRVINE RB, 1982, CAN J PLANT SCI, V62, P805, DOI 10.4141/cjps82-119
+   JANZEN HH, 1988, COMMUN SOIL SCI PLAN, V19, P405, DOI 10.1080/00103628809367948
+   JOHNSON DW, 1992, THEOR APPL GENET, V83, P833, DOI 10.1007/BF00226705
+   JOHNSON DW, 1992, EUPHYTICA, V60, P27
+   KAPULNIK Y, 1989, AUST J AGR RES, V40, P1253, DOI 10.1071/AR9891253
+   KNEEBONE WILLIAM R., 1955, AGRON JOUR, V47, P472
+   LANCASHIRE PD, 1991, ANN APPL BIOL, V119, P561, DOI 10.1111/j.1744-7348.1991.tb04895.x
+   LAPP MS, 1976, CAN J BOT, V54, P2239, DOI 10.1139/b76-240
+   Lesins K., 1972, Agronomy, P53
+   LESINS K, 1979, TAXOGENIC STUDY
+   Maas E. V., 1990, AGR SALINITY ASSESSM, P262
+   MARQUARDT DW, 1963, J SOC IND APPL MATH, V11, P441
+   MCKENZIE RC, 1987, SOIL WATER PROGRAM 1, P262
+   NADVORNIK J, 1927, B ECOLE SUPERIEURE A, V23
+   Quiros CF, 1988, AGRON MONOGR, P93
+   RAUSER W. E., 1963, CANADIAN JOUR PLANT SCI, V43, P397
+   *SAS I INC, 1995, JMP STAT GRAPH GUID, P593
+   Shannon Michael C., 1994, P199
+   SMITH SE, 1994, HDB PLANT CROP STRES, P431
+   Steppuhn H, 1998, CAN AGR ENG, V40, P241
+   Steppuhn H, 2001, T ASAE, V44, P1543, DOI 10.13031/2013.7039
+   Steppuhn H, 1999, CAN AGR ENG, V41, P185
+   Steppuhn H, 2005, CROP SCI, V45, P209, DOI 10.2135/cropsci2005.0209
+   Steppuhn H, 2005, CROP SCI, V45, P221, DOI 10.2135/cropsci2005.0221
+   U.S. Salinity Lab, 1954, AGR HDB, V60
+   Wheeler W.A., 1950, FORAGE PASTURE CROPS
+NR 41
+TC 4
+Z9 4
+U1 0
+U2 7
+PU AMER SOC AGRICULTURAL & BIOLOGICAL ENGINEERS
+PI ST JOSEPH
+PA 2950 NILES RD, ST JOSEPH, MI 49085-9659 USA
+SN 0001-2351
+J9 T ASABE
+JI Trans. ASABE
+PD JAN-FEB
+PY 2009
+VL 52
+IS 1
+BP 121
+EP 132
+PG 12
+WC Agricultural Engineering
+SC Agriculture
+GA 421NY
+UT WOS:000264366800012
+DA 2020-08-14
+ER
+
+PT J
+AU Guo, YJ
+   Yu, N
+   Yuan, L
+   Huang, JG
+AF Guo, Yanjun
+   Yu, Ni
+   Yuan, Ling
+   Huang, Jianguo
+TI Effects of liming and Sinorhizobium inoculation on growth, nodulation
+   and nutrient concentrations of lucerne in acid soil
+SO TROPICAL GRASSLANDS
+LA English
+DT Article
+AB A greenhouse pot experiment examined the effects of liming and inoculation with Sinorhizobium on nodule formation, growth and nutrient concentrations in the shoots of 2 lucerne cultivars, which performed differently when grown in acid soil, in a factorial design with 6 replications. Sanditi (good performer) and Gannong-3 (poor performer) were selected from 6 cultivars in a preliminary experiment and grown in an acid purplish soil (pH 5.45; in water) with and without lime addition and with and without inoculation. Sinorhizobium meliloti strain 1.163, an acid-tolerant isolate from a chestnut soil in the north of China, was used as the inoculant. Liming improved growth of Gannong-3 (P>0.05) but not of Sanditi, while inoculation increased growth of both cultivars (P<0.05). Most of the growth responses occurred in the roots. Very few nodules were formed on the roots of either cultivar without addition of Sinorhizobium, while both cultivars nodulated well in the presence of inoculum. Liming increased (P<0.05) the number of root nodules/plant but reduced both mean nodule weight and total weight of nodules/plant (P<0.05). Liming significantly increased N concentration in shoots of Sanditi and P concentration in Gannong-3. These results indicated that inoculation with acid-tolerant Sinorhizobium would boost production of both of the tested cultivars when grown in acid soils. Further testing is required to determine the benefit of liming for Gannong-3.
+C1 [Yuan, Ling; Huang, Jianguo] Southwest Univ, Coll Resources & Environm, Chongqing 400715, Peoples R China.
+   [Guo, Yanjun] Southwest Univ, Coll Anim Sci & Technol, Chongqing 400715, Peoples R China.
+   [Yu, Ni] Southwest Univ, Coll Agron & Biotechnol, Chongqing 400715, Peoples R China.
+RP Huang, JG (corresponding author), Southwest Univ, Coll Resources & Environm, Tiansheng Rd 1, Chongqing 400715, Peoples R China.
+EM jianguoh@hotmail.com
+FU National Basic Research Plan of ChinaNational Basic Research Program of
+   China [2007CB108901]; Southwest University in China
+FX Financial support was provided by the National Basic Research Plan of
+   China (2007CB108901) and the Doctor's Initial Fund of Southwest
+   University in China.
+CR Bakker MR, 1999, PLANT SOIL, V217, P243, DOI 10.1023/A:1004518116551
+   BALIGAR VC, 1988, J PLANT NUTR, V11, P549, DOI 10.1080/01904168809363822
+   Belkacem S, 1997, ANN SCI FOREST, V54, P169, DOI 10.1051/forest:19970204
+   BRAUER DK, 2002, J PLANT NUTR, V5, P1640
+   EDMEADES DC, 1981, PLANT SOIL, V60, P177, DOI 10.1007/BF02374102
+   FOY CD, 1987, J PLANT NUTR, V10, P1089, DOI 10.1080/01904168709363637
+   FOY CD, 1988, COMMUN SOIL SCI PLAN, V19, P959, DOI 10.1080/00103628809367988
+   Grewal HS, 2003, J PLANT NUTR, V26, P1683, DOI 10.1081/PLN-120022381
+   HOLFORD ICR, 1994, AUST J AGR RES, V45, P1045
+   LAI S, 1989, J INDIAN SOC SOIL SC, V37, P717
+   LEMARE PH, 1989, J SOIL SCI, V40, P59, DOI 10.1111/j.1365-2389.1989.tb01254.x
+   Littke KM, 2007, FOREST ECOL MANAG, V247, P140, DOI 10.1016/j.foreco.2007.04.027
+   MARIA F, 1999, APPL ENVIRON MICROB, V4, P1420
+   MENDOZA RE, 1995, J PLANT NUTR, V18, P401, DOI 10.1080/01904169509364912
+   MUNNS DN, 1981, AGRON J, V73, P407, DOI 10.2134/agronj1981.00021962007300030006x
+   Pietsch G, 2007, FIELD CROP RES, V102, P104, DOI 10.1016/j.fcr.2007.03.003
+   Prasad R., 1992, Journal of the Indian Society of Soil Science, V40, P377
+   Rinaudi L, 2006, RES MICROBIOL, V157, P867, DOI 10.1016/j.resmic.2006.06.002
+   Soto MJ, 2004, FEMS MICROBIOL ECOL, V48, P71, DOI 10.1016/j.femsec.2003.12.010
+   Tajima R, 2007, PLANT PROD SCI, V10, P423, DOI 10.1626/pps.10.423
+   Tang C, 1996, PLANT SOIL, V186, P321, DOI 10.1007/BF02415527
+   Walker RF, 2002, NEW FOREST, V24, P225, DOI 10.1023/A:1021337321332
+   Xu JM, 2006, SOIL BIOL BIOCHEM, V38, P709, DOI 10.1016/j.soilbio.2005.06.022
+NR 23
+TC 2
+Z9 2
+U1 0
+U2 3
+PU TROPICAL GRASSLAND SOC AUST
+PI ST LUCIA
+PA CUNNINGHAM LAB, CSIRO 306 CARMODY RD, ST LUCIA, OLD 4067, AUSTRALIA
+SN 0049-4763
+J9 TROP GRASSLANDS
+JI Trop. Grassl.
+PY 2009
+VL 43
+BP 112
+EP 117
+PG 6
+WC Agriculture, Dairy & Animal Science; Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA V18FQ
+UT WOS:000207991100012
+DA 2020-08-14
+ER
+
+PT J
+AU Tiryaki, I
+   Kizilsimsek, M
+   Kaplan, M
+AF Tiryaki, Iskender
+   Kizilsimsek, Mustafa
+   Kaplan, Mahmut
+TI Rapid and enhanced germination at low temperature of alfalfa and white
+   clover seeds following osmotic priming
+SO TROPICAL GRASSLANDS
+LA English
+DT Article
+ID SEEDLING GROWTH; LEGUMES; EMERGENCE; PERFORMANCE; CHICKPEA; GRASSES;
+   TOMATO; FIELD
+AB Seeds of alfalfa (Medicago sativa) and white clover (Trifolium repens) were primed in 3 priming solutions [2% NaCl, 2% KNO3 and 300 g/L polyethylene glycol (PEG)] for 2 days at 20 degrees C and their subsequent germination compared with that of untreated seed. Four replications of 50 seeds for germination and 25 seeds for emergence were arranged in a 2-factor factorial completely randomised design. All priming treatments significantly (P<0.05) advanced germination rate and percentage of white clover at 15 degrees C, but produced minimal or negative effects on alfalfa. Priming with PEG significantly (P<0.05) reduced time to 50% of final germination percentage (G(50) = 4.2 days) of white clover in comparison with control seeds (G(50) = 6.5 days). The results indicated that priming seeds in KNO3 for 2 days at 20 degrees C could improve germination rate and germination percentage of white clover at 15 degrees C. Possible reasons for the differing responses in the two species are discussed.
+C1 [Tiryaki, Iskender; Kizilsimsek, Mustafa; Kaplan, Mahmut] Kahramanmaras Sutcu Imam Univ, Fac Agr, Dept Field Crops, TR-46100 Kahramanmaras, Turkey.
+RP Tiryaki, I (corresponding author), Kahramanmaras Sutcu Imam Univ, Fac Agr, Dept Field Crops, TR-46100 Kahramanmaras, Turkey.
+EM itiryaki@ksu.edu.tr
+RI KAPLAN, Mahmut/AAC-5613-2019
+CR Abberton MT, 2005, J AGR SCI-CAMBRIDGE, V143, P117, DOI 10.1017/S0021859605005101
+   ARAKERI HR, 1949, AGRON J, V41, P182, DOI 10.2134/agronj1949.00021962004100050002x
+   BRAR GS, 1991, AGRON J, V83, P173, DOI 10.2134/agronj1991.00021962008300010040x
+   Chiu KY, 2002, CROP SCI, V42, P1996, DOI 10.2135/cropsci2002.1996
+   FRAME J, 1986, ADV AGRON, V40, P1, DOI 10.1016/S0065-2113(08)60280-1
+   Frett J. J., 1995, Journal of Turfgrass Management, V1, P13, DOI 10.1300/J099v01n03_02
+   Giri GS, 2003, CROP SCI, V43, P2135, DOI 10.2135/cropsci2003.2135
+   GOMES E, 1983, PHYSIOL PLANTARUM, V59, P183, DOI 10.1111/j.1399-3054.1983.tb00755.x
+   HAIGH AM, 1986, J AM SOC HORTIC SCI, V111, P660
+   Hardegree SP, 2000, ANN BOT-LONDON, V85, P379, DOI 10.1006/anbo.1999.1076
+   Hardegree SP, 2002, ANN BOT-LONDON, V89, P311, DOI 10.1093/aob/mcf043
+   HASSON E, 1981, ISRAEL J BOT, V29, P98
+   Helgadottir A., 2008, ANN BOT-LONDON, P1095
+   HEYDECKER W, 1977, SEED SCI TECHNOL, V5, P353
+   HILL MJ, 1991, AUST J AGR RES, V42, P175, DOI 10.1071/AR9910175
+   ISTA, 2004, INT RUL SEED TEST
+   Kader MA, 2003, J AGRON CROP SCI, V189, P418, DOI 10.1046/j.0931-2250.2003.00066.x
+   Kaur S, 2002, PLANT GROWTH REGUL, V37, P17, DOI 10.1023/A:1020310008830
+   KAY BL, 1968, WEED SCI, V16, P66, DOI 10.1017/S0043174500030563
+   Laidlaw AS, 2001, PROCEEDINGS OF THE XIX INTERNATIONAL GRASSLAND CONGRESS, P85
+   McDonald M. B., 2000, SEED TECHNOLOGY ITS, P287
+   MULDOON DK, 1986, TROP GRASSLANDS, V20, P18
+   MURRAY G, 1993, HORTSCIENCE, V28, P31, DOI 10.21273/HORTSCI.28.1.31
+   Musa AM, 2001, EXP AGR, V37, P509, DOI 10.1017/S0014479701000448
+   Nichols PGH, 2009, PLANT SOIL, V315, P241, DOI 10.1007/s11104-008-9747-5
+   Ozbingol N, 1998, SEED SCI RES, V8, P377, DOI 10.1017/S096025850000430X
+   Pengelly B.C., 1998, P 9 AUSTR AGR C AUST
+   Pill W. G., 1997, Journal of Turfgrass Management, V2, P27, DOI 10.1300/J099v02n01_03
+   PILL WG, 1988, ANN APPL BIOL, V113, P383, DOI 10.1111/j.1744-7348.1988.tb03314.x
+   Pill WG, 1997, HORTSCIENCE, V32, P1061, DOI 10.21273/HORTSCI.32.6.1061
+   PILL WG, 1995, SEED QUALITY, P319
+   PRISCO J T, 1981, Revista Brasileira de Botanica, V4, P63
+   Russelle MP, 2001, AM SCI, V89, P252, DOI 10.1511/2001.3.252
+   Sanderson MA, 1999, AGRON J, V91, P5, DOI 10.2134/agronj1999.00021962009100010002x
+   SAS, 1997, SAS STAT SOFTW CHANG
+   Soder KJ, 2006, J DAIRY SCI, V89, P2158, DOI 10.3168/jds.S0022-0302(06)72286-X
+   Sykes J, 1997, TROP GRASSLANDS, V31, P273
+   Tiryaki I, 2006, SEED SCI TECHNOL, V34, P169, DOI 10.15258/sst.2006.34.1.18
+   Tiryaki I, 2005, SEED SCI TECHNOL, V33, P571, DOI 10.15258/sst.2005.33.3.05
+   Volenec J.J., 1995, SCI GRASSLAND AGR, V2
+   Young J.A., 1973, J RANGE MANAGE, V23, P98
+NR 41
+TC 4
+Z9 4
+U1 0
+U2 6
+PU TROPICAL GRASSLAND SOC AUST
+PI ST LUCIA
+PA CUNNINGHAM LAB, CSIRO 306 CARMODY RD, ST LUCIA, OLD 4067, AUSTRALIA
+SN 0049-4763
+J9 TROP GRASSLANDS
+JI Trop. Grassl.
+PY 2009
+VL 43
+BP 171
+EP 177
+PG 7
+WC Agriculture, Dairy & Animal Science; Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA V18FQ
+UT WOS:000207991100019
+DA 2020-08-14
+ER
+
+PT J
+AU Can, E
+   Celiktas, N
+   Hatipoglu, R
+   Avci, S
+AF Can, Ersin
+   Celiktas, Nafiz
+   Hatipoglu, Ruestue
+   Avci, Sueleyman
+TI BREAKING SEED DORMANCY OF SOME ANNUAL MEDICAGO AND TRIFOLIUM SPECIES BY
+   DIFFERENT TREATMENTS
+SO TURKISH JOURNAL OF FIELD CROPS
+LA English
+DT Article
+DE Annual Medicago; Trifolium; seed germination; hardseededness
+ID ANNUAL PASTURE LEGUMES; GERMINATION; L.
+AB The germination abilities of 14 annual legume species (six Medicago and eight Trifolium) were tested under three dormancy breaking treatments: In the first treatment, mechanical scarification plus sodium hypochlorite (MSS); in the second, chemical scarification with sulphuric acid (CSA); in the third, incubation in water bath at 90 degrees C (IWB) were used for breaking the dormancy. All Medicago species except for Medicago polymorpha showed improvement in germination rates using MSS. The seeds of M. polymorpha showed higher germination rates with CSA or IWB than MSS. For Trifolium species, results indicated that there was a great variability among species with regard to the treatments. Seeds of species showed a broad range of dormancy requirements for germination. The CSA treatment significantly increased the germination rates of Trifolium lappaceum, T scabrum and T strictum. On the other hand, the germination rates of T spumosum, T spadieceum and T angustifolium were significantly improved by MSS. The seeds of T badium showed higher germination rates with IWB than the other applications.
+C1 [Can, Ersin; Celiktas, Nafiz; Avci, Sueleyman] Mustafa Kemal Univ, Dept Field Crops, TR-31034 Antakya, Hatay, Turkey.
+   [Hatipoglu, Ruestue] Cukurova Univ, Dept Field Crops, TR-01330 Adana, Turkey.
+RP Can, E (corresponding author), Mustafa Kemal Univ, Dept Field Crops, TR-31034 Antakya, Hatay, Turkey.
+EM ersincan69@gmail.com
+RI Hatipoglu, Rustu/E-7007-2018
+OI Hatipoglu, Rustu/0000-0002-7977-0782
+FU Mustafa Kemal UniversityMustafa Kemal University [01130101]
+FX This study was supported by Mustafa Kemal University (Project No:
+   01130101).
+CR AYDIN I, 2001, PAKISTAN J BIOL SCI, V4, P181
+   Baes PO, 2002, J ARID ENVIRON, V50, P185, DOI 10.1006/jare.2001.0859
+   BASKIN CC, 1998, SEEDS ECOLOGY BIOGEO, P66
+   Bewley J, 1994, SEEDS PHYSL DEV GERM, DOI [10.1007/978-1-4899-1002-8_9, DOI 10.1007/978-1-4899-1002-8]
+   Bewley JD, 1997, PLANT CELL, V9, P1055, DOI 10.1105/tpc.9.7.1055
+   BRAHIM K, 1993, J RANGE MANAGE, V46, P21, DOI 10.2307/4002442
+   CRAWFORD EJ, 1989, ADV AGRON, V42, P399
+   Davies P J, 1995, PLANT HORMONES PHYSL
+   DESOUZA FD, 2001, REV BRASIL BOT SAO P, V24, P365, DOI DOI 10.1590/S0100-84042001000400002
+   Ewing A, 1999, ARID SOIL RES REHAB, V13, P327, DOI 10.1080/089030699263221
+   HARLAN JR, 1998, LIVING FIELDS OUR AG, P288
+   Koornneef M, 2002, CURR OPIN PLANT BIOL, V5, P33, DOI 10.1016/S1369-5266(01)00219-9
+   Koyuncu F, 2005, ACTA BIOL CRACOV BOT, V47, P23
+   Malo J. E, 2000, WEB ECOL, V1, P70
+   MONEIM AA, 1992, PASTURE FORAGE LIVES, P17
+   Nadjafi F, 2006, J ARID ENVIRON, V64, P542, DOI 10.1016/j.jaridenv.2005.06.009
+   Ogawa M, 2003, PLANT CELL, V15, P1591, DOI 10.1105/tpc.011650
+   Patane C, 2006, J ARID ENVIRON, V67, P165, DOI 10.1016/j.jaridenv.2006.02.001
+   Ramsay G, 1997, PLANT BREEDING, V116, P287, DOI 10.1111/j.1439-0523.1997.tb00998.x
+   RUMBAUGH MD, 1986, J RANGE MANAGE, V39, P52, DOI 10.2307/3899687
+   TAYLOR GB, 1992, AUST J EXP AGR, V32, P331, DOI 10.1071/EA9920331
+   Teketay D, 1998, J ARID ENVIRON, V38, P551, DOI 10.1006/jare.1997.0332
+   Uzun F., 2004, Asian Journal of Plant Sciences, V3, P714
+   Vilela AE, 2001, J ARID ENVIRON, V48, P171, DOI 10.1006/jare.2000.0735
+   WOODSTOCK LW, 1988, J SEED TECHNOL, V12, P1
+NR 25
+TC 16
+Z9 17
+U1 0
+U2 13
+PU SOC FIELD CROP SCI
+PI BORNOVA
+PA EGE UNIV ZIRAAT FAK TARLA, BITKILERI BOLUMU, BORNOVA, IZMIR 35100,
+   TURKEY
+SN 1301-1111
+J9 TURK J FIELD CROPS
+JI Turk. J. Field Crops
+PY 2009
+VL 14
+IS 2
+BP 72
+EP 78
+PG 7
+WC Agronomy
+SC Agriculture
+GA 540UH
+UT WOS:000273364900004
+DA 2020-08-14
+ER
+
+PT J
+AU Ceylan, S
+   Soya, H
+   Budak, B
+   Akdemir, H
+   Esetlili, BC
+AF Ceylan, Safak
+   Soya, Hikmet
+   Budak, Buelent
+   Akdemir, Hueseyin
+   Esetlili, Bihter Colak
+TI EFFECT OF ZINC ON YIELD AND SOME RELATED TRAITS OF ALFALFA
+SO TURKISH JOURNAL OF FIELD CROPS
+LA English
+DT Article
+DE Alfalfa; zinc; herbage; hay; dry matter; crude protein yield
+ID DEFICIENCY; NUTRITION; RESPONSES; SYSTEM; SOIL
+AB Effects of increasing dozes of zinc application (0, 40, 80, 120 kg ha(-1)) were studied on herbage, hay, dry matter, crude protein and zinc contents yields of alfalfa (Medicago saliva L.) for three years (2003-2005). The results indicated that different zinc doses had significant effects on these properties. The highest yields were obtained in 80 kg ha(-1) zinc treatment. By this application, increase in yields were determined as 30.9% in herbage, 34.7% in hay and 32.1% in dry matter yield compared to control. The yields differed significantly among the experimental years. In the second year of experiment, average herbage, hay, dry matter and crude protein yields were higher than the first and third years but the highest zinc concentrations of plant were in the first year. Average data of the 3 years revealed that the least yields were obtained from control
+C1 [Ceylan, Safak; Budak, Buelent; Akdemir, Hueseyin] Ege Univ, Odemis Vocat High Sch, Izmir, Turkey.
+   [Soya, Hikmet] Ege Univ, Fac Agr, Dept Field Crops, Izmir, Turkey.
+   [Esetlili, Bihter Colak] Ege Univ, Fac Agr, Dept Soil Sci, Izmir, Turkey.
+RP Ceylan, S (corresponding author), Ege Univ, Odemis Vocat High Sch, Izmir, Turkey.
+EM safak.ceylan@ege.edu.tr
+FU Comission of Ege UniversityEge University [2005-OMY-01]
+FX This research study is partially supported by Comission of Ege
+   University, Contract No. 2005-OMY-01.
+CR ACIKGOZ N, 1993, UL BILG UYG SEMP 19, V133
+   *AGR CAN, 1991, PUBL AGR CAN E, V187
+   ASKIN A, 1997, ACTA HORTIC, P247
+   BENNETT F, 1993, NUTR DEFICIENCIES TO
+   BLACKWELL PS, 1990, SOIL SCI SOC AM J, V54, P1088, DOI 10.2136/sssaj1990.03615995005400040027x
+   BOAWN LC, 1971, AGRON J, V63, P874, DOI 10.2134/agronj1971.00021962006300060015x
+   BREMMER R, 1965, METHODS SOIL ANAL 2, P1142
+   BROWN PH, 1993, FORM FUNCTION ZINC P, P1007
+   Cakmak I., 1996, Turkish Journal of Agriculture & Forestry, V20, P13
+   Cakmak I, 1996, PLANT SOIL, V180, P165, DOI 10.1007/BF00015299
+   Cakmak I, 2000, NEW PHYTOL, V146, P185, DOI 10.1046/j.1469-8137.2000.00630.x
+   CAMBELL CA, 1990, AGR CANADA PUB E, V1841
+   CEYLAN S, 1998, UL CINK K ESK, P229
+   GARG IK, 1986, J PLANT NUTR, V9, P257
+   Grewal HS, 2000, J PLANT NUTR, V23, P949, DOI 10.1080/01904160009382073
+   Grewal HS, 2001, PLANT SOIL, V234, P47, DOI 10.1023/A:1010544601267
+   Grewal HS, 1999, PLANT SOIL, V207, P29, DOI 10.1023/A:1004479911399
+   Hossain MA, 2008, PLANT SOIL, V306, P13, DOI 10.1007/s11104-007-9529-5
+   MARSCHNER H, 1993, DEV PLANT SOIL SCI, V55, P59
+   Marschner H., 1995, MINERAL NUTR HIGHER
+   Mohr RM, 1999, AGRON J, V91, P622, DOI 10.2134/agronj1999.914622x
+   Munoz J, 1968, ATOMIC ABSORPTION SP
+   OKTAY M, 1998, UL CINK K ESK, P243
+   OZBEK H, 1984, CUKUROVA U ZIRAAT FA, V162, P463
+   REID RL, 1987, J ANIM SCI, V64, P1735
+   RENGEL Z, 1995, PLANT SOIL, V176, P307, DOI 10.1007/BF00011795
+   Saigusa T., 1999, Japanese Journal of Soil Science and Plant Nutrition, V70, P10
+   STOUT WL, 1987, COMMUN SOIL SCI PLAN, V18, P743, DOI 10.1080/00103628709367858
+   Suge H., 1986, PLANT CELL PHYSL, V27, P1010
+   VALLEE BL, 1990, BIOCHEMISTRY-US, V29, P5647, DOI 10.1021/bi00476a001
+   Yu Q, 1999, PLANT SCI, V143, P231, DOI 10.1016/S0168-9452(99)00042-4
+   Zentner RP, 2001, J SUSTAIN AGR, V18, P117, DOI 10.1300/J064v18n02_10
+NR 32
+TC 8
+Z9 8
+U1 1
+U2 3
+PU SOC FIELD CROP SCI
+PI BORNOVA
+PA EGE UNIV ZIRAAT FAK TARLA, BITKILERI BOLUMU, BORNOVA, IZMIR 35100,
+   TURKEY
+SN 1301-1111
+J9 TURK J FIELD CROPS
+JI Turk. J. Field Crops
+PY 2009
+VL 14
+IS 2
+BP 136
+EP 143
+PG 8
+WC Agronomy
+SC Agriculture
+GA 540UH
+UT WOS:000273364900011
+DA 2020-08-14
+ER
+
+PT J
+AU Bayram, A
+   Efil, L
+   Deltshev, C
+AF Bayram, Ahmet
+   Efil, Levent
+   Deltshev, Christo
+TI Pardosa roscai (Roewer, 1951), a spider new to the fauna of Turkey
+   (Araneae: Lycosidae)
+SO TURKISH JOURNAL OF ZOOLOGY
+LA English
+DT Article
+DE Taxonomy; Lycosidae; Pardosa cribrata; Pardosa proxima species group;
+   alfalfa; cotton; new record; Turkey
+AB Pardosa roscai (Roewer, 1951), a spider new to the Turkish fauna, is redescribed and illustrated (male/female). The taxon was re-elevated to species rank: Pardosa cribrata roscai (Roewer, 1951) = Pardosa roscai (Roewer, 1951).
+C1 [Bayram, Ahmet] Dicle Univ, Fac Agr, Dept Plant Protect, TR-21280 Diyarbakir, Turkey.
+   [Efil, Levent] Plant Protect Res Inst, Adana, Turkey.
+   [Deltshev, Christo] Bulgarian Acad Sci, Inst Zool, Sofia 1000, Bulgaria.
+RP Bayram, A (corresponding author), Dicle Univ, Fac Agr, Dept Plant Protect, TR-21280 Diyarbakir, Turkey.
+EM abayram@dicle.edu.tr
+RI Bayram, Ahmet/F-4623-2010
+OI Bayram, Ahmet/0000-0003-4532-3527
+CR Blagoev Gergin, 2005, Acta Zoologica Bulgarica, V57, P139
+   BOSMANS R, 2005, NEWSL BELG ARACHNO S, V20
+   BUCHAR J, 1968, Vestnik Ceskoslovenske Spolecnosti Zoologicke, V32, P116
+   Deltshev Christo, 2001, Bulletin of the British Arachnological Society, V12, P110
+   Fuhn I. E., 1971, FAUNA REPUBLICII SOC, V5, P1
+   PLATNICK NI, 2008, WORLD SPIDER CATALOG
+   Roewer C. F., 1951, Abhandlungen vom Naturwissenschaftlichen Verein zu Bremen, V32, P437
+   ROSCA A., 1939, ZOOL AM, V125, P91
+   Topcu Aydin, 2005, Serket, V9, P109
+   ZYUZIN A A, 1979, Entomologicheskoe Obozrenie, V58, P431
+NR 10
+TC 1
+Z9 3
+U1 0
+U2 1
+PU TUBITAK SCIENTIFIC & TECHNICAL RESEARCH COUNCIL TURKEY
+PI ANKARA
+PA ATATURK BULVARI NO 221, KAVAKLIDERE, ANKARA, 00000, TURKEY
+SN 1300-0179
+J9 TURK J ZOOL
+JI Turk. J. Zool.
+PY 2009
+VL 33
+IS 4
+BP 463
+EP 467
+DI 10.3906/zoo-0809-2
+PG 5
+WC Zoology
+SC Zoology
+GA 529ET
+UT WOS:000272499400013
+DA 2020-08-14
+ER
+
+PT J
+AU Purwin, C
+   Pysera, B
+   Tokarczyk, M
+   Sederevicius, A
+   Savickis, S
+   Traidaraite, A
+AF Purwin, Cezary
+   Pysera, Barbara
+   Tokarczyk, Monika
+   Sederevicius, Antanas
+   Savickis, Saulius
+   Traidaraite, Alva
+TI PRODUCTION RESULTS OF DAIRY COWS FED GRASS AND ALFALFA SILAGE WITH A
+   DIFFERENT DEGREE OF WILTING
+SO VETERINARIJA IR ZOOTECHNIKA
+LA English
+DT Article
+DE wilting; silage bales; dairy cows
+ID RED-CLOVER SILAGE; MILK-PRODUCTION; PERFORMANCE; CONCENTRATE; PROTEIN;
+   PREDICTION; DIETS; ORCHARDGRASS; LACTATION; CATTLE
+AB The objective of this study was to determine the effect of grass and alfalfa silage made with roll balers from wilted raw material on milk yield, milk composition and feed utilization in dairy cows fed high-concentrate diets. Experimental silage was produced from first-cut grass-alfalfa mixtures wilted for 6 or 24 h. One hundred thirty Holstein-Friesian cows were divided into two equal feeding groups: Group 1 - silage made from green fodder wilted for 6 h, Group 2 - silage made from green fodder wilted for 24 h. Experimental silage was offered ad libitum during 60-day period, together with corn silage (15 kg/d) and concentrated feed (above milk yield of 16 kg, in the amount of 0.5 kg/kg milk). The different degree of green forage wilting prior to ensilage had no effect on average milk yield, ECM yield, the protein content of milk, or the average daily yield of milk protein and milk fat per cow. Only the fat content of milk was statistically higher (p<0.05) in cows fed silage with a lower degree of wilting (Group 2) compared to Group 1. Milk from cows given silage with a higher moisture content (Group 1) had a higher concentration of urea (p<0.01). There were no differences between the two feeding groups with respect to the utilization of dry matter, energy and protein. Starting from day 200 of lactation, milk production was higher (p<0.05) in cows fed silage with a higher degree of wilting (Group 2). However, due to a lower fat content of milk (p<0.05) these differences were found to be statistically non-significant when converted to ECM.
+C1 [Purwin, Cezary; Pysera, Barbara; Tokarczyk, Monika] Univ Warmia & Mazury, Dept Anim Nutr & Fodder Sci, PL-10718 Olsztyn, Poland.
+   [Sederevicius, Antanas; Savickis, Saulius; Traidaraite, Alva] Lithuanian Vet Acad, Dept Anat & Physiol, LT-47181 Kaunas, Lithuania.
+RP Purwin, C (corresponding author), Univ Warmia & Mazury, Dept Anim Nutr & Fodder Sci, Oczapowskiego 5, PL-10718 Olsztyn, Poland.
+EM purwin@uwm.edu.pl
+CR Allen MS, 1996, ANIM FEED SCI TECH, V59, P51, DOI 10.1016/0377-8401(95)00886-1
+   Andersen JB, 2003, LIVEST PROD SCI, V81, P119, DOI 10.1016/S0301-6226(02)00303-2
+   AOAC [Assoc of Official Analytical Chemists], 1990, OFF METH AN
+   Broderick GA, 2000, J DAIRY SCI, V83, P1543, DOI 10.3168/jds.S0022-0302(00)75026-0
+   Broderick GA, 2001, J DAIRY SCI, V84, P1728, DOI 10.3168/jds.S0022-0302(01)74608-5
+   Brzoska F., 1995, Roczniki Naukowe Zootechniki, V22, P183
+   Brzoska F., 1999, Roczniki Naukowe Zootechniki, V26, P231
+   Cherney DJR, 2004, J DAIRY SCI, V87, P2268, DOI 10.3168/jds.S0022-0302(04)70047-8
+   DAVIGNON J, 1988, ARTERIOSCLEROSIS, V8, P1, DOI 10.1161/01.ATV.8.1.1
+   Dawson LER, 1999, GRASS FORAGE SCI, V54, P237, DOI 10.1046/j.1365-2494.1999.00176.x
+   Dillon P, 2002, GRASS FORAGE SCI, V57, P212, DOI 10.1046/j.1365-2494.2002.00319.x
+   Driehuis F, 2001, GRASS FORAGE SCI, V56, P75, DOI 10.1046/j.1365-2494.2001.00251.x
+   Ferris CP, 2001, J AGR SCI, V136, P319, DOI 10.1017/S002185960100870X
+   Frank B, 2002, LIVEST PROD SCI, V76, P171, DOI 10.1016/S0301-6226(02)00021-0
+   Friggens NC, 1998, J DAIRY SCI, V81, P2228, DOI 10.3168/jds.S0022-0302(98)75802-3
+   Gasior R., 2000, Annals of Animal Science - Roczniki Naukowe Zootechniki, V27, P129
+   Givens DI, 2004, ANIM FEED SCI TECH, V114, P1, DOI 10.1016/j.anifeedsci.2003.09.005
+   Goering H K, 1970, AGR HDB USDA, V379
+   Groff EB, 2005, J DAIRY SCI, V88, P3619, DOI 10.3168/jds.S0022-0302(05)73047-2
+   Haigh PM, 1995, IRISH J AGR FOOD RES, V34, P189
+   Han KJ, 2006, GRASS FORAGE SCI, V61, P22, DOI 10.1111/j.1365-2494.2006.00501.x
+   HEIKKILA T, 2002, 13 INT SIL C AUCH SC, P158
+   Huhtanen P, 2003, LIVEST PROD SCI, V81, P57, DOI 10.1016/S0301-6226(02)00195-1
+   Huhtanen P, 2002, LIVEST PROD SCI, V73, P111, DOI 10.1016/S0301-6226(01)00279-2
+   *IZ INRA, 2001, NORM ZYW BYDL OW KOZ
+   Jones R., 2000, P ALLT 16 ANN S, P423
+   KEADY TWJ, 2002, P BRIT SOC AN SCI, V16
+   Kuoppala K, 2004, LIVEST PROD SCI, V85, P15, DOI 10.1016/S0301-6226(03)00119-2
+   LAUGALIS J, 2004, VET ZOOTECHNIKA KAUN, V25, P12
+   Lingvall P, 2002, 13 INT SIL C AUCH SC, P162
+   McDonald P., 1991, BIOCH SILAGE
+   McNamee BF, 2005, LIVEST PROD SCI, V92, P233, DOI 10.1016/j.livprodsci.2004.08.015
+   MONKEVICIENE I, 1998, VET ZOOTEC, V6, P29
+   MONKEVICIENE I, 2001, VET ZOOTEC, V16, P127
+   NOWAK J, 2001, POST NAUK ROL, V5, P95
+   Onetti SG, 2004, J DAIRY SCI, V87, P652, DOI 10.3168/jds.S0022-0302(04)73208-7
+   Rhein RT, 2005, J DAIRY SCI, V88, P1815, DOI 10.3168/jds.S0022-0302(05)72856-3
+   RUTKOWSKA U, 1981, WYBRANE METODY BADAN
+   SKULMOWSKI J, 1974, METODY OKRESLANIA SK
+   Slottner D, 2006, ANIM FEED SCI TECH, V127, P101, DOI 10.1016/j.anifeedsci.2004.10.007
+   Steen RWJ, 1998, ANIM SCI, V66, P115, DOI 10.1017/S1357729800008894
+   Steidlova S, 2004, ARCH ANIM NUTR, V58, P245, DOI 10.1080/00039420410001701378
+   WEISSBACH F, 1964, VERSUCHS UNTERS WES, V10, P65
+   Winters AL, 2001, GRASS FORAGE SCI, V56, P181, DOI 10.1046/j.1365-2494.2001.00265.x
+   Wright DA, 2000, GRASS FORAGE SCI, V55, P1, DOI 10.1046/j.1365-2494.2000.00198.x
+   Yan T, 1998, J AGR SCI, V131, P103, DOI 10.1017/S0021859698005589
+NR 46
+TC 8
+Z9 8
+U1 0
+U2 3
+PU LITHUANIAN VETERINARY ACAD
+PI KAUNAS
+PA TILZES G 18, KAUNAS, LT-47181, LITHUANIA
+SN 1392-2130
+J9 VET ZOOTECH-LITH
+JI Vet. Zootec.
+PY 2009
+VL 46
+IS 68
+BP 60
+EP 66
+PG 7
+WC Veterinary Sciences
+SC Veterinary Sciences
+GA 468YJ
+UT WOS:000267860400011
+DA 2020-08-14
+ER
+
+PT J
+AU Jatkauskas, J
+   Vrotniakiene, V
+AF Jatkauskas, Jonas
+   Vrotniakiene, Vilma
+TI The influence of application of a biological additive on the
+   fermentation and nutritive value of lucerne silage
+SO ZEMDIRBYSTE-AGRICULTURE
+LA English
+DT Article
+DE Medicago sativa L.; silage; microbial inoculant; fermentation products;
+   aerobic stability
+ID LACTOBACILLUS-PLANTARUM; AEROBIC STABILITY; INOCULANT; CORN
+AB Studies were conducted in 2008 at the Institute of Animal Science of LVA to examine the influence of combined microbial inoculant (Enterococcus faecium, Lactobacillus casei, Lactobacillus plantarum, Lactobacillus buchneri and Pediococcus pentosaceus) on the fermentation parameters, nutrient content and aerobic stability of wilted lucerne silages. The silages were made from difficult to ensile, second growth cut lucerne wilted 7-8 h (up to 340 g kg(-1) DM fresh weight). The lucerne was harvested from five different fields and was ensiled in 0.7-litre laboratory silos when determining pH after 2 days or in 3-litre silos when determining the remaining parameters after 100 days. The lucerne was ensiled Without additives (C) or treated with bacterial mix applied at 150 000 cfu g(-1) fresh weight (1). Three replications without additive and three replications with the added inoculant from each Field were evaluated. The addition of the microbial mix resulted in more rapid fall in pH (P < 0.01), in a significant (P < 0.01) increase in lactic acid concentration and in a significant (P < 0.05) decrease in the concentration of undesirable Fermentation products Such its butyric acid. Inoculation reduced proteolysis of plant proteins, because ammonia-N concentration was lower (P < 0.01) in the Inoculated silage compared to the control. The treatment with the bacterial mix significantly (P<0.01) reduced dry matter losses; therefore, the inoculated silage had higher preservation of nutrients. However, inoculation had a marginal increase on aerobic stability of silages.
+C1 [Jatkauskas, Jonas; Vrotniakiene, Vilma] Lithuanian Vet Acad, Inst Anim Sci, Baisogala, Lithuania.
+RP Jatkauskas, J (corresponding author), Lithuanian Vet Acad, Inst Anim Sci, R Zebenkos 12, Baisogala, Lithuania.
+EM pts@lgi.lt
+CR Cussen RF, 1995, GRASS FORAGE SCI, V50, P249, DOI 10.1111/j.1365-2494.1995.tb02320.x
+   Danner H, 2003, APPL ENVIRON MICROB, V69, P562, DOI 10.1128/AEM.69.1.562-567.2003
+   DAVIES DR, 2005, SIL PROD UT P 14 INT, P230
+   DEVRIESE LA, 1992, PROKARYOTES HDB BIOL, V2, P1465
+   Driehuis F, 1997, J AGR SCI, V128, P323, DOI 10.1017/S0021859696004157
+   FITZSIMONS A, 1992, APPL ENVIRON MICROB, V58, P3047, DOI 10.1128/AEM.58.9.3047-3052.1992
+   Halling MA, 2002, LEGUME SILAGES FOR ANIMAL PRODUCTION - LEGSIL, P5
+   Hammes W. P., 1992, The prokaryotes: a handbook on the biology of bacteria: ecophysiology, isolation, identification, applications, vol. II., P1535
+   HOLZAPFEL WH, 1992, PROKARYOTES, P1508
+   JONES BA, 1992, J SCI FOOD AGR, V60, P147, DOI 10.1002/jsfa.2740600203
+   KUNG L, 1991, ANIM FEED SCI TECH, V35, P37, DOI 10.1016/0377-8401(91)90097-C
+   McDonald P., 1991, The biochemistry of silage.
+   MERRY RJ, 2000, CONSERVATION GRASS, P196
+   MUCK R, 2000, FOCUS FORAGE, V2, P1
+   Muck RE, 2007, J DAIRY SCI, V90, P5115, DOI 10.3168/jds.2006-878
+   MUCK RE, 1997, SILAGE FIELD FEEDBUN, P187
+   Naumann C, 1997, CHEM UNTERSUCHUNG FU, V3
+   Pahlow G., 2003, SILAGE SCI TECHNOLOG, P31, DOI [DOI 10.2134/AGRONMONOGR42.C2, 10.2134/agronmonogr42.c2]
+   PLAYNE MJ, 1966, J SCI FOOD AGR, V17, P264, DOI 10.1002/jsfa.2740170609
+   Ranjit NK, 2000, J DAIRY SCI, V83, P526, DOI 10.3168/jds.S0022-0302(00)74912-5
+   SCHLEIFER KH, 1995, GENERA LACTIC ACID B, P7
+   WEDDELL JR, 2002, DEV PROD APPR P 13 I, P230
+   Weinberg ZG, 1996, FEMS MICROBIOL REV, V19, P53, DOI 10.1111/j.1574-6976.1996.tb00253.x
+   Weinberg ZG, 2002, J IND MICROBIOL BIOT, V28, P7, DOI 10.1038/sj/jim/7000207
+   WEISS N, 1992, PROKARYOTES, P1502
+   Weissbach F, 1996, LANDBAUFORSCH VOLK, V46, P10
+   Wilkins R. J, 1999, P 12 INT SIL C UPPS, P23
+   WROBEL B, 2004, GRASSLAND SCI EUROPE, V9, P978
+   Ziggers D, 2003, DAIRY BEEF, V2, P27
+NR 29
+TC 6
+Z9 6
+U1 0
+U2 8
+PU LITHUANIAN RESEARCH CENTRE AGRICULTURE & FORESTRY
+PI KEDAINIU R
+PA ALEXANDRAS STULGINSKIS UNIV, KEDAINIU R, LT-58344, LITHUANIA
+SN 1392-3196
+J9 ZEMDIRBYSTE
+JI Zemdirbyste
+PY 2009
+VL 96
+IS 4
+BP 197
+EP 208
+PG 12
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA 555VN
+UT WOS:000274544400014
+OA DOAJ Gold
+DA 2020-08-14
+ER
+
+EF

@@ -1,0 +1,369 @@
+# -----------------表1：论文表----------------------
+# 查找PY为空的数据并通过手动查找后补全
+-- SELECT * FROM paper
+-- WHERE PY is null
+
+
+
+
+# -----------------表2：papaer_country表------------
+# 规范美国相关数据
+-- UPDATE papaer_country
+-- set country_new="USA"
+-- WHERE country like "% USA"
+
+# 补齐剩余国家的
+-- UPDATE papaer_country
+-- set country_new=country
+-- WHERE country_new is null
+
+# 规范英国相关数据
+-- UPDATE papaer_country
+-- set country_new="UK"
+-- where country_new in ("England", "Scotland", "Wales", "North Ireland")
+
+# 复制机构列到新列
+-- UPDATE papaer_country
+-- set org_new = org
+
+# 规范INRA相关，54条
+-- UPDATE paper_country
+-- set org_new="INRA"
+-- WHERE country_new = "France" and org_new like "%INRA%"
+
+
+# 规范中科院相关，78条
+-- UPDATE paper_country
+-- set org_new="Chinese Acad Sci"
+-- where country_new = "Peoples R China" and org like "%Chinese Acad Sci%"
+
+
+# 规范中国农业大学相关，2条
+-- UPDATE paper_country
+-- set org_new="China Agr Univ"
+-- where country_new = "Peoples R China" and org_new like "%China Agr Univ%" and org_new not like "%South China%" and org_new not like "%S China%"
+
+
+# 规范中国农业科学院相关，2条
+-- UPDATE paper_country
+-- set org_new="Chinese Acad Agr Sci"
+-- where country_new = "Peoples R China" and org_new like "%Chinese Acad Agr Sci%"
+
+
+# 规范加拿大农业与农业食品相关，6条
+-- UPDATE paper_country
+-- set org_new="Agr & Agri Food Canada"
+-- where country_new = "Canada" and (org_new like "%Agr & Agri Food%"  or org_new like "%AAFC%")
+
+
+# 规范美国Samuel Roberts Noble基金会相关，2条
+-- UPDATE paper_country
+-- set org_new="Samuel Roberts Noble Fdn Inc"
+-- where country_new = "USA" and org_new like "%Samuel Roberts Noble%"  
+
+
+# 规范美国农业部相关，291条
+-- UPDATE paper_country
+-- set org_new="USA ARS"
+-- where country_new = "USA" and org_new like "%ARS%" and org_new not like "%Mars%" 
+
+
+# 规范兰州农业大学相关，1条
+-- UPDATE paper_country
+-- set org_new="Lanzhou Univ"
+-- where country_new = "Peoples R China" and org_new like "%Lanzhou Univ%"
+
+
+# 规范法国CNRS相关，10条
+-- UPDATE paper_country
+-- set org_new="CNRS"
+-- where country_new = "France" and org_new like "%CNRS%"
+
+
+# 规范美国Univ Minnesota相关，1条
+-- UPDATE paper_country
+-- set org_new="Univ Minnesota"
+-- where country_new = "USA" and org_new like "%Minnesota%"
+
+
+# 规范法国图卢兹大学相关，7条
+-- UPDATE paper_country
+-- set org_new="Univ Toulouse"
+-- where country_new = "France" and org_new like "%Univ Toulouse%"
+
+
+# 规范西班牙国家研究委员会相关，41条
+-- UPDATE paper_country
+-- set org_new="CSIC"
+-- where country_new = "Spain" and (org_new like "%National Research Council%" or org_new like "%CSIC%")
+
+
+# 规范美国威斯康星大学相关，7条
+-- UPDATE paper_country
+-- set org_new="Univ Wisconsin"
+-- where country_new = "USA" and org_new like "%Univ Wisconsin%" 
+-- 
+
+# 规范中国西北农林科技大学相关，1条
+-- UPDATE paper_country
+-- set org_new="Northwest A&F Univ"
+-- where country_new = "Peoples R China" and org_new like "%Northwest A&F Univ%" 
+-- 
+
+# 规范美国犹他大学相关，2条
+-- UPDATE paper_country
+-- set org_new="Utah State Univ"
+-- where country_new = "USA" and org_new like "%Utah%" 
+
+
+# 规范美国康奈尔相关，1条
+-- UPDATE paper_country
+-- set org_new="Cornell Univ"
+-- where country_new = "USA" and (org_new like "%Cornell Univ%")
+
+
+# 规范伊朗的伊斯兰阿扎德大学相关，1条
+-- UPDATE paper_country
+-- set org_new="Islamic Azad Univ"
+-- where country_new = "Iran" and (org_new like "%Islamic Azad Univ%")
+
+
+# 规范突尼斯相关，20条
+-- UPDATE paper_country
+-- set org_new="Ctr Biotechnol Borj Cedria"
+-- where country_new = "Tunisia" and (org_new like "%Biotechnol%" and org_new like "%Ctr%" and org_new not like "%Sfax%")
+
+
+# 规范美国华盛顿大学相关，4条
+-- UPDATE paper_country
+-- set org_new="Washington State Univ"
+-- where country_new = "USA" and (org_new like "%Washington%")
+
+
+# 规范美国佛罗里达大学相关，10条
+-- UPDATE paper_country
+-- set org_new="Univ Florida"
+-- where country_new = "USA" and (org_new like "%Florida%")
+
+
+# 规范荷兰 瓦赫宁根大学相关，9条
+-- UPDATE paper_country
+-- set org_new="Wageningen Univ"
+-- where country_new = "Netherlands" and (org_new like "%Wageningen%") and (org_new like "%Univ%")
+
+
+# 规范比利时 根特大学相关，9条
+-- UPDATE paper_country
+-- set org_new="Univ Ghent"
+-- where country_new = "Belgium" and (org_new like "%Ghent%")
+
+# 规范意大利CNR，9条
+-- UPDATE paper_country
+-- set org_new="CNR"
+-- where country_new = "Italy" and (org_new like "%CNR%")
+
+# 规范美国 Noble Res Inst，19条
+-- UPDATE paper_country
+-- set org_new="Noble Res Inst"
+-- where country_new = "USA" and (org_new like "%Noble Res Inst%")
+-- 
+# 规范Argentina  Consejo Nacl Invest Cient & Tecn，35条
+-- UPDATE paper_country
+-- set org_new="Consejo Nacl Invest Cient & Tecn"
+-- where country_new = "Argentina" and (org_new like "%Consejo Nacl Invest Cient & Tecn%")
+
+# 规范英国 John Innes Ctr，8条
+-- UPDATE paper_country
+-- set org_new="John Innes Ctr"
+-- where country_new = "UK" and (org_new like "%John Innes Ctr%")
+
+# 规范Australia Univ Queensland，10条
+-- UPDATE paper_country
+-- set org_new="Univ Queensland"
+-- where country_new = "Australia" and (org_new like "%Queensland%" and org_new like "%Univ%") 
+
+# 规范中国 Zhejiang Univ，1条
+-- UPDATE paper_country
+-- set org_new="Zhejiang Univ"
+-- where country_new = "Peoples R China" and (org_new like "%Zhejiang Univ%") 
+
+
+# ------------------表3：paper_financial表--------------
+# 复制资金来源列到新列
+-- UPDATE paper_financial
+-- set financial_name_new = financial_name
+
+
+# 规范资助机构名称
+# 1、国家重点研发项目，统一改成缩写形式
+-- UPDATE paper_financial_new
+-- SET financial_name_new="National Key R&D Program of China"   
+-- WHERE financial_name_new like "%National Key R & D Program of China%"    # 2条
+-- WHERE financial_name_new="National Key Research and Development Program of China"  # 52条
+
+
+# 2、国家自然科学基金规范
+-- UPDATE paper_financial_new
+-- SET financial_name_new="National Natural Science Foundation of China"
+-- WHERE financial_name_new 
+-- like "%National Nature Science Foundation of China%"    # 1条
+-- like "%National Natural Science Foundation of China%"  # 637条
+-- = "National Science Foundation of Gansu Province"
+
+
+# 3、美国国家自然科学基金规范
+-- UPDATE paper_financial_new
+-- SET financial_name_new="National Science Foundation (NSF)"
+-- WHERE financial_name_new like "%(NSF)%"      # 254条
+-- WHERE financial_name_new like "%(under NSF)%" # 1条
+-- WHERE financial_name_new like "%(NSF%"    # 2条
+-- WHERE financial_name_new like "%National Science Foundation%" 
+-- and financial_name_new like "%Arkansas Center for Plant-Powered Production%"   # 2条
+-- WHERE financial_name_new  
+-- = "National Science Foundation Plant Genome Grants"   # 1条
+-- = "US National Science Foundation Integrated Organismal Systems"   # 1条
+-- = "National Science Foundation Grant Integrative Organismal Systems"  # 1条
+-- = "United States National Science Foundation Plant Genome Program"  # 1条
+-- = "Cornell's IGERT Program in Nonlinear Systems (National Science Foundation)"  # 1条
+-- = "Noble Foundation was from an equipment grant from the National Science Foundation"  # 1条
+-- = "National Science Foundation Molecular and Cellular Biosciences Award"  # 1条
+-- = "National Science Foundation USA"   # 1条
+-- = "REU from U.S. National Science Foundation"   # 1条
+
+-- -- = "National Science Foundation Grant Integrative Organismal Systems"
+-- --       and financial_name_new not LIKE "%China%"
+-- -- = "National Science Foundation Project ROOTEDNESS"
+-- -- = "National Science Foundation Project ADAMANT"
+-- -- = "United States National Science Foundation Plant Genome Program"
+-- -- = "Cornell's IGERT Program in Nonlinear Systems (National Science Foundation)"
+-- -- = "Noble Foundation was from an equipment grant from the National Science Foundation"
+-- -- = "National Science Foundation Molecular and Cellular Biosciences Award"
+-- -- = "National Science Foundation USA"
+-- = "REU from U.S. National Science Foundation"
+
+
+-- # 4、中央高校基础研究经费规范, 92条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Fundamental Research Funds for the Central Universities"
+-- WHERE financial_name_new like "%Fundamental Research Funds for the Central Universities%" 
+-- 
+
+# 5、诺贝尔基金会规范，7条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Samuel Roberts Noble Foundation"
+-- WHERE financial_name_new like "%Noble Foundation%"
+
+
+# 6、国家基础研究计划规范
+-- UPDATE paper_financial_new
+-- SET financial_name_new="National Basic Research Program of China(973 program)"
+-- WHERE financial_name_new like "%National Basic Research Program of China%" and financial_name_new like "%973%"   ，58条
+-- WHERE financial_name_new like "%National Basic Research Program of China%"   # 88条
+
+# 7、英国BBSRC规范，76条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Biotechnology and Biological Sciences Research Council (BBSRC)"
+-- WHERE financial_name_new like "%(BBSRC%"
+
+# 8、中国博士后科学基金规范，55条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="China Postdoctoral Science Foundation"
+-- WHERE financial_name_new like "%China Postdoctoral Science Foundation%" 
+
+# 9、中国农业研究体系规范，28条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="China Agriculture Research System"
+-- WHERE financial_name_new like "%China Agriculture Research System%"
+
+# 10、中国牧草研究系统规范，2条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="China Forage and Grass Research System"
+-- WHERE financial_name_new like "%China Forage and Grass Research System%"
+
+# 11、加拿大农业和农业食品规范，64条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Agriculture and Agri-Food Canada(AAFC)"
+-- WHERE financial_name_new like "%Agriculture and Agri-Food Canada%"
+--       and financial_name_new not like "%(CAP)%"
+-- 			AND financial_name_new not like "%(IRIA)%"
+-- 			AND financial_name_new not like "%MOE%"
+
+
+# 12、欧盟数据规范， 142条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="European Union(EU)"
+-- WHERE financial_name_new like "%European Union%"
+--  and financial_name_new <> "European Union Grain Legumes Integrated Project and Andalusian project"
+ 
+ 
+# 13、澳大利亚研究理事会规范，64条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Australian Research Council"
+-- WHERE financial_name_new like "%Australian Research Council%"
+-- 
+
+# 14、中国科学院规范，93条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Chinese Academy of Sciences"
+-- WHERE financial_name_new like "%Chinese Academy of Sciences%"
+
+# 15、俄罗斯BFBR规范，26条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Russian Foundation for Basic Research (RFBR)"
+-- WHERE financial_name_new like "%(RFBR%"
+-- 
+
+# 16、澳大利亚谷物研发公司，39条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Grains Research and Development Corporation"
+-- WHERE financial_name_new like "%Grains Research and Development Corporation%"
+
+# 17、欧洲研究理事会，36条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="European Research Council"
+-- WHERE financial_name like "%European Research Council%" and financial_name not like "%under%"
+
+# 18、中国奖学金委员会，38条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="China scholarship council"
+-- WHERE financial_name_new like "%China scholarship council%"
+
+# 19、饲料遗传学国际，2条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Forage Genetics International"
+-- WHERE financial_name_new like "%Forage Genetics International%"
+
+# 20、江苏自然科学基金规范，28条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="Natural Science Foundation of Jiangsu Province"
+-- WHERE financial_name_new like "%Natural Science Foundation of Jiangsu Province%"
+
+# 21、美国农业部，178条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="United States Department of Agriculture(USDA)"
+-- WHERE financial_name_new like "%(USDA)%"
+
+# 22、欧洲研究理事会——》欧盟，37条
+-- UPDATE paper_financial_new
+-- SET financial_name_new="European Union(EU)"
+-- WHERE financial_name_new like "%European Research Council%"
+-- 
+# 18、加拿大自然科学与工程研究委员会规范
+-- UPDATE paper_financial
+-- SET financial_name_new="Natural Sciences and Engineering Research Council of Canada (NSERC)"
+-- WHERE financial_name_new like "%(NSERC%"
+-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
